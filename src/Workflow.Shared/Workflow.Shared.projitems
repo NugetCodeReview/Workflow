@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects Condition="'$(MSBuildVersion)' == '' Or '$(MSBuildVersion)' &lt; '16.0'">$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>39549351-8b84-4860-a5b5-ef5515948aca</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Workflow</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)GlobalUsings.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HostAppBuilder.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Hyperlink.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)NugetOrg.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PackageListing.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PackagesConfig.cs" />
+  </ItemGroup>
+</Project>

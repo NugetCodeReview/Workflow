@@ -1,0 +1,33 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "nuke",
+			"target": "Compile",
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"label": "nuke: Compile",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"type": "nuke",
+			"target": "Clean",
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"label": "nuke: Clean"
+		},
+		{
+			"type": "nuke",
+			"target": "Restore",
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"label": "nuke: Restore"
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+  "commands": {
+    "test-ps": {
+      "fileName": "pwsh.exe",
+      "workingDirectory": ".",
+      "arguments": "-ExecutionPolicy Bypass -NonInteractive -File test-ps.ps1"
+    }
+  }
+}
