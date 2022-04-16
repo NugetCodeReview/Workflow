@@ -1,26 +1,30 @@
 ﻿//using System.Runtime.Remoting.Messaging;
+using System.Collections.Concurrent;
 using System.Runtime.Serialization;
+using System.Text;
 using System.Text.RegularExpressions;
+
 using Microsoft.Extensions.Options;
+
+using Newtonsoft.Json;
+
 using Workflow.Shared;
 
 namespace Workflow;
-public record PackageListing(int Rank, string PackageName, string PackageListingUrl)
+public record PackageListing(int Rank, string? PackageName, string? PackageListingUrl) : IAsJson
 {
+    public PackageListing() : this(-1, null, null) { }
+
     static PackageListing()
     {
-        Console.WriteLine($"static PackageListing(): Entered.");
+        //Console.WriteLine($"static PackageListing(): Entered.");
         try
         {
-            _configuration = Options.Create(new PackagesConfig()).Value;
-            var config = HostAppBuilder.AppHost.Services.GetService<IConfiguration>();
-
-            if (config is not null)
+            Config ??= HostAppBuilder.AppHost.Services.GetRequiredService<PackagesConfig>();
+            if (Config is not null)
             {
-                config.GetSection("Packages").Bind(_configuration);
-
                 _expressions = new();
-                foreach (var pattern in _configuration.Whitelist ?? Array.Empty<string>())
+                foreach (var pattern in Config.Whitelist ?? Array.Empty<string>())
                 {
                     var regex = new Regex(pattern, RegexOptions.Singleline);
                     _expressions.Add(regex);
@@ -28,6 +32,7 @@ public record PackageListing(int Rank, string PackageName, string PackageListing
             }
             else
             {
+                Config = new PackagesConfig();
                 _expressions = new List<Regex>();
             }
         }
@@ -37,16 +42,20 @@ public record PackageListing(int Rank, string PackageName, string PackageListing
         }
         finally
         {
-            Console.WriteLine($"static PackageListing(): Finalize.");
+            //Console.WriteLine($"static PackageListing(): Finalize.");
         }
     }
 
     const string ownersNodesXpath = "/html/body/div[2]/section/div/aside/div[3]/ul/li";
-    const string sourceRepositoryXpath = "/html/body/div[2]/section/div/aside/div[2]/ul/li/a";
-    const string downloadPackageXpath = "/html/body/div[2]/section/div/aside/div[2]/ul/li[5]/a";
-    const string downloadSymbolsPackageXpath = "/html/body/div[2]/section/div/aside/div[2]/ul/li[6]/a";
-    private static readonly PackagesConfig _configuration;
+    const string anchorsXpath = "/html/body/div[2]/section/div/aside/div[2]/ul/li/a";
     private static readonly List<Regex> _expressions;
+
+    public override string ToString()
+        => $"{Rank}: {PackageName} - {OwnerNames}";
+
+    [JsonIgnore]
+    private static PackagesConfig Config { get; set; }
+
 
     internal void GetDetails(string baseUrl)
     {
@@ -68,6 +77,18 @@ public record PackageListing(int Rank, string PackageName, string PackageListing
                 // Console.Error.WriteLine("listing is null");
                 return;
             }
+
+            var packageDirectory =
+                Path.Combine(Config.DownloadFolder, JsonManager.TodayString, PackageName);
+
+            if (!Directory.Exists(packageDirectory))
+            {
+                Directory.CreateDirectory(packageDirectory);
+            }
+
+            var htmlFileName = Path.Combine(packageDirectory, "package.html");
+
+            File.WriteAllText(htmlFileName, listing, System.Text.Encoding.UTF8);
 
             var doc = new HtmlDocument();
             doc.LoadHtml(listing);
@@ -94,7 +115,7 @@ public record PackageListing(int Rank, string PackageName, string PackageListing
                 Console.Error.WriteLine("_expressions is null");
             }
 
-            var anchorNodes = doc.DocumentNode.SelectNodes(sourceRepositoryXpath);
+            var anchorNodes = doc.DocumentNode.SelectNodes(anchorsXpath);
             if (anchorNodes is { Count: > 0})
             {
                 foreach (var anchorNode in anchorNodes)
@@ -113,10 +134,12 @@ public record PackageListing(int Rank, string PackageName, string PackageListing
 
                         case "Download package":
                             Package = parsedAnchor;
+                            DownloadPackage(baseUrl);
                             break;
 
                         case "Download symbols":
                             SymbolsPackage = parsedAnchor;
+                            DownloadSymbolsPackage(baseUrl);
                             break;
                     }
                 }
@@ -126,25 +149,11 @@ public record PackageListing(int Rank, string PackageName, string PackageListing
                 Console.Error.WriteLine("anchorNodes is null or empty");
             }
 
-            //var downloadPackageNode = doc.DocumentNode.SelectSingleNode(downloadPackageXpath);
-            //if (downloadPackageNode is not null)
-            //{
-            //    Package = ParseAnchor(downloadPackageNode);
-            //}
-            //else
-            //{
-            //    Console.Error.WriteLine("downloadPackageNode is null");
-            //}
+            var jsonFileName = Path.Combine(packageDirectory, "package.json");
 
-            //var downloadSymbolsPackageNode = doc.DocumentNode.SelectSingleNode(downloadSymbolsPackageXpath);
-            //if (downloadSymbolsPackageNode is not null)
-            //{
-            //    SymbolsPackage = ParseAnchor(downloadSymbolsPackageNode);
-            //}
-            //else
-            //{
-            //    Console.Error.WriteLine("downloadSymbolsPackageNode is null");
-            //}
+            var json = ToJson();
+
+            File.WriteAllText(jsonFileName, json, Encoding.UTF8);
         }
         catch (Exception ex)
         {
@@ -154,6 +163,26 @@ public record PackageListing(int Rank, string PackageName, string PackageListing
         {
             //Log.Information($"GetDetails(string baseUrl): {Rank} - {PackageName}: Finally");
         }
+    }
+
+    internal Task<string> DownloadPackage(string baseUrl)
+    {
+        if (Package is not null)
+        {
+            return NugetOrg.GetPackage(new(new Uri(baseUrl), Package.Url), PackageName!);
+        }
+
+        return Task.FromResult(string.Empty);
+    }
+
+    internal Task<string> DownloadSymbolsPackage(string baseUrl)
+    {
+        if (SymbolsPackage is not null)
+        {
+            return NugetOrg.GetPackage(new(new Uri(baseUrl), SymbolsPackage.Url), PackageName!);
+        }
+
+        return Task.FromResult(string.Empty);
     }
 
     private Hyperlink? ParseAnchor(HtmlNode node)
@@ -186,10 +215,27 @@ public record PackageListing(int Rank, string PackageName, string PackageListing
         }
     }
 
+    public string ToJson()
+    {
+        return JsonConvert.SerializeObject(this, JsonManager.JsonSettings);
+    }
+
+    public PackageListing? FromJson<PackageListing>(string json)
+    {
+        return JsonConvert.DeserializeObject<PackageListing>(json, JsonManager.JsonSettings);
+    }
+
+    [JsonIgnore]
+    public string OwnerNames => string.Join(", ", (Owners?.Select(o => o.Text) ?? new List<string>()));
+
+    [JsonRequired]
     public List<Hyperlink>? Owners { get; private set; }
-    public string OwnerNames => string.Join(", ", Owners.Select(o => o.Text));
+    [JsonProperty]
     public Hyperlink? Repository { get; private set; }
+    [JsonProperty]
     public Hyperlink? Package { get; private set; }
+    [JsonProperty]
     public Hyperlink? SymbolsPackage { get; private set; }
+    [JsonRequired]
     public bool IsWhitelisted { get; private set; }
 }

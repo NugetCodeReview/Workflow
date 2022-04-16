@@ -6,17 +6,12 @@
     "build": {
       "type": "object",
       "properties": {
-        "Configuration": {
-          "type": "string",
-          "description": "Configuration to build - Default is 'Debug' (local) or 'Release' (server)",
-          "enum": [
-            "Debug",
-            "Release"
-          ]
-        },
         "Continue": {
           "type": "boolean",
           "description": "Indicates to continue a previously failed build attempt"
+        },
+        "Force": {
+          "type": "boolean"
         },
         "Help": {
           "type": "boolean",
@@ -71,16 +66,11 @@
           "items": {
             "type": "string",
             "enum": [
-              "Clean",
-              "Compile",
-              "PsModule",
-              "Restore"
+              "DownloadTop100",
+              "GetTop100",
+              "Help"
             ]
           }
-        },
-        "Solution": {
-          "type": "string",
-          "description": "Path to a solution file that is automatically loaded. Default is Workflow.sln"
         },
         "Target": {
           "type": "array",
@@ -88,10 +78,9 @@
           "items": {
             "type": "string",
             "enum": [
-              "Clean",
-              "Compile",
-              "PsModule",
-              "Restore"
+              "DownloadTop100",
+              "GetTop100",
+              "Help"
             ]
           }
         },

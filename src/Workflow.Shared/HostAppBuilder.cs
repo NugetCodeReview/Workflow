@@ -1,4 +1,6 @@
-﻿namespace Workflow.Shared;
+﻿using Microsoft.Extensions.Options;
+
+namespace Workflow.Shared;
 
 public static class HostAppBuilder
 {
@@ -46,6 +48,15 @@ public static class HostAppBuilder
             builder.ConfigureServices(collection =>
             {
                 collection.AddTransient<HttpClient>();
+                collection.AddTransient(services =>
+                {
+                    var userProfile = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile);
+                    var configuration = Options.Create(new PackagesConfig()).Value;
+                    services.GetService<IConfiguration>()?.GetSection("Packages").Bind(configuration);
+                    configuration.ConfigFolder = configuration.ConfigFolder?.Replace("~", userProfile)
+                                                    ?? GetDefaultConfigFolder();
+                    return configuration;
+                });
             });
 
             return AppHost = builder.Build();
@@ -57,12 +68,15 @@ public static class HostAppBuilder
         }
     }
 
+    private static string GetDefaultConfigFolder()
+        => Path.Combine(
+            Environment.GetFolderPath(
+                Environment.SpecialFolder.UserProfile),
+            ".nugetCodeReview");
+
     private static void CreateLogger()
     {
-        string path = Path.Combine(
-            Environment.GetFolderPath(Environment.SpecialFolder.UserProfile),
-            ".homeschool"
-        );
+        string path = Path.Combine(GetDefaultConfigFolder(), "Logs");
 
         try
         {

@@ -54,10 +54,11 @@ public class GetTopPackagesCmdletCommand : PSCmdlet
         if (IsVerbose) WriteVerbose($"Completed {counter} of {items}: {status}");
         WriteProgress(new ProgressRecord(counter, status, $"Completed {counter} of {items}"));
         // Log.Information($"Completed {counter} of {items}: {status}");
+        Console.Write($"{(counter % 10 == 0 ? "*" : ".")}");
     }
 
     // This method will be called for each input received from the pipeline to this cmdlet; if no input is received, this method is not called
-    protected override void ProcessRecord()
+    protected override async void ProcessRecord()
     {
         try
         {
@@ -84,35 +85,47 @@ public class GetTopPackagesCmdletCommand : PSCmdlet
                 Log.Information(m);
             }
 
-            var userProfile = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile);
-            var configFolder = Path.Combine(userProfile, ".nugetWorkflow");
+            var config = HostAppBuilder.AppHost!.Services.GetRequiredService<PackagesConfig>();
 
-            var todayFilename = Path.Combine(configFolder, $"top-packages-{DateTimeOffset.UtcNow:yyyy-MM-dd}.json");
-
-            if (Force || !File.Exists(todayFilename))
+            if (Force || !JsonManager.TodayFile.Exists)
             {
+                Log.Debug("Pulling Live Data.");
+
                 List<PackageListing> results = new();
 
-                foreach (var result in NugetOrg.GetPackages(NugetOrg.GetHtmlForPackages(), IncludeDetails))
+                var html = NugetOrg.GetHtmlForPackages();
+
+                Log.Information($"html length: {html.Length}");
+
+                foreach (var result in NugetOrg.GetPackages(
+                    html, IncludeDetails))
                 {
                     WriteObject(result);
                     results.Add(result);
+                    Console.Write($"{(results.Count%10==0?"+":"-")}");
                 }
 
-                var json = JsonConvert.SerializeObject(results);
-
-                if (!Directory.Exists(configFolder))
+                if (!config.ConfigDirectoryInfo.Exists)
                 {
-                    Directory.CreateDirectory(configFolder);
+                    config.ConfigDirectoryInfo.Create();
                 }
 
-                File.WriteAllText(todayFilename, json);
+                if (await results.Save())
+                {
+                    Log.Debug($"Saved Json. {JsonManager.TodayFile}");
+                }
+                else
+                {
+                    Log.Error($"Failed to save Json. {JsonManager.TodayFile}");
+                }
             }
             else
             {
-                var json = File.ReadAllText(todayFilename);
+                Log.Debug($"Using Existing Json. {JsonManager.TodayFile}");
 
-                var results = JsonConvert.DeserializeObject<PackageListing[]>(json);
+                var results = JsonManager.TodayFile
+                                         .FullName
+                                         .DeserializeObject<List<PackageListing>>();
 
                 WriteObject(results);
             }

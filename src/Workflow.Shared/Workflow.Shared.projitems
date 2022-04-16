@@ -12,6 +12,8 @@
     <Compile Include="$(MSBuildThisFileDirectory)GlobalUsings.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)HostAppBuilder.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Hyperlink.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IAsJson.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)JsonManager.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)NugetOrg.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)PackageListing.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)PackagesConfig.cs" />

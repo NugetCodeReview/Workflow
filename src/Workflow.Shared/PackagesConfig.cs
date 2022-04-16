@@ -4,4 +4,8 @@
     public string[]? Blacklist { get; set; }
     public string? DownloadFolder { get; set; }
     public string? GitRoot { get; set; }
+
+    public string? ConfigFolder { get; set; }
+
+    public DirectoryInfo ConfigDirectoryInfo => new (ConfigFolder);
 }

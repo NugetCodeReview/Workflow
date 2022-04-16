@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Workflow": {
+      "commandName": "Project",
+      "commandLineArgs": "-Force"
+    }
+  }
+}

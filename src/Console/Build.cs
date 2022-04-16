@@ -19,6 +19,9 @@ class Build : NukeBuild
 
     protected override void OnBuildFinished() { }
 
+    [Parameter]
+    bool Force { get; set; }
+
     new Target Help => _ => _
         .Executes(() =>
         {
@@ -26,11 +29,44 @@ class Build : NukeBuild
         });
 
     Target GetTop100 => _ => _
-        .Executes(() =>
+        .Executes(async () =>
         {
-            foreach(var package in NugetOrg.GetPackages(NugetOrg.GetHtmlForPackages(), true))
+            var config = HostAppBuilder.AppHost!.Services.GetRequiredService<PackagesConfig>();
+
+            if (Force || !JsonManager.TodayFile.Exists)
             {
-                Log.Debug(package.ToString());
+                List<PackageListing> results = new();
+
+                var html = NugetOrg.GetHtmlForPackages();
+                Log.Information($"html length: {html.Length}");
+
+                foreach (var package in NugetOrg.GetPackages(html, true))
+                {
+                    results.Add(package);
+                    Log.Information(package.ToString());
+                }
+
+                if (await results.Save())
+                {
+                    Log.Debug($"Saved Json. {JsonManager.TodayFile}");
+                }
+                else
+                {
+                    Log.Error($"Failed to save Json. {JsonManager.TodayFile}");
+                }
+            }
+            else
+            {
+                Log.Debug($"Using Existing Json. {JsonManager.TodayFile}");
+
+                List<PackageListing> results = (await JsonManager.TodayFile
+                                         .FullName
+                                         .DeserializeObject<List<PackageListing>>())!;
+
+                foreach(var package in results)
+                {
+                    Log.Information(package.ToString());
+                }
             }
         });
 
