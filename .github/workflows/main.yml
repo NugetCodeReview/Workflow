@@ -39,3 +39,24 @@ jobs:
           path: '${{ github.workspace }}/artifacts/workflow.zip'
           if-no-files-found: warn
           retention-days: 90
+
+  PullTop100:
+    needs: [ build ]
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Download a Build Artifact
+        uses: actions/download-artifact@v3.0.0
+#         with:
+#           name: Workflow-Artifacts-Console
+#           path: ${{ github.workspace }}
+
+      # Runs a set of commands using the runners shell
+      - name: Pull Top 100
+        run: |
+          unzip workflow.zip
+          ls -al
+          
