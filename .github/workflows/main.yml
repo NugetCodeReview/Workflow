@@ -21,13 +21,13 @@ jobs:
 
       - name: Build
         run: cd ${root}; pwsh ${root}/.github/workflows/bootstrap.ps1
-         
+
       - run: ls -al ${artifacts}
-     
+
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v3.0.0
         with:
           name: Workflow-Artifacts
-          path: '${{ github.workspace }}/artifacts/**/*'
+          path: '${{ github.workspace }}/artifacts/*.zip'
           if-no-files-found: warn
           retention-days: 90

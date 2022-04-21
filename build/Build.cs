@@ -111,6 +111,9 @@ class Build : NukeBuild
                 ;
 
             DotNetTasks.DotNetPublish(settings);
+
+            CompressionTasks.CompressZip(ArtifactsDirectory / "workflow", ArtifactsDirectory / "workflow.zip");
+            Directory.Delete(ArtifactsDirectory / "workflow", true);
         });
     Target PsModule => _ => _
         .DependsOn(Compile)
@@ -164,27 +167,15 @@ class Build : NukeBuild
                 DirectoryExistsPolicy.Merge,
                 FileExistsPolicy.OverwriteIfNewer);
 
-            //foreach(var file in source)
-            //{
-            //    if (File.Exists(file))
-            //    {
-            //        CopyFileToDirectory(file, destination, FileExistsPolicy.OverwriteIfNewer, false);
-            //    }
-            //}
+            var ps = (ArtifactsDirectory / "PS").GlobFiles("*");
 
-            //var f = $"{Environment.GetFolderPath(Environment.SpecialFolder.UserProfile)}/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll";
-            //if (File.Exists(f))
-            //{
-            //    CopyFileToDirectory(
-            //        f,
-            //        destination,
-            //        FileExistsPolicy.Overwrite,
-            //        false);
-            //}
-            //else
-            //{
-            //    Serilog.Log.Error($"missing: {f}");
-            //}
+            if(ps.Count is 0)
+            {
+                throw new ApplicationException($"PS Module not published to {ArtifactsDirectory}");
+            }
+
+            CompressionTasks.CompressZip(ArtifactsDirectory / "PS", ArtifactsDirectory / "powershell.zip");
+            Directory.Delete(ArtifactsDirectory / "PS", true);
         });
 
 }
