@@ -27,17 +27,16 @@ jobs:
       root: ${{ github.workspace }}
       artifacts: '${{ github.workspace }}/artifacts'
 
-    if: ${{ github.event.action == 'push'}}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       
       - name: Build
+        if: ${{ github.event.action == 'push'}}
         run: cd ${root}; pwsh ${root}/.github/workflows/bootstrap.ps1
 
-      - run: ls -al ${artifacts}
-
       - name: Upload Powershell Artifact
+        if: ${{ github.event.action == 'push'}}
         uses: actions/upload-artifact@v3.0.0
         with:
           name: Workflow-Artifacts-PS
@@ -46,6 +45,7 @@ jobs:
           retention-days: 90
           
       - name: Upload Console Artifact
+        if: ${{ github.event.action == 'push'}}
         uses: actions/upload-artifact@v3.0.0
         with:
           name: Workflow-Artifacts-Console
@@ -61,7 +61,7 @@ jobs:
       artifacts: '${{ github.workspace }}/artifacts'
 
     if: ${{ github.event.action == null}}
-    needs: [ build ]
+#     needs: [ build ]
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
