@@ -24,6 +24,5 @@ jobs:
         # uses: Amadevus/pwsh-script@1f1751bbf3d1a92127bfc6c32403283625880cbf
         uses: Amadevus/pwsh-script@v2.0.1
         with:
-          id: build
           script: .github/workflows/bootsrap.ps1
           working-directory: ${{ build.workspace }}
