@@ -24,10 +24,18 @@ jobs:
 
       - run: ls -al ${artifacts}
 
-      - name: Upload a Build Artifact
+      - name: Upload Powershell Artifact
         uses: actions/upload-artifact@v3.0.0
         with:
-          name: Workflow-Artifacts
-          path: '${{ github.workspace }}/artifacts/*.zip'
+          name: Workflow-Artifacts-PS
+          path: '${{ github.workspace }}/artifacts/powershell.zip'
+          if-no-files-found: warn
+          retention-days: 90
+          
+      - name: Upload Console Artifact
+        uses: actions/upload-artifact@v3.0.0
+        with:
+          name: Workflow-Artifacts-Console
+          path: '${{ github.workspace }}/artifacts/workflow.zip'
           if-no-files-found: warn
           retention-days: 90
