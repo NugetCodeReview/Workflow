@@ -1,12 +1,16 @@
 Write-Host "bootstrap: Entered"
-$root = $github.workspace
+$root = $env:root ?? (Get-Location)
+Write-Host "`$env:root: $env:root"
 Write-Host "`$root: $root"
+push-location
 if(Test-Path $root){
     try{
-        push-location -Verbose
-        set-location $root -Verbose
-        Get-Location -Verbose
-        dir -Verbose
+        $result=Set-Location -Path $root
+        Write-Host "`$result: $result"
+
+        $at = Get-Location
+        Write-Host "At: $at"
+        dir $at
 
         if(Test-Path ./build.ps1){
             $build = get-item ./build.ps1
@@ -15,6 +19,9 @@ if(Test-Path $root){
             . $build PsModule Publish -Verbose
             $last = $LASTEXITCODE
             Write-Host "After build.ps1 ($last)"
+            if(Test-Path artifacts){
+                dir artifacts
+            }
         } else {
             Write-Host "Cannot find ./build.ps1"
         }

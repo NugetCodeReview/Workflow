@@ -25,3 +25,5 @@ jobs:
         uses: Amadevus/pwsh-script@v2.0.1
         with:
           script: ${{ github.workspace }}/.github/workflows/bootstrap.ps1
+        env:
+          root: ${{ github.workspace }}
