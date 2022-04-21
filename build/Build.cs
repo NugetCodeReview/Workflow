@@ -102,7 +102,7 @@ class Build : NukeBuild
                 .SetDeterministic(true)
                 .SetRuntime("linux-x64")
                 .SetSelfContained(true)
-                .SetPublishReadyToRun(true)
+                .SetPublishReadyToRun(false)
                 .SetPublishSingleFile(true)
                 .SetOutput(ArtifactsDirectory / "workflow")
                 ;

@@ -26,10 +26,11 @@ if(Test-Path $root){
             Write-Host "Cannot find ./build.ps1"
         }
 
-        $found = $(Test-Path $root/publish/Workflow)
+        $found = $(Test-Path $root/artifacts/workflow/Workflow)
         Write-Host "`$found: $found"
 
-        echo "::set-output name=workflow::./publish/Workflow"
+        $workflowPath = (Get-ChildItem Workflow -Path $root/artifacts/workflow).FullName
+        echo "::set-output name=workflow::$workflowPath"
     } finally {
         Write-Host "bootstrap: Finally"
         pop-location
