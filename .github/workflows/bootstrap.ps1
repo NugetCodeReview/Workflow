@@ -19,6 +19,7 @@ if(Test-Path $root){
             . $build PsModule Publish -Verbose
             $last = $LASTEXITCODE
             Write-Host "After build.ps1 ($last)"
+            if($last -ne 0) { throw "$build returned exit code $last"; }
             if(Test-Path artifacts){
                 dir artifacts
             }

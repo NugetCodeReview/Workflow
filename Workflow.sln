@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_build", "build\_build.cspr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{328F171C-3AB9-4A3D-8045-22F5B392C117}"
 	ProjectSection(SolutionItems) = preProject
+		.github\workflows\bootstrap.ps1 = .github\workflows\bootstrap.ps1
+		.github\workflows\codeql.yml = .github\workflows\codeql.yml
 		commands.json = commands.json
 		.github\workflows\main.yml = .github\workflows\main.yml
 		test-ps.ps1 = test-ps.ps1
