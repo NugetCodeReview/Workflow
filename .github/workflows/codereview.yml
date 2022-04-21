@@ -21,9 +21,9 @@ jobs:
       
       - name: Download a Build Artifact
         uses: actions/download-artifact@v3.0.0
-        with:
-          name: Workflow-Artifacts-Console
-          path: ${{ github.workspace }}
+#         with:
+#           name: Workflow-Artifacts-Console
+#           path: ${{ github.workspace }}
 
       # Runs a set of commands using the runners shell
       - name: Pull Top 100
