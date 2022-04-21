@@ -116,7 +116,13 @@ class Build : NukeBuild
         .DependsOn(Compile)
         .Executes(() =>
         {
-            var destination = SourceDirectory / "Workflow.Commands" / "bin" / Configuration / "net6.0";
+            var destination = SourceDirectory / "Workflow.Commands" / "bin" / Configuration;
+            var wfc = destination.GlobFiles("**/Workflow-Commands.dll").FirstOrDefault();
+
+            if(wfc is not null)
+            {
+                destination = (AbsolutePath)Path.GetDirectoryName(wfc.ToString());
+            }
 
             if (!Directory.Exists(destination))
             {
