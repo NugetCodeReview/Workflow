@@ -15,7 +15,7 @@ jobs:
     steps:
       - name: Prep 
         run: |
-          echo "Event: ${{ github.event.action }}"
+          echo "Event: ${{ github.event.type }}"
         
   build:
     env:
@@ -31,7 +31,7 @@ jobs:
         run: cd ${root}; pwsh ${root}/.github/workflows/bootstrap.ps1
 
       - name: Upload Powershell Artifact
-        if: github.event.action == 'push'
+        if: github.event.type == 'push'
         uses: actions/upload-artifact@v3.0.0
         with:
           name: Workflow-Artifacts-PS
