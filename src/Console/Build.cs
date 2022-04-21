@@ -49,6 +49,8 @@ class Build : NukeBuild
                 if (await results.Save())
                 {
                     Log.Debug($"Saved Json. {JsonManager.TodayFile}");
+
+                    Top100 = results;
                 }
                 else
                 {
@@ -63,18 +65,58 @@ class Build : NukeBuild
                                          .FullName
                                          .DeserializeObject<List<PackageListing>>())!;
 
-                foreach(var package in results)
+                Top100 = results;
+
+                foreach (var package in results)
                 {
                     Log.Information(package.ToString());
                 }
             }
         });
 
-    Target DownloadTop100 => _ => _
+    Target ForkTop100 => _ => _
         .DependsOn(GetTop100)
-        .Executes(() =>
+        .Executes(async () =>
         {
+            Func<PackageListing, bool> packageFilter = p
+                => Force || !p.IsWhitelisted && p.ForkUrl is null;
+
+            foreach (var package in Top100.Where(packageFilter))
+            {
+                var uri = await package.ForkPackageRepositoryAsync();
+                if (uri is { Length: > 0 })
+                {
+                    Log.Information($"Package {package.PackageName} forked to {uri}");
+                }
+                else
+                {
+                    Log.Warning($"Could not fork {package.PackageName}");
+                }
+
+                if (package.ForkUrl is not null)
+                {
+                    await Top100.Save();
+                }
+            }
         });
 
+    Target AddWorkflowTop100 => _ => _
+        .DependsOn(GetTop100)
+        .Executes(async () =>
+        {
+            Func<ContentItem, bool> fileFilter = i
+                => i.Name.Equals("code-review.yml", StringComparison.OrdinalIgnoreCase);
 
+            Func<PackageListing, bool> packageFilter = p
+                => Force || !p.IsWhitelisted && p.Workflows.SingleOrDefault(fileFilter) is null;
+
+            foreach (var pkg in Top100.Where(packageFilter))
+            {
+                await pkg.AddWorkflow();
+                await pkg.CreateDocs();
+                await Top100.Save();
+            }
+        });
+
+    public List<PackageListing> Top100 { get; private set; }
 }

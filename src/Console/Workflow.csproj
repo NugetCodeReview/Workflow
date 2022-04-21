@@ -11,11 +11,15 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <LangVersion>10.0</LangVersion>
+    <UserSecretsId>1fdf0b40-1aa1-4096-ae12-cc2f82ba8a37</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AzurePipelinesToGitHubActionsConverter.Core" Version="0.21.20" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="6.0.1" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
     <PackageReference Include="Nuke.Common" Version="6.1.0-ninja0213" />
+    <PackageReference Include="Octokit" Version="0.50.0" />
     <PackageReference Include="Polly" Version="7.2.3" />
     <PackageReference Include="Serilog.Extensions.Hosting" Version="4.2.0" />
     <PackageReference Include="Serilog.Sinks.File" Version="5.0.0" />

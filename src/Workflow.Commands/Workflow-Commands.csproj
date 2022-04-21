@@ -1,17 +1,21 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <AssemblyName>Workflow-Commands</AssemblyName>
     <LangVersion>10.0</LangVersion>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>0c0784b4-377f-4663-a410-520e155a8be2</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AzurePipelinesToGitHubActionsConverter.Core" Version="0.21.20" />
     <PackageReference Include="Microsoft.Bcl.AsyncInterfaces" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="6.0.1" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Octokit" Version="0.50.0" />
     <PackageReference Include="Polly" Version="7.2.3" />
     <PackageReference Include="Serilog.Extensions.Hosting" Version="4.2.0" />
     <PackageReference Include="Serilog.Sinks.File" Version="5.0.0" />
@@ -23,6 +27,7 @@
     <PackageReference Include="PowerShellStandard.Library" Version="5.1.0-preview-06">
       <PrivateAssets>All</PrivateAssets>
     </PackageReference>
+    <PackageReference Include="Nuke.Common" Version="6.1.0-ninja0213" />
   </ItemGroup>
 
   <ItemGroup>

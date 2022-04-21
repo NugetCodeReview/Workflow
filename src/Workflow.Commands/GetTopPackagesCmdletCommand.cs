@@ -24,14 +24,14 @@ public class GetTopPackagesCmdletCommand : PSCmdlet
         }
     }
 
-    [Parameter(
+    [System.Management.Automation.Parameter(
         Mandatory = false,
         Position = 0,
         ValueFromPipeline = false,
         ValueFromPipelineByPropertyName = false)]
     public SwitchParameter IncludeDetails { get; set; }
 
-    [Parameter(
+    [System.Management.Automation.Parameter(
         Mandatory = false,
         Position = 1,
         ValueFromPipeline = false,

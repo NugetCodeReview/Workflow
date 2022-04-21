@@ -15,3 +15,12 @@ global using Serilog.Sinks.SystemConsole.Themes;
 global using Serilog.Formatting.Json;
 
 global using HtmlAgilityPack;
+
+global using Nuke.Common;
+
+global using System.Text;
+global using System.Text.RegularExpressions;
+
+global using Newtonsoft.Json;
+
+global using Octokit;

@@ -1,5 +1,7 @@
 ﻿using Microsoft.Extensions.Options;
 
+using System.Diagnostics;
+
 namespace Workflow.Shared;
 
 public static class HostAppBuilder
@@ -23,6 +25,7 @@ public static class HostAppBuilder
         host.AddJsonFile(Path.Combine(location!,"appsettings.json"), false);
 #else
                 host.AddJsonFile(Path.Combine(location!,"appsettings.Debug.json"), false);
+                host.AddUserSecrets(Assembly.GetExecutingAssembly());
 #endif
 
                 host.AddEnvironmentVariables();
@@ -47,7 +50,14 @@ public static class HostAppBuilder
 
             builder.ConfigureServices(collection =>
             {
-                collection.AddTransient<HttpClient>();
+                collection.AddTransient<HttpClient>(provider =>
+                {
+                    var config = provider.GetRequiredService<IConfiguration>();
+                    var client = new HttpClient();
+                    client.DefaultRequestHeaders.Add("User-Agent", "Awesome-Octocat-App");
+                    client.DefaultRequestHeaders.Add("Authorization", $"token {config["GITHUB_TOKEN"]}");
+                    return client;
+                });
                 collection.AddTransient(services =>
                 {
                     var userProfile = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile);

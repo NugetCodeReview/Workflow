@@ -103,12 +103,14 @@ namespace Workflow
             {
                 var json = JsonConvert.SerializeObject(data, JsonSettings);
 
-                var file = new FileInfo(filename);
+                FileInfo file = new (filename);
 
-                if (!file.Directory.Exists)
+                if (!file.Directory!.Exists)
                 {
                     file.Directory.Create();
                 }
+
+                if (file.Exists) { file.Delete(); }
 
                 using var stream = file.OpenWrite();
                 using var writer = new StreamWriter(stream);

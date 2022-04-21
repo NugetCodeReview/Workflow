@@ -9,6 +9,7 @@
     <Import_RootNamespace>Workflow</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)ContentItem.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)GlobalUsings.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)HostAppBuilder.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Hyperlink.cs" />
@@ -17,5 +18,6 @@
     <Compile Include="$(MSBuildThisFileDirectory)NugetOrg.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)PackageListing.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)PackagesConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorkflowBuilder.cs" />
   </ItemGroup>
 </Project>
