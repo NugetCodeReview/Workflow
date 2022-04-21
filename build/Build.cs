@@ -118,6 +118,18 @@ class Build : NukeBuild
         {
             var destination = SourceDirectory / "Workflow.Commands" / "bin" / Configuration / "net6.0";
 
+            if (!Directory.Exists(destination))
+            {
+                var subfolders = Directory.GetDirectories(
+                    SourceDirectory / "Workflow.Commands" / "bin");
+
+                throw new ApplicationException(
+                    $"Cannot find directory at [{destination}].  " +
+                    $"{SourceDirectory / "Workflow.Commands" / "bin"} " +
+                    $"has subfolders " +
+                    $"{string.Join(", ", subfolders)}");
+            }
+
             Action<AbsolutePath> CopyFile = file =>
             {
                 try
