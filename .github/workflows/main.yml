@@ -21,12 +21,14 @@ jobs:
           echo "Event: $ACTION ($ACTION_IS_NULL)"
         
   build:
+    env:
+      ACTION_IS_NULL: ${{ github.event.action == null }}
+      ACTION: ${{ github.event.action }}
+      root: ${{ github.workspace }}
+      artifacts: '${{ github.workspace }}/artifacts'
+
     if: ${{ github.event.action == 'push'}}
     runs-on: ubuntu-latest
-    env:
-     root: ${{ github.workspace }}
-     artifacts: '${{ github.workspace }}/artifacts'
-
     steps:
       - uses: actions/checkout@v3
       
@@ -52,7 +54,13 @@ jobs:
           retention-days: 90
 
   PullTop100:
-    if: ${{ github.event.action == ''}}
+    env:
+      ACTION_IS_NULL: ${{ github.event.action == null }}
+      ACTION: ${{ github.event.action }}
+      root: ${{ github.workspace }}
+      artifacts: '${{ github.workspace }}/artifacts'
+
+    if: ${{ github.event.action == null}}
     needs: [ build ]
     runs-on: ubuntu-latest
     steps:
