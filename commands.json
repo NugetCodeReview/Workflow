@@ -1,9 +1,19 @@
 {
   "commands": {
     "test-ps": {
-      "fileName": "pwsh.exe",
-      "workingDirectory": ".",
-      "arguments": "-ExecutionPolicy Bypass -NonInteractive -File test-ps.ps1"
+        "fileName": "pwsh.exe",
+        "workingDirectory": ".",
+        "arguments": "-ExecutionPolicy Bypass -NonInteractive -File test-ps.ps1"
+    },
+    "build_nuke": {
+        "fileName": "dotnet",
+        "arguments": "build _build.csproj --force",
+        "workingDirectory": "C:\\GitHub\\nugetcodereview\\Workflow\\build"
+    },
+    "nuke-publish": {
+        "fileName": "C:\\GitHub\\nugetcodereview\\Workflow\\build\\bin\\Debug\\net6.0\\_build.exe",
+        "workingDirectory": "C:\\GitHub\\nugetcodereview\\Workflow",
+        "arguments": "Publish"
     }
   }
 }

@@ -63,6 +63,33 @@ class Build : NukeBuild
 
             DotNetTasks.DotNetBuild(settings);
         });
+    Target Publish => _ => _
+        .DependsOn(Clean)
+        //.DependsOn(Restore)
+        .Executes(() =>
+        {
+            var restoreSettings = new DotNetRestoreSettings()
+                .SetProjectFile(Solution)
+                .SetRuntime("linux-x64")
+                ;
+
+            DotNetTasks.DotNetRestore(restoreSettings);
+
+            var project = RootDirectory / "src" / "console" / "Workflow.csproj";
+            var settings = new DotNetPublishSettings()
+                .SetProject(project)
+                .SetConfiguration(Configuration)
+                .SetNoRestore(true)
+                .SetDeterministic(true)
+                .SetRuntime("linux-x64")
+                .SetSelfContained(true)
+                .SetPublishReadyToRun(true)
+                .SetPublishSingleFile(true)
+                .SetOutput(ArtifactsDirectory / "workflow")
+                ;
+
+            DotNetTasks.DotNetPublish(settings);
+        });
     Target PsModule => _ => _
         .DependsOn(Compile)
         .Executes(() =>
@@ -72,7 +99,7 @@ class Build : NukeBuild
                 $"**/bin/{Configuration}/**/*.pdb"
             );
 
-            var destination = SourceDirectory / "Workflow.Commands" / "bin" / Configuration / "netstandard2.0";
+            var destination = SourceDirectory / "Workflow.Commands" / "bin" / Configuration / "net6.0";
 
             foreach(var file in source)
             {
@@ -95,6 +122,8 @@ class Build : NukeBuild
             {
                 Serilog.Log.Error($"missing: {f}");
             }
+
+            CopyDirectoryRecursively(destination, ArtifactsDirectory / "PS", DirectoryExistsPolicy.Merge, FileExistsPolicy.OverwriteIfNewer);
         });
 
 }

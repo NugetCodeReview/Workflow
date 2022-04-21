@@ -25,8 +25,5 @@ jobs:
         uses: Amadevus/pwsh-script@v2.0.1
         with:
           id: build
-          script: |
-            $root = $github.workspace
-            . ./build.ps1 Publish
-            echo "::set-output name=workflow::./publish/workflow"
-            
+          script: .github/workflows/bootsrap.ps1
+          working-directory: ${{ build.workspace }}
