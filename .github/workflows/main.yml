@@ -25,4 +25,4 @@ jobs:
         uses: Amadevus/pwsh-script@v2.0.1
         with:
           script: .github/workflows/bootsrap.ps1
-          working-directory: ${{ build.workspace }}
+          working-directory: ${{ github.workspace }}
