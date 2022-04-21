@@ -113,36 +113,44 @@ class Build : NukeBuild
         .DependsOn(Compile)
         .Executes(() =>
         {
-            var source = GlobFiles(SourceDirectory / "Console",
-                $"**/bin/{Configuration}/**/*.dll",
-                $"**/bin/{Configuration}/**/*.pdb"
-            );
-
             var destination = SourceDirectory / "Workflow.Commands" / "bin" / Configuration / "net6.0";
 
-            foreach(var file in source)
-            {
-                if (File.Exists(file))
-                {
-                    CopyFileToDirectory(file, destination, FileExistsPolicy.OverwriteIfNewer, false);
-                }
-            }
+            (SourceDirectory / "Console").GlobFiles(
+                $"**/bin/{Configuration}/**/*.dll",
+                $"**/bin/{Configuration}/**/*.pdb"
+            ).ForEach(file => CopyFileToDirectory(
+                file,
+                destination,
+                FileExistsPolicy.Overwrite,
+                false));
 
-            var f = $"{Environment.GetFolderPath(Environment.SpecialFolder.UserProfile)}/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll";
-            if (File.Exists(f))
-            {
-                CopyFileToDirectory(
-                    f,
-                    destination,
-                    FileExistsPolicy.Overwrite,
-                    false);
-            }
-            else
-            {
-                Serilog.Log.Error($"missing: {f}");
-            }
+            CopyDirectoryRecursively(
+                destination,
+                ArtifactsDirectory / "PS",
+                DirectoryExistsPolicy.Merge,
+                FileExistsPolicy.OverwriteIfNewer);
 
-            CopyDirectoryRecursively(destination, ArtifactsDirectory / "PS", DirectoryExistsPolicy.Merge, FileExistsPolicy.OverwriteIfNewer);
+            //foreach(var file in source)
+            //{
+            //    if (File.Exists(file))
+            //    {
+            //        CopyFileToDirectory(file, destination, FileExistsPolicy.OverwriteIfNewer, false);
+            //    }
+            //}
+
+            //var f = $"{Environment.GetFolderPath(Environment.SpecialFolder.UserProfile)}/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll";
+            //if (File.Exists(f))
+            //{
+            //    CopyFileToDirectory(
+            //        f,
+            //        destination,
+            //        FileExistsPolicy.Overwrite,
+            //        false);
+            //}
+            //else
+            //{
+            //    Serilog.Log.Error($"missing: {f}");
+            //}
         });
 
 }
