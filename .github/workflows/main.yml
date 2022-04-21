@@ -11,16 +11,16 @@ on:
 
 jobs:
   prep:
+    env:
+      action: ${{ github.event.action }}
     runs-on: ubuntu-latest
     steps:
       - name: Prep 
         run: |
-          echo 'Event: ${event}'
-        env:
-          event:  ${{ github.event }}
+          echo 'Event: ${action}'
         
   build:
-    if: ${{ github.event == 'push'}}
+    if: ${{ github.event.action == 'push'}}
     runs-on: ubuntu-latest
     env:
      root: ${{ github.workspace }}
@@ -51,7 +51,7 @@ jobs:
           retention-days: 90
 
   PullTop100:
-    if: ${{ github.event == 'workflow_dispatch'}}
+    if: ${{ github.event.action == 'workflow_dispatch'}}
     needs: [ build ]
     runs-on: ubuntu-latest
     steps:
