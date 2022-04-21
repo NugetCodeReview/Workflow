@@ -12,12 +12,13 @@ on:
 jobs:
   prep:
     env:
-      ACTION: ${{ if(github.event.action == null) { "" } else { github.event.action } }}
+      ACTION_IS_NULL: ${{ github.event.action == null }}
+      ACTION: ${{ github.event.action }}
     runs-on: ubuntu-latest
     steps:
       - name: Prep 
         run: |
-          echo "Event: $ACTION"
+          echo "Event: $ACTION ($ACTION_IS_NULL)"
         
   build:
     if: ${{ github.event.action == 'push'}}
