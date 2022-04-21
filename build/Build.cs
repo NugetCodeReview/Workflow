@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
+
 using Microsoft.Build.Construction;
+
 using Nuke.Common;
 using Nuke.Common.CI;
 using Nuke.Common.Execution;
@@ -15,13 +17,14 @@ using Nuke.Common.Tools.DotNet;
 using Nuke.Common.Tools.GitVersion;
 using Nuke.Common.Tools.PowerShell;
 using Nuke.Common.Utilities.Collections;
+
 using static Nuke.Common.EnvironmentInfo;
 using static Nuke.Common.IO.FileSystemTasks;
 using static Nuke.Common.IO.PathConstruction;
 
 class Build : NukeBuild
 {
-    public static int Main () => Execute<Build>(x => x.Compile);
+    public static int Main() => Execute<Build>(x => x.Compile);
 
     [Parameter("Configuration to build - Default is 'Debug' (local) or 'Release' (server)")]
     Configuration Configuration { get; set; } = Configuration.Debug;
@@ -47,7 +50,7 @@ class Build : NukeBuild
                 {
                     Directory.Delete(d, true);
                 }
-                catch(Exception ex)
+                catch (Exception ex)
                 {
                     failed.Add(ex);
                     Serilog.Log.Error(ex, $"While deleting {d}");
@@ -115,14 +118,27 @@ class Build : NukeBuild
         {
             var destination = SourceDirectory / "Workflow.Commands" / "bin" / Configuration / "net6.0";
 
+            Action<AbsolutePath> CopyFile = file =>
+            {
+                try
+                {
+                    CopyFileToDirectory(
+                                file,
+                                destination,
+                                FileExistsPolicy.Overwrite,
+                                false);
+                }
+                catch
+                {
+                    Serilog.Log.Warning($"Could not copy {file}");
+                }
+            };
+
             (SourceDirectory / "Console").GlobFiles(
                 $"**/bin/{Configuration}/**/*.dll",
                 $"**/bin/{Configuration}/**/*.pdb"
-            ).ForEach(file => CopyFileToDirectory(
-                file,
-                destination,
-                FileExistsPolicy.Overwrite,
-                false));
+            ).ForEach(CopyFile);
+
 
             CopyDirectoryRecursively(
                 destination,
