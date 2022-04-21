@@ -9,19 +9,14 @@ on:
 
 jobs:
   prep:
-    env:
-      ACTION_IS_NULL: github.event.action == null
-      ACTION: github.event.action
     runs-on: ubuntu-latest
     steps:
       - name: Prep 
         run: |
-          echo "Event: $ACTION ($ACTION_IS_NULL)"
+          echo "Event: ${{ github.event.action }}"
         
   build:
     env:
-      ACTION_IS_NULL: github.event.action == null
-      ACTION: github.event.action
       root: ${{ github.workspace }}
       artifacts: '${{ github.workspace }}/artifacts'
 
@@ -53,8 +48,6 @@ jobs:
 
   PullTop100:
     env:
-      ACTION_IS_NULL: github.event.action == null
-      ACTION: github.event.action
       root: ${{ github.workspace }}
       artifacts: '${{ github.workspace }}/artifacts'
 
