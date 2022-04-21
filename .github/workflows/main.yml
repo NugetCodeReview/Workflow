@@ -15,8 +15,10 @@ jobs:
     steps:
       - name: Prep 
         run: |
-          echo "Event: ${{ github.event.push }}"
-          echo "Event: ${{ github.event.workflow_dispatch }}"
+          echo "Event: ${{ github.event_name }}"
+          echo "Event: ${{ github.event.action }}"
+          echo "Event: ${{ github.event }}"
+          echo "Event: ${{ github }}"
         
   build:
     env:
