@@ -64,7 +64,7 @@ jobs:
 
     - name: Compile
       uses: ./$root/build.sh
-      with:
+      env:
         root: ${{ github.workspace }}
       
     - name: Perform CodeQL Analysis
