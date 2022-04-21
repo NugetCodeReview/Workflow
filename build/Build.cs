@@ -97,7 +97,7 @@ class Build : NukeBuild
 
             DotNetTasks.DotNetRestore(restoreSettings);
 
-            var project = RootDirectory / "src" / "console" / "Workflow.csproj";
+            var project = RootDirectory / "src" / "Console" / "Workflow.csproj";
             var settings = new DotNetPublishSettings()
                 .SetProject(project)
                 .SetConfiguration(Configuration)
