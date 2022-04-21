@@ -12,7 +12,7 @@ on:
 jobs:
   prep:
     env:
-      action: ${{ github.event.action }}
+      action: ${{ github.event }}
     runs-on: ubuntu-latest
     steps:
       - name: Prep 
