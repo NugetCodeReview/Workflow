@@ -8,7 +8,7 @@ if(Test-Path $root){
         Get-Location
 
         Write-Host "Before build.ps1"
-        . ./build.ps1 PsModule Publish
+        ./build.ps1 PsModule Publish -Verbose
         $last = $LASTEXITCODE
         Write-Host "After build.ps1 ($last)"
 
