@@ -63,7 +63,7 @@ jobs:
     #    uses a compiled language
 
     - name: Compile
-      uses: ./$root/build.sh
+      uses: ${root}/build.sh
       env:
         root: ${{ github.workspace }}
       
