@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
@@ -38,7 +39,25 @@ class Build : NukeBuild
         .Before(Restore)
         .Executes(() =>
         {
-            PowerShellTasks.PowerShell("Clean -r -f", SourceDirectory);
+            List<Exception> failed = new();
+            var dirs = GlobDirectories(RootDirectory / "src", "**/bin", "**/obj", "**/publish", "**/artifacts");
+            dirs.ForEach(d =>
+            {
+                try
+                {
+                    Directory.Delete(d, true);
+                }
+                catch(Exception ex)
+                {
+                    failed.Add(ex);
+                    Serilog.Log.Error(ex, $"While deleting {d}");
+                }
+            });
+
+            if (failed.Count > 0)
+            {
+                throw new AggregateException(failed);
+            }
         });
 
     Target Restore => _ => _
