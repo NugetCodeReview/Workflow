@@ -6,19 +6,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+     root: ${{ github.workspace }}
+     artifacts: '${{ github.workspace }}/artifacts'
 
     steps:
       - uses: actions/checkout@v3
 
       - name: Build
         run: cd ${root}; pwsh ${root}/.github/workflows/bootstrap.ps1
-        env:
-         root: ${{ github.workspace }}
          
+      - run: ls -al ${artifacts}
+     
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v3.0.0
         with:
           name: Workflow-Artifacts
-          path:  ${{ github.workspace }}/artifacs/**/*
+          path: '${{ github.workspace }}/artifacts/**/*'
           if-no-files-found: warn
           retention-days: 90
