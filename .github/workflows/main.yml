@@ -16,6 +16,7 @@ jobs:
       - name: Prep 
         run: |
           echo "Event: ${{ github.event.push }}"
+          echo "Event: ${{ github.event.workflow_dispatch }}"
         
   build:
     env:
