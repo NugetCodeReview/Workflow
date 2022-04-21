@@ -11,6 +11,7 @@ on:
 
 jobs:
   build:
+    if: ${{ github.event == 'push'}}
     runs-on: ubuntu-latest
     env:
      root: ${{ github.workspace }}
@@ -41,6 +42,7 @@ jobs:
           retention-days: 90
 
   PullTop100:
+    if: ${{ github.event == 'workflow_dispatch'}}
     needs: [ build ]
 
     runs-on: ubuntu-latest
