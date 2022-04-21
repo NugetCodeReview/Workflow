@@ -62,7 +62,10 @@ jobs:
     #    and modify them (or add more) to build your code if your project
     #    uses a compiled language
 
-    - uses: ${{ github.workspace }}/build.sh
+    - name: Compile
+      uses: ./$root/build.sh
+      with:
+        root: ${{ github.workspace }}
       
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v2
