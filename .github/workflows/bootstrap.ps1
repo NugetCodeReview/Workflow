@@ -11,8 +11,8 @@ if(Test-Path $root){
         if(Test-Path ./build.ps1){
             $build = get-item ./build.ps1
             Write-Host "Before build.ps1"
-            Write-Host "./build.ps1 PsModule Publish -Verbose"
-            & $build PsModule Publish -Verbose
+            Write-Host "[$build] PsModule Publish -Verbose"
+            . $build PsModule Publish -Verbose
             $last = $LASTEXITCODE
             Write-Host "After build.ps1 ($last)"
         } else {
