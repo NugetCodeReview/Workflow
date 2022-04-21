@@ -4,8 +4,9 @@ Write-Host "`$root: $root"
 if(Test-Path $root){
     try{
         push-location
-        set-location $root
+        set-location $root/Workflow
         Get-Location
+        dir
 
         Write-Host "Before build.ps1"
         ./build.ps1 PsModule Publish -Verbose
