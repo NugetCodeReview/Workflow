@@ -4,7 +4,7 @@ Write-Host "`$root: $root"
 if(Test-Path $root){
     try{
         push-location
-        set-location $root/Workflow
+        set-location $root
         Get-Location
         dir
 
