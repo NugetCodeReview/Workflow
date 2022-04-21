@@ -4,7 +4,7 @@ Param(
     [string[]]$BuildArguments
 )
 
-Write-Output "PowerShell $($PSVersionTable.PSEdition) version $($PSVersionTable.PSVersion)"
+Write-Host "PowerShell $($PSVersionTable.PSEdition) version $($PSVersionTable.PSVersion)"
 
 Set-StrictMode -Version 2.0; $ErrorActionPreference = "Stop"; $ConfirmPreference = "None"; trap { Write-Error $_ -ErrorAction Continue; exit 1 }
 $PSScriptRoot = Split-Path $MyInvocation.MyCommand.Path -Parent
@@ -63,7 +63,7 @@ else {
     $env:DOTNET_EXE = "$DotNetDirectory\dotnet.exe"
 }
 
-Write-Output "Microsoft (R) .NET SDK version $(& $env:DOTNET_EXE --version)"
+Write-Host "Microsoft (R) .NET SDK version $(& $env:DOTNET_EXE --version)"
 
 ExecSafe { & $env:DOTNET_EXE build $BuildProjectFile /nodeReuse:false /p:UseSharedCompilation=false -nologo -clp:NoSummary --verbosity quiet }
 ExecSafe { & $env:DOTNET_EXE run --project $BuildProjectFile --no-build -- $BuildArguments }
