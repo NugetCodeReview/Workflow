@@ -10,8 +10,8 @@ on:
 jobs:
   prep:
     env:
-      ACTION_IS_NULL: ${{ github.event.action == null }}
-      ACTION: ${{ github.event.action }}
+      ACTION_IS_NULL: github.event.action == null
+      ACTION: github.event.action
     runs-on: ubuntu-latest
     steps:
       - name: Prep 
@@ -20,8 +20,8 @@ jobs:
         
   build:
     env:
-      ACTION_IS_NULL: ${{ github.event.action == null }}
-      ACTION: ${{ github.event.action }}
+      ACTION_IS_NULL: github.event.action == null
+      ACTION: github.event.action
       root: ${{ github.workspace }}
       artifacts: '${{ github.workspace }}/artifacts'
 
@@ -30,11 +30,11 @@ jobs:
       - uses: actions/checkout@v3
       
       - name: Build
-        if: ${{ github.event.action == 'push'}}
+        if: github.event.action == 'push'
         run: cd ${root}; pwsh ${root}/.github/workflows/bootstrap.ps1
 
       - name: Upload Powershell Artifact
-        if: ${{ github.event.action == 'push'}}
+        if: github.event.action == 'push'
         uses: actions/upload-artifact@v3.0.0
         with:
           name: Workflow-Artifacts-PS
@@ -43,7 +43,7 @@ jobs:
           retention-days: 90
           
       - name: Upload Console Artifact
-        if: ${{ github.event.action == 'push'}}
+        if: github.event.action == 'push'
         uses: actions/upload-artifact@v3.0.0
         with:
           name: Workflow-Artifacts-Console
@@ -53,12 +53,12 @@ jobs:
 
   PullTop100:
     env:
-      ACTION_IS_NULL: ${{ github.event.action == null }}
-      ACTION: ${{ github.event.action }}
+      ACTION_IS_NULL: github.event.action == null
+      ACTION: github.event.action
       root: ${{ github.workspace }}
       artifacts: '${{ github.workspace }}/artifacts'
 
-    if: ${{ github.event.action == null}}
+    if: github.event.action == null
     needs: [ build ]
     runs-on: ubuntu-latest
     steps:
