@@ -10,11 +10,18 @@ using static Nuke.Common.IO.PathConstruction;
 [NoBuildBanner]
 class Build : NukeBuild
 {
+    public AbsolutePath ResultsDirectory => RootDirectory / "results";
+
     public static int Main() => Execute<Build>(x => x.GetTop100);
 
     protected override void OnBuildInitialized()
     {
         HostAppBuilder.BuildAppHost();
+
+        var config = HostAppBuilder.AppHost!.Services.GetRequiredService<PackagesConfig>();
+
+        config.ConfigFolder = ResultsDirectory / "config";
+        config.DownloadFolder = ResultsDirectory / "cache";
     }
 
     protected override void OnBuildFinished() { }
