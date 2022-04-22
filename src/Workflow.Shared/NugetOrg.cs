@@ -236,14 +236,20 @@ internal static class NugetOrg
 
     private static PackageListing? ParseInnerHtml(string innerHtml)
     {
+        Log.Information($"innerHtml: {innerHtml}");
         var doc = new HtmlDocument();
         doc.LoadHtml(innerHtml);
 
         var nodes = doc.DocumentNode.ChildNodes.Where(
             n => n.NodeType == HtmlNodeType.Element).ToArray();
 
+        Log.Information($"nodes.Length: {nodes.Length}");
+
         if (int.TryParse(nodes[0].InnerText, out int rank))
         {
+            Log.Information($"rank: {rank}");
+            Log.Information($"nodes[1].ChildNodes.First().InnerText: {nodes[1].ChildNodes.First().InnerText}");
+            Log.Information($"nodes[1].ChildNodes.First().Attributes[\"href\"].Value: { nodes[1].ChildNodes.First().Attributes["href"].Value}");
             return new(rank,
                 nodes[1].ChildNodes.First().InnerText,
                 nodes[1].ChildNodes.First().Attributes["href"].Value);
