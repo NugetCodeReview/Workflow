@@ -21,6 +21,7 @@ jobs:
           echo "Event: ${{ github }}"
 
   build:
+    if: github.event_name == 'push'
     env:
       root: ${{ github.workspace }}
       artifacts: '${{ github.workspace }}/artifacts'
@@ -31,7 +32,6 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Build
-        if: github.event_name == 'push'
         run: |
           cd ${root};
           pwsh ${root}/.github/workflows/bootstrap.ps1 -Configuration Release
