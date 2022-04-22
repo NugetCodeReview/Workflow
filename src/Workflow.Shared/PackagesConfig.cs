@@ -8,4 +8,6 @@
     public string? ConfigFolder { get; set; }
 
     public DirectoryInfo ConfigDirectoryInfo => new (ConfigFolder);
+
+    public string? GITHUB_TOKEN { get; set; }
 }

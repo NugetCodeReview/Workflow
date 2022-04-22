@@ -58,7 +58,21 @@ internal static class NugetOrg
 
             httpClient.Dispose();
 
-            var packageDirectory = Path.Combine(Config.DownloadFolder, JsonManager.TodayString);
+            var page = new HtmlDocument();
+            var baseNode = page.CreateElement("base");
+            baseNode.SetAttributeValue("href", $"{query.GetLeftPart(UriPartial.Authority)}");
+            baseNode.SetAttributeValue("target", "_blank");
+
+            page.LoadHtml(html);
+            var parent = page.DocumentNode
+                .ChildNodes
+                .First(n => n.NodeType == HtmlNodeType.Element)
+                .ChildNodes
+                .First(n => n.NodeType == HtmlNodeType.Element);
+
+            parent.InnerHtml = baseNode.OuterHtml + parent.InnerHtml;
+
+            var packageDirectory = Path.Combine(Config.DownloadFolder!, JsonManager.TodayString);
 
             if (!Directory.Exists(packageDirectory))
             {
@@ -67,9 +81,11 @@ internal static class NugetOrg
 
             var htmlFileName = Path.Combine(packageDirectory, "top-packages.html");
 
-            File.WriteAllText(htmlFileName, html, System.Text.Encoding.UTF8);
+            page.Save(htmlFileName);
 
-            return html;
+            page.Load(htmlFileName);
+
+            return page.DocumentNode.OuterHtml;
         }
         catch (HttpRequestException hqe)
         {
@@ -97,8 +113,11 @@ internal static class NugetOrg
         }
     }
 
-    internal static async Task<string> GetPackage(Uri query, string packageName)
+    internal static async Task<string> GetPackage(Uri query, PackageListing package)
     {
+        string packageName = package.PackageName!;
+        string safePackageName = package.SafePackageName!;
+
         //Log.Debug($"Getting html from {query}");
         var waitFor = TimeSpan.FromMilliseconds(
             new Random((int)DateTime.Now.Ticks).Next(250, 1000));
@@ -115,7 +134,7 @@ internal static class NugetOrg
 
             httpClient.Dispose();
 
-            var packageDirectory = Path.Combine(Config.DownloadFolder, JsonManager.TodayString);
+            var packageDirectory = Path.Combine(Config.DownloadFolder!, JsonManager.TodayString);
 
             if (!Directory.Exists(packageDirectory))
             {
@@ -129,7 +148,7 @@ internal static class NugetOrg
             var filename = $"{packageName}.{version}.{symbolsSection}nupkg";
             var packageFileName = Path.Combine(packageDirectory, filename);
 
-            File.WriteAllBytes(packageFileName, bytes);
+            await File.WriteAllBytesAsync(packageFileName, bytes);
 
             return packageFileName;
         }
@@ -165,16 +184,20 @@ internal static class NugetOrg
         {
             ManualResetEventSlim mre = new(false);
             string html = "";
+            Uri uri = new Uri(URL);
 
             Task.Run(async () =>
             {
-                html = await GetHtml(new Uri(URL));
+                html = await GetHtml(uri);
                 mre.Set();
             });
 
             mre.Wait(CancellationToken.None);
 
-            return html;
+            var page = new HtmlDocument();
+            page.LoadHtml(html);
+
+            return page.DocumentNode.OuterHtml;
         }
         catch (Exception ex)
         {
@@ -182,15 +205,11 @@ internal static class NugetOrg
             throw;
         }
     }
-    internal static IEnumerable<PackageListing> GetPackages(
+
+    internal static IEnumerable<PackageHeader> GetPackages(
         string html,
         bool getDetails = false)
     {
-        if(UpdateStatus is null)
-        {
-            Console.WriteLine($"{nameof(UpdateStatus)} is null");
-        }
-
         var doc = new HtmlDocument();
         doc.LoadHtml(html);
 
@@ -203,7 +222,7 @@ internal static class NugetOrg
         {
             var innerHtml = row.InnerHtml;
 
-            PackageListing? parsed = ParseInnerHtml(innerHtml);
+            (int rank, PackageHeader? parsed) = ParseInnerHtml(innerHtml);
 
             if (parsed is not null)
             {
@@ -211,7 +230,7 @@ internal static class NugetOrg
                 {
                     if (getDetails)
                     {
-                        parsed.GetDetails(BASE_URL);
+                        var result = parsed.GetDetails(BASE_URL, rank).Result;
                     }
                 }
                 catch(Exception ex)
@@ -234,7 +253,7 @@ internal static class NugetOrg
 
     public static event Action<int, int, string>? UpdateStatus;
 
-    private static PackageListing? ParseInnerHtml(string innerHtml)
+    private static (int rank, PackageHeader? header) ParseInnerHtml(string innerHtml)
     {
         //Log.Information($"innerHtml: {innerHtml}");
         var doc = new HtmlDocument();
@@ -243,16 +262,13 @@ internal static class NugetOrg
         var nodes = doc.DocumentNode.ChildNodes.Where(
             n => n.NodeType == HtmlNodeType.Element).ToArray();
 
-        Log.Information($"nodes.Length: {nodes.Length}");
+        //Log.Information($"nodes.Length: {nodes.Length}");
 
         if (int.TryParse(nodes[0].InnerText, out int rank))
         {
-            Log.Information($"rank: {rank}");
-            Log.Information($"nodes[1].ChildNodes.First().InnerText: {nodes[1].ChildNodes.First().InnerText}");
-            Log.Information($"nodes[1].ChildNodes.First().Attributes[\"href\"].Value: { nodes[1].ChildNodes.First().Attributes["href"].Value}");
-            return new(rank,
+            return (rank, new(
                 nodes[1].ChildNodes.First().InnerText,
-                nodes[1].ChildNodes.First().Attributes["href"].Value);
+                nodes[1].ChildNodes.First().Attributes["href"].Value));
         }
 
         return default;

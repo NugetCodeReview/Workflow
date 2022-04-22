@@ -8,14 +8,17 @@ public static class HostAppBuilder
 {
     public static IHost AppHost { get; private set; } = null!;
 
-    public static IHost BuildAppHost(string location)
+    public static IHost BuildAppHost(
+        string binDirectory,
+        string resultsDirectory,
+        string artifactsDirectory)
     {
         try
         {
             if (AppHost is not null) return AppHost;
 
             //var location = Path.GetDirectoryName(typeof(HostAppBuilder).Assembly.Location);
-            Serilog.Log.Information($"location: {location}");
+            Serilog.Log.Information($"location: {binDirectory}");
 
             CreateLogger();
             var builder = Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder();
@@ -23,9 +26,9 @@ public static class HostAppBuilder
             builder.ConfigureHostConfiguration(host =>
             {
 #if !DEBUG
-        host.AddJsonFile(Path.Combine(location!,"appsettings.json"), false);
+        host.AddJsonFile(Path.Combine(binDirectory!,"appsettings.json"), false);
 #else
-                host.AddJsonFile(Path.Combine(location!,"appsettings.Debug.json"), false);
+                host.AddJsonFile(Path.Combine(binDirectory!,"appsettings.Debug.json"), false);
                 host.AddUserSecrets(Assembly.GetExecutingAssembly());
 #endif
 
@@ -35,9 +38,9 @@ public static class HostAppBuilder
             builder.ConfigureAppConfiguration(host =>
             {
 #if !DEBUG
-        host.AddJsonFile(Path.Combine(location!,"appsettings.json"), false);
+        host.AddJsonFile(Path.Combine(binDirectory!,"appsettings.json"), false);
 #else
-                host.AddJsonFile(Path.Combine(location!, "appsettings.Debug.json"), false);
+                host.AddJsonFile(Path.Combine(binDirectory!, "appsettings.Debug.json"), false);
 #endif
 
                 host.AddEnvironmentVariables();
@@ -59,13 +62,14 @@ public static class HostAppBuilder
                     client.DefaultRequestHeaders.Add("Authorization", $"token {config["GITHUB_TOKEN"]}");
                     return client;
                 });
-                collection.AddTransient(services =>
+                collection.AddSingleton(services =>
                 {
-                    var userProfile = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile);
                     var configuration = Options.Create(new PackagesConfig()).Value;
                     services.GetService<IConfiguration>()?.GetSection("Packages").Bind(configuration);
-                    configuration.ConfigFolder = configuration.ConfigFolder?.Replace("~", userProfile)
-                                                    ?? GetDefaultConfigFolder();
+                    configuration.ConfigFolder =
+                        string.Format(configuration.ConfigFolder!, resultsDirectory);
+                    configuration.DownloadFolder =
+                        string.Format(configuration.DownloadFolder!, resultsDirectory);
                     return configuration;
                 });
             });

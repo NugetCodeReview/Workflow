@@ -1,35 +1,34 @@
 ﻿//using System.Runtime.Remoting.Messaging;
 
+using System.Web;
+
 using Workflow.Shared;
 
 namespace Workflow;
-public record PackageListing(int Rank, string? PackageName, string? PackageListingUrl) : IAsJson
+
+public record PackageListing(
+    int Rank,
+    string? PackageName,
+    string? PackageListingUrl,
+    DateTimeOffset? AsOf = default) : IAsJson
 {
     public PackageListing() : this(-1, null, null) { }
 
     [JsonIgnore]
-    private IConfiguration _configuration;
+    private IConfiguration? _configuration;
     private Hyperlink? repository;
+    private static PackagesConfig _config;
 
     static PackageListing()
     {
         //Console.WriteLine($"static PackageListing(): Entered.");
         try
         {
-            Config ??= HostAppBuilder.AppHost.Services.GetRequiredService<PackagesConfig>();
-            if (Config is not null)
+            _expressions = new();
+            foreach (var pattern in Config.Whitelist ?? Array.Empty<string>())
             {
-                _expressions = new();
-                foreach (var pattern in Config.Whitelist ?? Array.Empty<string>())
-                {
-                    var regex = new Regex(pattern, RegexOptions.Singleline);
-                    _expressions.Add(regex);
-                }
-            }
-            else
-            {
-                Config = new PackagesConfig();
-                _expressions = new List<Regex>();
+                var regex = new Regex(pattern, RegexOptions.Singleline);
+                _expressions.Add(regex);
             }
         }
         catch (Exception ex)
@@ -44,6 +43,15 @@ public record PackageListing(int Rank, string? PackageName, string? PackageListi
     }
 
     [JsonIgnore]
+    public PackageHeader PackageHeader
+    {
+        get; init;
+    }
+
+    [JsonIgnore]
+    public string SafePackageName => HttpUtility.UrlEncode(PackageName)!;
+
+    [JsonIgnore]
     public IConfiguration Configuration => _configuration ??=
         HostAppBuilder.AppHost.Services.GetRequiredService<IConfiguration>();
 
@@ -51,22 +59,17 @@ public record PackageListing(int Rank, string? PackageName, string? PackageListi
     const string ownersNodesXpathAlt = "/html/body/div[3]/section/div/aside/div[3]/ul/li";
     const string anchorsXpath = "/html/body/div[2]/section/div/aside/div[2]/ul/li/a";
     const string anchorsXpathAlt = "/html/body/div[3]/section/div/aside/div[2]/ul/li/a";
-    private const string NUGET_CODE_REVIEW = "NugetCodeReview";
-    private const string GIT = ".git";
     private static readonly List<Regex> _expressions;
 
     public override string ToString()
         => $"{Rank}: {PackageName} - {OwnerNames}";
 
     [JsonIgnore]
-    private static PackagesConfig Config { get; set; }
+    private static PackagesConfig Config
+        => _config ??= HostAppBuilder.AppHost.Services.GetRequiredService<PackagesConfig>();
 
-
-    internal void GetDetails(string baseUrl)
+    internal Task<string> GetDetails(string baseUrl)
     {
-        //Log.Information($"baseUrl: {baseUrl}");
-        //Log.Information($"PackageListingUrl: {PackageListingUrl ?? "<<null>>"}");
-
         if (PackageListingUrl is null or "")
         {
             throw new ArgumentNullException(nameof(PackageListingUrl));
@@ -81,18 +84,18 @@ public record PackageListing(int Rank, string? PackageName, string? PackageListi
 
             if (listing is null)
             {
-                return;
+                return Task.FromResult("");
             }
 
             var packageDirectory =
-                Path.Combine(Config.DownloadFolder, JsonManager.TodayString, PackageName);
+                Path.Combine(Config.DownloadFolder!, JsonManager.TodayString, PackageName!);
 
             if (!Directory.Exists(packageDirectory))
             {
                 Directory.CreateDirectory(packageDirectory);
             }
 
-            var htmlFileName = Path.Combine(packageDirectory, "package.html");
+            var htmlFileName = Path.Combine(packageDirectory, $"{SafePackageName}.html");
 
             File.WriteAllText(htmlFileName, listing, System.Text.Encoding.UTF8);
 
@@ -101,43 +104,49 @@ public record PackageListing(int Rank, string? PackageName, string? PackageListi
 
             var ownersNodes = doc.DocumentNode.SelectNodes(ownersNodesXpath)?.ToArray();
             ownersNodes ??= doc.DocumentNode.SelectNodes(ownersNodesXpathAlt)?.ToArray();
-            Owners = ParseList(ownersNodes).ToList();
 
-            if (_expressions is not null)
+            if (ownersNodes is not null)
             {
-                foreach (var regex in _expressions)
+                Owners = ParseList(ownersNodes).ToList();
+
+                if (_expressions is not null)
                 {
-                    foreach (var owner in Owners)
+                    foreach (var regex in _expressions)
                     {
-                        if (regex.IsMatch(owner.Text))
+                        foreach (var owner in Owners)
                         {
-                            IsWhitelisted = true;
-                            return;
+                            if (owner?.Text is { Length: > 0 } &&
+                                regex.IsMatch(owner.Text))
+                            {
+                                PackageHeader.IsWhitelisted = true;
+                                return Task.FromResult("");
+                            }
                         }
                     }
+                }
+                else
+                {
+                    Log.Error("_expressions is null");
                 }
             }
             else
             {
-                Console.Error.WriteLine("_expressions is null");
+                Log.Error("ownersNodes is null");
             }
 
             var anchorNodes = doc.DocumentNode.SelectNodes(anchorsXpath)
                 ?? doc.DocumentNode.SelectNodes(anchorsXpathAlt);
+
             if (anchorNodes is { Count: > 0 })
             {
                 foreach (var anchorNode in anchorNodes)
                 {
-                    //Log.Information($"anchorNode: {anchorNode.OuterHtml}");
-
                     var parsedAnchor = ParseAnchor(anchorNode);
-
-                    //Log.Information($"parsedAnchor: {parsedAnchor?.Text ?? "<<null>>"}");
 
                     switch (parsedAnchor?.Text)
                     {
                         case "Source repository":
-                            Repository = parsedAnchor;
+                            PackageHeader.Repository = parsedAnchor;
                             break;
 
                         case "Download package":
@@ -154,18 +163,31 @@ public record PackageListing(int Rank, string? PackageName, string? PackageListi
             }
             else
             {
-                Console.Error.WriteLine("anchorNodes is null or empty");
+                Log.Error("anchorNodes is null or empty");
             }
 
-            var jsonFileName = Path.Combine(packageDirectory, "package.json");
+            var versionRows = doc.DocumentNode.SelectNodes("//*[@id=\"versions-tab\"]/div/table/tbody/tr");
 
-            var json = ToJson();
+            PackageHeader.PackageVersions.Clear();
+            foreach (var versionRow in versionRows)
+            {
+                var columns = versionRow.ChildNodes.Where(c => c.NodeType==HtmlNodeType.Element).ToArray();
+                var version = columns[0].ChildNodes.First(c => c.NodeType==HtmlNodeType.Element).GetDirectInnerText().Trim();
+                var downloads = columns[1].GetDirectInnerText().Trim();
+                var datePublished = columns[2].ChildNodes.First(c => c.NodeType == HtmlNodeType.Element).GetDirectInnerText().Trim();
 
-            File.WriteAllText(jsonFileName, json, Encoding.UTF8);
+                var versionInfo = new VersionInfo(this, version, downloads, datePublished);
+
+                PackageHeader.PackageVersions.Add(versionInfo);
+            }
+
+            return PackageHeader.SaveAsync(packageDirectory);
         }
         catch (Exception ex)
         {
-            Console.Error.WriteLine(ex);
+            Log.Error(ex, $"{MethodBase.GetCurrentMethod()?.Name}");
+
+            return Task.FromException<string>(ex);
         }
         finally
         {
@@ -177,126 +199,10 @@ public record PackageListing(int Rank, string? PackageName, string? PackageListi
     {
         if (Package is not null)
         {
-            return NugetOrg.GetPackage(new(new Uri(baseUrl), Package.Url), PackageName!);
+            return NugetOrg.GetPackage(new(new Uri(baseUrl), Package.Url), this);
         }
 
         return Task.FromResult(string.Empty);
-    }
-
-    internal async Task<string?> ForkPackageRepositoryAsync()
-    {
-        if (Repository is null)
-        {
-            Log.Warning($"{PackageName} Repository.Url: {(Repository?.Url ?? "<<null>>")}");
-            return null;
-        }
-
-        Log.Debug($"Attempting to fork {PackageName}.");
-
-        var segments = Repository.Url.Split('/');
-
-        var user = segments.Skip(3).First();
-        var project = segments.Skip(4).First();
-        if (project.EndsWith(GIT, StringComparison.OrdinalIgnoreCase))
-        {
-            project = project[0..^(GIT.Length)];
-        }
-        var forkName = $"{user}_{project}";
-
-        GitHubClient github = new (new ProductHeaderValue(project));
-        //var org = await github.User.Get(user);
-
-        try
-        {
-            var tokenAuth = new Credentials(Configuration["GITHUB_TOKEN"]); // NOTE: not real token
-            github.Credentials = tokenAuth;
-
-            Log.Debug($"Loading forks for {user}/{project}.");
-
-            var repository = github.Repository;
-
-            Log.Debug($"Logging into {NUGET_CODE_REVIEW}.");
-
-            GitHubClient client = LogIn(user, project, tokenAuth, NUGET_CODE_REVIEW, project, github);
-
-            try
-            {
-                var contents = await client?.Repository.Content.GetAllContents(NUGET_CODE_REVIEW, forkName);
-                var found = contents.Any();
-
-                if (found)
-                {
-                    var baseAddress = client.Connection.BaseAddress.ToString();
-                    Uri.TryCreate(new Uri(baseAddress),
-                        $"{NUGET_CODE_REVIEW}/{forkName}.git",
-                        out Uri uri);
-
-                    ForkUrl = new Hyperlink($"{user}/{forkName}", uri!.ToString());
-                    Log.Debug($"Fork exists for {PackageName} at {ForkUrl.Url}");
-                    return ForkUrl.Url;
-                }
-            }
-            catch { }
-
-            try
-            {
-                Log.Debug($"Logging into {NUGET_CODE_REVIEW}.");
-
-                var found = (await client?.Repository.Content.GetAllContents(NUGET_CODE_REVIEW, forkName)).Any();
-
-                Repository repo = await RenameFork(user, project, forkName, client);
-
-                return ForkUrl?.Url;
-            }
-            catch
-            {
-                Log.Information($"Forking {user}/{project} to {NUGET_CODE_REVIEW}/{project}");
-
-                Repository? fork = await repository
-                                    .Forks
-                                    .Create(
-                                        user,
-                                        project,
-                                        new NewRepositoryFork
-                                        {
-                                            Organization = NUGET_CODE_REVIEW
-                                        });
-
-                Log.Debug($"Logging into {NUGET_CODE_REVIEW}.");
-
-                client = LogIn(user, project, tokenAuth, NUGET_CODE_REVIEW, project, github);
-
-                Repository repo = await RenameFork(user, project, forkName, client);
-
-                Log.Information($"Forked {PackageName} to {repo.Url}");
-
-                return ForkUrl?.Url;
-            }
-        }
-        catch (Exception ex)
-        {
-            Log.Error(ex, $"While forking {Repository.Url}");
-            //throw;
-        }
-
-        return default;
-
-        async Task<Repository> RenameFork(
-            string user, string project, string forkName, GitHubClient? client)
-        {
-            Log.Debug($"Renaming {PackageName} to {forkName}");
-
-            var repo = await client.Repository
-                                   .Edit(NUGET_CODE_REVIEW,
-                                        project,
-                                        new RepositoryUpdate(project)
-                                        {
-                                            Name = forkName,
-                                        });
-
-            ForkUrl = new Hyperlink($"{user}/{forkName}", repo.Url);
-            return repo;
-        }
     }
 
     public static GitHubClient LogIn(
@@ -314,13 +220,13 @@ public record PackageListing(int Rank, string? PackageName, string? PackageListi
                 Credentials = tokenAuth
             };
 
-    internal Task AddWorkflow() => this.AddToForkAsync();
-
     internal Task<string> DownloadSymbolsPackageAsync(string baseUrl)
     {
         if (SymbolsPackage is not null)
         {
-            return NugetOrg.GetPackage(new(new Uri(baseUrl), SymbolsPackage.Url), PackageName!);
+            return NugetOrg.GetPackage
+                (new(new Uri(baseUrl), SymbolsPackage.Url),
+                this);
         }
 
         return Task.FromResult(string.Empty);
@@ -372,32 +278,10 @@ public record PackageListing(int Rank, string? PackageName, string? PackageListi
     [JsonRequired]
     public List<Hyperlink>? Owners { get; private set; }
     [JsonProperty]
-    public Hyperlink? Repository
-    {
-        get => repository;
-        private set
-        {
-            if (repository == value || value is null) return;
-
-            if (!(value.Url?.EndsWith(".git", StringComparison.OrdinalIgnoreCase) ?? false))
-            {
-                value = value with { Url = value.Url + ".git" };
-            }
-            repository = value;
-        }
-    }
-    [JsonProperty]
     public Hyperlink? Package { get; private set; }
     [JsonProperty]
     public Hyperlink? SymbolsPackage { get; private set; }
-    [JsonRequired]
-    public bool IsWhitelisted { get; private set; }
+
     [JsonProperty]
-    public Hyperlink? ForkUrl { get; private set; }
-    [JsonProperty]
-    public List<ContentItem> Workflows { get; internal set; } = new();
-    [JsonProperty]
-    public List<ContentItem> Scripts { get; internal set; } = new();
-    [JsonProperty]
-    public string PagesUrl { get; internal set; }
+    public DateTimeOffset DateTaken { get; set; } = DateTimeOffset.UtcNow;
 }

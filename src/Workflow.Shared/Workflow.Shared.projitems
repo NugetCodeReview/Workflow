@@ -16,8 +16,11 @@
     <Compile Include="$(MSBuildThisFileDirectory)IAsJson.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)JsonManager.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)NugetOrg.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PackageHeader.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)PackageListing.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)PackagesConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TopPackages.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)VersionInfo.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)WorkflowBuilder.cs" />
   </ItemGroup>
 </Project>

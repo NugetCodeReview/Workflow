@@ -31,7 +31,7 @@ namespace Workflow
                 Today = DateTimeOffset.UtcNow.Date;
                 var todayFilename = Path.Combine(
                         ConfigFolder.FullName,
-                        $"top-packages-{TodayString}.json");
+                        $"top-packages-{TodayString}-v2.json");
 
                 TodayFile = new FileInfo(todayFilename);
             }
@@ -46,7 +46,7 @@ namespace Workflow
         public static FileInfo TodayFile { get; set; }
         public static DateTimeOffset Today { get; set; }
         public static string TodayString => Today.ToString("yyyy-MM-dd");
-        public static Task<bool> Save(this IEnumerable<PackageListing> list)
+        public static Task<bool> Save(this IEnumerable<PackageHeader> list)
         {
             try
             {

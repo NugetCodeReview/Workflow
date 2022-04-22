@@ -2,7 +2,7 @@
   "profiles": {
     "Workflow": {
       "commandName": "Project",
-      "commandLineArgs": "ForkTop100 AddWorkflowTop100"
+      "commandLineArgs": "ForkTop100 AddWorkflowTop100 -Force"
     }
   }
 }

@@ -13,23 +13,23 @@ public static class WorkflowBuilder
     private const string GIT = ".git";
     private const string CODE_REVIEW_YAML_PATH = ".github/workflows/code-review.yml";
     private const string CODE_REVIEW_DOCS = "docs";
-    private static IConfiguration _configuration;
 
-    public static IConfiguration Configuration => _configuration ??=
-        HostAppBuilder.AppHost.Services.GetRequiredService<IConfiguration>();
+    [JsonIgnore]
+    private static PackagesConfig Config
+        => HostAppBuilder.AppHost.Services.GetRequiredService<PackagesConfig>();
 
-    internal static async Task AddToForkAsync(this PackageListing packageListing)
+    internal static async Task AddToForkAsync(this PackageHeader packageHeader)
     {
-        if (packageListing.ForkUrl is null || packageListing.Repository is null)
+        if (packageHeader.ForkUrl is null || packageHeader.Repository is null)
         {
-            Log.Debug($"AddToForkAsync - ForkUrl: {(packageListing?.ForkUrl?.Url ?? "<<null>>")}, " +
-                $"Repository: {(packageListing?.Repository?.Url ?? "<<null>>")}");
+            Log.Debug($"AddToForkAsync - ForkUrl: {(packageHeader?.ForkUrl?.Url ?? "<<null>>")}, " +
+                $"Repository: {(packageHeader?.Repository?.Url ?? "<<null>>")}");
             return;
         }
 
         try
         {
-            string url = packageListing.ForkUrl.Url!;
+            string url = packageHeader.ForkUrl.Url!;
 
             (string user, string project) = GetUserProjectFromUrl(url);
 
@@ -54,12 +54,12 @@ public static class WorkflowBuilder
                 await CreateWorkflow();
             }
 
-            packageListing.Workflows = workflows;
+            packageHeader.Workflows = workflows;
 
             regex = new Regex(@"\b.*\.ps[m]?1\b", RegexOptions.IgnoreCase | RegexOptions.Singleline | RegexOptions.Compiled);
             var scripts = allContents.Where(ac => regex.IsMatch(ac.Name)).ToList();
 
-            packageListing.Scripts = scripts;
+            packageHeader.Scripts = scripts;
             return;
 
             async Task CreateWorkflow(bool force = false, string contentsYaml = "# Code Review")
@@ -98,34 +98,45 @@ public static class WorkflowBuilder
                 }
                 else
                 {
-                    var httpClient = HostAppBuilder.AppHost.Services.GetRequiredService<HttpClient>();
-                    var yaml = await httpClient.GetStringAsync(azurePipelineYaml.DownloadUrl);
-                    Conversion conversion = new();
-                    ConversionResponse gitHubOutput = conversion.ConvertAzurePipelineToGitHubAction(yaml);
-                    var actionsYaml = gitHubOutput.actionsYaml;
-                    await CreateWorkflow(true, actionsYaml);
+                    try
+                    {
+                        IApiResponse<RepositoryContent> content = await client.Connection.Post<RepositoryContent>(
+                            new Uri(azurePipelineYaml.RepoContent.Url));
+                        var yaml = content.Body.Content;
+                        Conversion conversion = new();
+                        ConversionResponse gitHubOutput = conversion.ConvertAzurePipelineToGitHubAction(yaml);
+                        var actionsYaml = gitHubOutput.actionsYaml;
+                        await CreateWorkflow(true, actionsYaml);
+                    }
+                    catch(Exception ex)
+                    {
+                        Log.Error(ex, $"azurePipelineYaml.RepoContent.Url: {azurePipelineYaml.RepoContent.Url}");
+                        //Log.Error(ex, $"azurePipelineYaml.RepoContent.GitUrl: {azurePipelineYaml.RepoContent.GitUrl}");
+                        //Log.Error(ex, $"azurePipelineYaml.RepoContent.HtmlUrl: {azurePipelineYaml.RepoContent.HtmlUrl}");
+                        //Log.Error(ex, $"azurePipelineYaml.RepoContent.DownloadUrl: {azurePipelineYaml.RepoContent.DownloadUrl}");
+                    }
                 }
             }
 
         }
         catch (Exception ex)
         {
-            Log.Error(ex, $"Package: {packageListing.PackageName}, {packageListing.ForkUrl?.Url}");
+            Log.Error(ex, $"Package: {packageHeader.PackageName}, {packageHeader.ForkUrl?.Url}");
         }
     }
 
-    internal static async Task CreateDocs(this PackageListing packageListing)
+    internal static async Task CreateDocs(this PackageHeader packageHeader)
     {
-        if (packageListing.ForkUrl is null || packageListing.Repository is null)
+        if (packageHeader.ForkUrl is null || packageHeader.Repository is null)
         {
-            Log.Debug($"CreateDocs - ForkUrl: {(packageListing?.ForkUrl?.Url ?? "<<null>>")}, " +
-                $"Repository: {(packageListing?.Repository?.Url ?? "<<null>>")}");
+            Log.Debug($"CreateDocs - ForkUrl: {(packageHeader?.ForkUrl?.Url ?? "<<null>>")}, " +
+                $"Repository: {(packageHeader?.Repository?.Url ?? "<<null>>")}");
             return;
         }
 
         try
         {
-            string url = packageListing.ForkUrl.Url!;
+            string url = packageHeader.ForkUrl.Url!;
 
             (var user, var project) = GetUserProjectFromUrl(url);
 
@@ -143,7 +154,7 @@ public static class WorkflowBuilder
                     $"{CODE_REVIEW_DOCS}/index.md",
                     new CreateFileRequest(
                         "Added stub for docs.",
-                        $"# Code Review Results for {packageListing.PackageName}"));
+                        $"# Code Review Results for {packageHeader.PackageName}"));
                 var contents = await client.Repository.Content.GetAllContents(user, project);
             }
 
@@ -171,7 +182,7 @@ public static class WorkflowBuilder
                     repository = await client.Repository.Get(user, project);
 
                     var pages = await client.Repository.Page.Get(repository.Id);
-                    packageListing.PagesUrl = pages.HtmlUrl;
+                    packageHeader.PagesUrl = pages.HtmlUrl;
                 }
             }
 
@@ -179,33 +190,42 @@ public static class WorkflowBuilder
         }
         catch (Exception ex)
         {
-            Log.Error(ex, $"Package: {packageListing.PackageName}, {packageListing.ForkUrl?.Url}");
+            Log.Error(ex, $"Package: {packageHeader.PackageName}, {packageHeader.ForkUrl?.Url}");
         }
     }
 
     private static async Task<List<ContentItem>> GetContents(
     GitHubClient client, string user, string project)
     {
-        Log.Debug($"Getting contents of {user}/{project}");
-        IReadOnlyList<RepositoryContent>? contents =
-            await client.Repository.Content.GetAllContents(user, project);
+        try
+        {
+            Log.Debug($"Getting contents of {user}/{project}");
+            IReadOnlyList<RepositoryContent>? contents =
+                await client.Repository.Content.GetAllContents(user, project);
 
-        List<ContentItem> allContents =
-            await GetContentItems(client, user, project, contents, null);
+            List<ContentItem> allContents =
+                await GetContentItems(client, user, project, contents, null);
 
-        return allContents;
+            return allContents;
+        }
+        catch(RateLimitExceededException rlee)
+        {
+            Log.Error($"Rate Limit Exceeded: {JsonConvert.SerializeObject(rlee)}");
+            throw;
+        }
     }
 
     private static (GitHubClient github, GitHubClient client) GetClients(string user, string project)
     {
         GitHubClient github = new(new ProductHeaderValue(project));
 
-        var tokenAuth = new Credentials(Configuration["GITHUB_TOKEN"]); // NOTE: not real token
+        var tokenAuth = new Credentials(Config.GITHUB_TOKEN); // NOTE: not real token
         github.Credentials = tokenAuth;
 
         var repository = github.Repository;
 
-        GitHubClient client = PackageListing.LogIn(user, project, tokenAuth, NUGET_CODE_REVIEW, project, github);
+        GitHubClient client = PackageListing.LogIn(
+            user, project, tokenAuth, NUGET_CODE_REVIEW, project, github);
 
         return (github, client);
     }

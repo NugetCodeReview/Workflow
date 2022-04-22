@@ -10,19 +10,25 @@ using static Nuke.Common.IO.PathConstruction;
 [NoBuildBanner]
 class Build : NukeBuild
 {
-    public AbsolutePath ResultsDirectory => RootDirectory / "results";
+    private static PackagesConfig _config;
+
     public AbsolutePath ArtifactsDirectory => RootDirectory / "artifacts";
+    public AbsolutePath ResultsDirectory => ArtifactsDirectory / "results";
+
+#if !DEBUG
+    public AbsolutePath BinDirectory => ArtifactsDirectory / "bin";
+#else
+    public AbsolutePath BinDirectory => (AbsolutePath)Path.GetDirectoryName(typeof(HostAppBuilder).Assembly!.Location!);
+#endif
 
     public static int Main() => Execute<Build>(x => x.GetTop100);
 
     protected override void OnBuildInitialized()
     {
-#if !DEBUG
-        HostAppBuilder.BuildAppHost(ArtifactsDirectory);
-#else
-        var location = Path.GetDirectoryName(typeof(HostAppBuilder).Assembly!.Location!);
-        HostAppBuilder.BuildAppHost(location!);
-#endif
+        Log.Information($"ArtifactsDirectory: {ArtifactsDirectory}");
+        Log.Information($"ResultsDirectory: {ResultsDirectory}");
+        Log.Information($"BinDirectory: {BinDirectory}");
+        HostAppBuilder.BuildAppHost(BinDirectory, ResultsDirectory, ArtifactsDirectory);
 
         var config = HostAppBuilder.AppHost!.Services.GetRequiredService<PackagesConfig>();
 
@@ -46,9 +52,11 @@ class Build : NukeBuild
         {
             var config = HostAppBuilder.AppHost!.Services.GetRequiredService<PackagesConfig>();
 
-            if (Force || !JsonManager.TodayFile.Exists)
+            List<PackageHeader> results = PackageHeader.AllHeaders;
+
+            if (Force || results is null or { Count: 0 })
             {
-                List<PackageListing> results = new();
+                results = new();
 
                 var html = NugetOrg.GetHtmlForPackages();
                 Log.Information($"html length: {html.Length}");
@@ -74,9 +82,9 @@ class Build : NukeBuild
             {
                 Log.Debug($"Using Existing Json. {JsonManager.TodayFile}");
 
-                List<PackageListing> results = (await JsonManager.TodayFile
+                results = (await JsonManager.TodayFile
                                          .FullName
-                                         .DeserializeObject<List<PackageListing>>())!;
+                                         .DeserializeObject<List<PackageHeader>>())!;
 
                 Top100 = results;
 
@@ -91,7 +99,7 @@ class Build : NukeBuild
         .DependsOn(GetTop100)
         .Executes(async () =>
         {
-            Func<PackageListing, bool> packageFilter = p
+            Func<PackageHeader, bool> packageFilter = p
                 => Force || !p.IsWhitelisted && p.ForkUrl is null;
 
             foreach (var package in Top100.Where(packageFilter))
@@ -113,23 +121,33 @@ class Build : NukeBuild
             }
         });
 
+    [JsonIgnore]
+    private static PackagesConfig Config
+        => _config ??= HostAppBuilder.AppHost.Services.GetRequiredService<PackagesConfig>();
+
     Target AddWorkflowTop100 => _ => _
-        .DependsOn(GetTop100)
+        .DependsOn(ForkTop100)
         .Executes(async () =>
         {
             Func<ContentItem, bool> fileFilter = i
                 => i.Name.Equals("code-review.yml", StringComparison.OrdinalIgnoreCase);
 
-            Func<PackageListing, bool> packageFilter = p
+            Func<PackageHeader, bool> packageFilter = p
                 => Force || !p.IsWhitelisted && p.Workflows.SingleOrDefault(fileFilter) is null;
 
-            foreach (var pkg in Top100.Where(packageFilter))
+            var filtered = Top100.Where(packageFilter);
+
+            foreach (var pkg in filtered)
             {
+                var packageDirectory =
+                    Path.Combine(Config.DownloadFolder!, JsonManager.TodayString, pkg.PackageName!);
+
                 await pkg.AddWorkflow();
                 await pkg.CreateDocs();
                 await Top100.Save();
+                await pkg.SaveAsync(packageDirectory);
             }
         });
 
-    public List<PackageListing> Top100 { get; private set; }
+    public List<PackageHeader> Top100 { get; private set; }
 }
