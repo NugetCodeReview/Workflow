@@ -24,6 +24,7 @@ jobs:
     env:
       root: ${{ github.workspace }}
       artifacts: '${{ github.workspace }}/artifacts'
+      github_token: ${{ secret.GITHUB_TOKEN }}
 
     runs-on: ubuntu-latest
     steps:
@@ -31,32 +32,38 @@ jobs:
       
       - name: Build
         if: github.event_name == 'push'
-        run: cd ${root}; pwsh ${root}/.github/workflows/bootstrap.ps1
+        run: |
+          cd ${root}; 
+          pwsh ${root}/.github/workflows/bootstrap.ps1
+          cd ${root}/artifacts
+          git add *.zip
+          git commit -m 'Build Artifacts'
+          git push https://sharpninja:${github_token}@github.com/NugetCodeReview/Workflow.git
 
-      - name: Upload Powershell Artifact
-        if: github.event_name == 'push'
-        uses: actions/upload-artifact@v3.0.0
-        with:
-          name: Workflow-Artifacts-PS
-          path: '${{ github.workspace }}/artifacts/powershell.zip'
-          if-no-files-found: warn
-          retention-days: 90
+#       - name: Upload Powershell Artifact
+#         if: github.event_name == 'push'
+#         uses: actions/upload-artifact@v3.0.0
+#         with:
+#           name: Workflow-Artifacts-PS
+#           path: '${{ github.workspace }}/artifacts/powershell.zip'
+#           if-no-files-found: warn
+#           retention-days: 90
           
-      - name: Upload Console Artifact
-        if: github.event_name == 'push'
-        uses: actions/upload-artifact@v3.0.0
-        with:
-          name: Workflow-Artifacts-Console
-          path: '${{ github.workspace }}/artifacts/workflow.zip'
-          if-no-files-found: warn
-          retention-days: 90
+#       - name: Upload Console Artifact
+#         if: github.event_name == 'push'
+#         uses: actions/upload-artifact@v3.0.0
+#         with:
+#           name: Workflow-Artifacts-Console
+#           path: '${{ github.workspace }}/artifacts/workflow.zip'
+#           if-no-files-found: warn
+#           retention-days: 90
 
   PullTop100:
     env:
       root: ${{ github.workspace }}
       artifacts: '${{ github.workspace }}/artifacts'
 
-    if: github.event_name == 'push'
+    if: github.event_name != 'push'
     needs: [ build ]
     runs-on: ubuntu-latest
     steps:
