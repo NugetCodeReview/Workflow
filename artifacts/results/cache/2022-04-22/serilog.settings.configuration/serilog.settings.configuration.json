@@ -1,0 +1,3036 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "serilog.settings.configuration",
+  "PackageUrl": "/packages/serilog.settings.configuration/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/serilog/serilog-settings-configuration.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "serilog/serilog_serilog-settings-configuration",
+    "Url": "https://api.github.com/NugetCodeReview/serilog_serilog-settings-configuration.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.3.1-dev-00313",
+        "Downloads": "318",
+        "DatePublished": "4/14/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.3.1-dev-00296",
+        "Downloads": "23,592",
+        "DatePublished": "1/8/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.3.0",
+        "Downloads": "6,577,358",
+        "DatePublished": "10/7/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.3.0-dev-00291",
+        "Downloads": "39,714",
+        "DatePublished": "8/31/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.2.1-dev-00288",
+        "Downloads": "9,748",
+        "DatePublished": "8/13/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.2.0",
+        "Downloads": "2,886,841",
+        "DatePublished": "8/11/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.2.0-dev-00283",
+        "Downloads": "150",
+        "DatePublished": "8/11/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.2.0-dev-00281",
+        "Downloads": "140",
+        "DatePublished": "8/11/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.2.0-dev-00272",
+        "Downloads": "63,247",
+        "DatePublished": "5/7/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.2.0-dev-00269",
+        "Downloads": "2,738",
+        "DatePublished": "5/3/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.2.0-dev-00266",
+        "Downloads": "20,634",
+        "DatePublished": "3/26/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.2.0-dev-00264",
+        "Downloads": "114,910",
+        "DatePublished": "11/24/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.2.0-dev-00261",
+        "Downloads": "675",
+        "DatePublished": "11/23/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.2.0-dev-00257",
+        "Downloads": "1,222",
+        "DatePublished": "11/20/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.2.0-dev-00249",
+        "Downloads": "17,255",
+        "DatePublished": "11/6/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.2.0-dev-00244",
+        "Downloads": "338,688",
+        "DatePublished": "5/26/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.2.0-dev-00239",
+        "Downloads": "10,894",
+        "DatePublished": "5/13/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.1.1-dev-00237",
+        "Downloads": "9,653",
+        "DatePublished": "5/13/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.1.1-dev-00234",
+        "Downloads": "835",
+        "DatePublished": "5/12/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.1.1-dev-00232",
+        "Downloads": "699",
+        "DatePublished": "5/11/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.1.1-dev-00228",
+        "Downloads": "652",
+        "DatePublished": "5/10/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.1.1-dev-00224",
+        "Downloads": "55,252",
+        "DatePublished": "3/25/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.1.1-dev-00216",
+        "Downloads": "607,474",
+        "DatePublished": "11/21/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.1.1-dev-00209",
+        "Downloads": "344,664",
+        "DatePublished": "6/3/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.1.0",
+        "Downloads": "95,654,379",
+        "DatePublished": "6/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.1.0-dev-00206",
+        "Downloads": "544",
+        "DatePublished": "6/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.1.0-dev-00204",
+        "Downloads": "554",
+        "DatePublished": "6/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.1.0-dev-00202",
+        "Downloads": "525",
+        "DatePublished": "6/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.1.0-dev-00200",
+        "Downloads": "527",
+        "DatePublished": "6/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.2-dev-00198",
+        "Downloads": "2,434",
+        "DatePublished": "5/24/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.2-dev-00195",
+        "Downloads": "13,800",
+        "DatePublished": "5/6/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.2-dev-00187",
+        "Downloads": "74,653",
+        "DatePublished": "1/7/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.2-dev-00186",
+        "Downloads": "771",
+        "DatePublished": "1/7/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.2-dev-00185",
+        "Downloads": "640",
+        "DatePublished": "1/7/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.2-dev-00183",
+        "Downloads": "623",
+        "DatePublished": "1/7/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.2-dev-00171",
+        "Downloads": "796",
+        "DatePublished": "1/4/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.1",
+        "Downloads": "9,810,915",
+        "DatePublished": "10/17/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.1-dev-00163",
+        "Downloads": "893",
+        "DatePublished": "10/17/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.1-dev-00160",
+        "Downloads": "4,561",
+        "DatePublished": "10/15/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.0",
+        "Downloads": "450,144",
+        "DatePublished": "10/7/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.0-dev-00149",
+        "Downloads": "641",
+        "DatePublished": "10/7/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.0-dev-00147",
+        "Downloads": "621",
+        "DatePublished": "10/7/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.0-dev-00142",
+        "Downloads": "642",
+        "DatePublished": "10/6/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.0-dev-00139",
+        "Downloads": "665",
+        "DatePublished": "10/5/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.0-dev-00133",
+        "Downloads": "3,785",
+        "DatePublished": "9/29/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.0-dev-00128",
+        "Downloads": "2,214",
+        "DatePublished": "9/22/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.0-dev-00125",
+        "Downloads": "4,014",
+        "DatePublished": "9/16/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.0-dev-00119",
+        "Downloads": "30,907",
+        "DatePublished": "7/28/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.0-dev-00116",
+        "Downloads": "6,746",
+        "DatePublished": "7/18/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.0-dev-00113",
+        "Downloads": "11,205",
+        "DatePublished": "7/9/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.0-dev-00112",
+        "Downloads": "50,330",
+        "DatePublished": "5/14/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.0-dev-00111",
+        "Downloads": "1,645",
+        "DatePublished": "5/9/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.0-dev-00108",
+        "Downloads": "2,679",
+        "DatePublished": "4/30/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.0-dev-00103",
+        "Downloads": "1,904",
+        "DatePublished": "4/21/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.0-dev-00097",
+        "Downloads": "3,592",
+        "DatePublished": "4/11/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.0-dev-00093",
+        "Downloads": "12,625",
+        "DatePublished": "4/5/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "3.0.0-dev-00083",
+        "Downloads": "27,686",
+        "DatePublished": "3/14/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.6.1",
+        "Downloads": "7,559,830",
+        "DatePublished": "3/15/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.6.0",
+        "Downloads": "18,327",
+        "DatePublished": "3/14/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.6.0-dev-00081",
+        "Downloads": "8,323",
+        "DatePublished": "2/13/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.5.1-dev-00078",
+        "Downloads": "817",
+        "DatePublished": "2/13/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.5.0",
+        "Downloads": "604,758",
+        "DatePublished": "2/10/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.4.1-dev-00072",
+        "Downloads": "3,767",
+        "DatePublished": "1/30/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.4.1-dev-00070",
+        "Downloads": "20,532",
+        "DatePublished": "12/15/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.4.1-dev-00063",
+        "Downloads": "12,535",
+        "DatePublished": "11/8/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.4.1-dev-00061",
+        "Downloads": "22,979",
+        "DatePublished": "9/7/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.4.0",
+        "Downloads": "2,056,725",
+        "DatePublished": "5/18/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.4.0-dev-00057",
+        "Downloads": "4,862",
+        "DatePublished": "4/12/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.4.0-dev-00055",
+        "Downloads": "1,328",
+        "DatePublished": "4/5/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.3.2-dev-00054",
+        "Downloads": "844",
+        "DatePublished": "4/5/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.3.1",
+        "Downloads": "107,413",
+        "DatePublished": "4/5/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.3.1-dev-00049",
+        "Downloads": "866",
+        "DatePublished": "4/5/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.3.0",
+        "Downloads": "14,501",
+        "DatePublished": "3/29/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.3.0-dev-00044",
+        "Downloads": "3,442",
+        "DatePublished": "3/10/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.3.0-dev-00042",
+        "Downloads": "4,528",
+        "DatePublished": "1/17/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.2.1-dev-00041",
+        "Downloads": "872",
+        "DatePublished": "1/17/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.2.0",
+        "Downloads": "256,424",
+        "DatePublished": "11/6/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.2.0-dev-00035",
+        "Downloads": "6,256",
+        "DatePublished": "9/1/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.1.0",
+        "Downloads": "46,990",
+        "DatePublished": "7/26/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.1.0-dev-00028",
+        "Downloads": "1,719",
+        "DatePublished": "7/6/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.1.0-dev-00026",
+        "Downloads": "986",
+        "DatePublished": "7/5/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "23,182",
+        "DatePublished": "7/5/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.0.0-rc-8",
+        "Downloads": "1,348",
+        "DatePublished": "5/27/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.0.0-rc-21",
+        "Downloads": "1,019",
+        "DatePublished": "6/20/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.0.0-rc-19",
+        "Downloads": "919",
+        "DatePublished": "6/6/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.0.0-rc-17",
+        "Downloads": "855",
+        "DatePublished": "6/4/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.0.0-rc-15",
+        "Downloads": "857",
+        "DatePublished": "6/1/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.0.0-rc-13",
+        "Downloads": "882",
+        "DatePublished": "5/27/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.0.0-beta-6",
+        "Downloads": "2,113",
+        "DatePublished": "3/9/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.0.0-beta-5",
+        "Downloads": "916",
+        "DatePublished": "3/4/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 34,
+          "PackageName": "serilog.settings.configuration",
+          "PackageListingUrl": "/packages/serilog.settings.configuration/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:09.8488928+00:00"
+        },
+        "Version": "2.0.0-beta-4",
+        "Downloads": "912",
+        "DatePublished": "3/4/2016"
+      }
+    ]
+  }
+}

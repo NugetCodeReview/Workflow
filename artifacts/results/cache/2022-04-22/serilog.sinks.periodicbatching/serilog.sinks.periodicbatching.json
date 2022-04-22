@@ -1,0 +1,1293 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "serilog.sinks.periodicbatching",
+  "PackageUrl": "/packages/serilog.sinks.periodicbatching/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/serilog/serilog-sinks-periodicbatching.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "serilog/serilog_serilog-sinks-periodicbatching",
+    "Url": "https://api.github.com/NugetCodeReview/serilog_serilog-sinks-periodicbatching.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.3.1",
+        "Downloads": "223,774",
+        "DatePublished": "1/7/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.3.1-dev-00785",
+        "Downloads": "74",
+        "DatePublished": "1/7/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.3.1-dev-00780",
+        "Downloads": "20,677",
+        "DatePublished": "1/6/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.3.1-dev-00776",
+        "Downloads": "1,936",
+        "DatePublished": "7/23/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.3.1-dev-00774",
+        "Downloads": "906",
+        "DatePublished": "6/1/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.3.0",
+        "Downloads": "17,747,018",
+        "DatePublished": "2/28/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.3.0-dev-00765",
+        "Downloads": "621",
+        "DatePublished": "2/17/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.3.0-dev-00762",
+        "Downloads": "111,337",
+        "DatePublished": "2/16/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.3.0-dev-00760",
+        "Downloads": "33,888",
+        "DatePublished": "2/14/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.2.1-dev-00758",
+        "Downloads": "398",
+        "DatePublished": "2/13/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.2.1-dev-00755",
+        "Downloads": "14,395",
+        "DatePublished": "7/10/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.2.0",
+        "Downloads": "9,193,701",
+        "DatePublished": "5/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.2.0-dev-00748",
+        "Downloads": "655",
+        "DatePublished": "5/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.2.0-dev-00740",
+        "Downloads": "3,523",
+        "DatePublished": "1/28/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.1.1",
+        "Downloads": "56,138,792",
+        "DatePublished": "6/20/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.1.1-dev-00732",
+        "Downloads": "866",
+        "DatePublished": "6/20/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.1.1-dev-00729",
+        "Downloads": "3,664",
+        "DatePublished": "3/13/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.1.1-dev-00725",
+        "Downloads": "180,933",
+        "DatePublished": "10/26/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.1.0",
+        "Downloads": "7,331,653",
+        "DatePublished": "10/25/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.1.0-dev-00720",
+        "Downloads": "1,458",
+        "DatePublished": "9/29/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.2-dev-00719",
+        "Downloads": "827",
+        "DatePublished": "9/28/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.1",
+        "Downloads": "278,344",
+        "DatePublished": "9/20/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.1-dev-00714",
+        "Downloads": "1,316",
+        "DatePublished": "9/12/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "4,037,356",
+        "DatePublished": "6/27/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-rc-707",
+        "Downloads": "5,264",
+        "DatePublished": "5/17/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-rc-705",
+        "Downloads": "850",
+        "DatePublished": "5/17/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-beta-702",
+        "Downloads": "955",
+        "DatePublished": "4/20/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-beta-700",
+        "Downloads": "1,550",
+        "DatePublished": "3/23/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-beta-519",
+        "Downloads": "1,099",
+        "DatePublished": "3/16/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-beta-516",
+        "Downloads": "839",
+        "DatePublished": "3/15/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-beta-513",
+        "Downloads": "826",
+        "DatePublished": "3/15/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-beta-511",
+        "Downloads": "830",
+        "DatePublished": "3/14/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-beta-509",
+        "Downloads": "821",
+        "DatePublished": "3/13/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-beta-507",
+        "Downloads": "1,119",
+        "DatePublished": "3/1/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-beta-505",
+        "Downloads": "3,883",
+        "DatePublished": "2/25/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-beta-502",
+        "Downloads": "901",
+        "DatePublished": "2/22/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-beta-499",
+        "Downloads": "945",
+        "DatePublished": "2/21/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-beta-495",
+        "Downloads": "848",
+        "DatePublished": "2/19/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-beta-494",
+        "Downloads": "860",
+        "DatePublished": "2/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-beta-493",
+        "Downloads": "839",
+        "DatePublished": "2/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-beta-487",
+        "Downloads": "964",
+        "DatePublished": "2/16/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-beta-486",
+        "Downloads": "1,033",
+        "DatePublished": "2/11/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-beta-479",
+        "Downloads": "853",
+        "DatePublished": "2/9/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-beta-478",
+        "Downloads": "845",
+        "DatePublished": "2/9/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 58,
+          "PackageName": "serilog.sinks.periodicbatching",
+          "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+          },
+          "DateTaken": "2022-04-22T19:26:45.4748849+00:00"
+        },
+        "Version": "2.0.0-beta-465",
+        "Downloads": "2,626",
+        "DatePublished": "1/26/2016"
+      }
+    ]
+  }
+}

@@ -1,0 +1,369 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "serilog.sinks.debug",
+  "PackageUrl": "/packages/serilog.sinks.debug/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/serilog/serilog-sinks-debug.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "serilog/serilog_serilog-sinks-debug",
+    "Url": "https://api.github.com/NugetCodeReview/serilog_serilog-sinks-debug.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 45,
+          "PackageName": "serilog.sinks.debug",
+          "PackageListingUrl": "/packages/serilog.sinks.debug/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Debug/2.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:19.032395+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "30,164,780",
+        "DatePublished": "2/14/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 45,
+          "PackageName": "serilog.sinks.debug",
+          "PackageListingUrl": "/packages/serilog.sinks.debug/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Debug/2.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:19.032395+00:00"
+        },
+        "Version": "2.0.0-dev-00026",
+        "Downloads": "2,095",
+        "DatePublished": "1/12/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 45,
+          "PackageName": "serilog.sinks.debug",
+          "PackageListingUrl": "/packages/serilog.sinks.debug/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Debug/2.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:19.032395+00:00"
+        },
+        "Version": "1.0.2-dev-00023",
+        "Downloads": "6,016",
+        "DatePublished": "12/15/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 45,
+          "PackageName": "serilog.sinks.debug",
+          "PackageListingUrl": "/packages/serilog.sinks.debug/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Debug/2.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:19.032395+00:00"
+        },
+        "Version": "1.0.2-dev-00020",
+        "Downloads": "227,758",
+        "DatePublished": "9/22/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 45,
+          "PackageName": "serilog.sinks.debug",
+          "PackageListingUrl": "/packages/serilog.sinks.debug/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Debug/2.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:19.032395+00:00"
+        },
+        "Version": "1.0.2-dev-00018",
+        "Downloads": "73,124",
+        "DatePublished": "5/9/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 45,
+          "PackageName": "serilog.sinks.debug",
+          "PackageListingUrl": "/packages/serilog.sinks.debug/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Debug/2.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:19.032395+00:00"
+        },
+        "Version": "1.0.1",
+        "Downloads": "60,891,042",
+        "DatePublished": "3/21/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 45,
+          "PackageName": "serilog.sinks.debug",
+          "PackageListingUrl": "/packages/serilog.sinks.debug/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Debug/2.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:19.032395+00:00"
+        },
+        "Version": "1.0.1-dev-00015",
+        "Downloads": "7,422",
+        "DatePublished": "1/11/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 45,
+          "PackageName": "serilog.sinks.debug",
+          "PackageListingUrl": "/packages/serilog.sinks.debug/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Debug/2.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:19.032395+00:00"
+        },
+        "Version": "1.0.0",
+        "Downloads": "839,059",
+        "DatePublished": "9/6/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 45,
+          "PackageName": "serilog.sinks.debug",
+          "PackageListingUrl": "/packages/serilog.sinks.debug/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Debug/2.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:19.032395+00:00"
+        },
+        "Version": "1.0.0-dev-00009",
+        "Downloads": "891",
+        "DatePublished": "8/28/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 45,
+          "PackageName": "serilog.sinks.debug",
+          "PackageListingUrl": "/packages/serilog.sinks.debug/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Debug/2.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:19.032395+00:00"
+        },
+        "Version": "1.0.0-dev-00007",
+        "Downloads": "710",
+        "DatePublished": "8/28/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 45,
+          "PackageName": "serilog.sinks.debug",
+          "PackageListingUrl": "/packages/serilog.sinks.debug/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Debug/2.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:19.032395+00:00"
+        },
+        "Version": "1.0.0-dev-00004",
+        "Downloads": "771",
+        "DatePublished": "8/27/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 45,
+          "PackageName": "serilog.sinks.debug",
+          "PackageListingUrl": "/packages/serilog.sinks.debug/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Debug/2.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:19.032395+00:00"
+        },
+        "Version": "1.0.0-dev-00002",
+        "Downloads": "753",
+        "DatePublished": "8/27/2017"
+      }
+    ]
+  }
+}

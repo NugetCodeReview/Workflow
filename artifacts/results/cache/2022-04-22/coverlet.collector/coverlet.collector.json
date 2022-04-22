@@ -1,0 +1,527 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "coverlet.collector",
+  "PackageUrl": "/packages/coverlet.collector/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/coverlet-coverage/coverlet.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "coverlet-coverage/coverlet-coverage_coverlet",
+    "Url": "https://api.github.com/NugetCodeReview/coverlet-coverage_coverlet.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 29,
+          "PackageName": "coverlet.collector",
+          "PackageListingUrl": "/packages/coverlet.collector/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "tonerdo",
+                "Url": "/profiles/tonerdo"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MarcoRossignoli",
+                "Url": "/profiles/MarcoRossignoli"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/coverlet.collector/3.1.2"
+          },
+          "DateTaken": "2022-04-22T19:26:05.0418214+00:00"
+        },
+        "Version": "3.1.2",
+        "Downloads": "2,809,668",
+        "DatePublished": "2/6/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 29,
+          "PackageName": "coverlet.collector",
+          "PackageListingUrl": "/packages/coverlet.collector/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "tonerdo",
+                "Url": "/profiles/tonerdo"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MarcoRossignoli",
+                "Url": "/profiles/MarcoRossignoli"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/coverlet.collector/3.1.2"
+          },
+          "DateTaken": "2022-04-22T19:26:05.0418214+00:00"
+        },
+        "Version": "3.1.1",
+        "Downloads": "386,540",
+        "DatePublished": "1/30/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 29,
+          "PackageName": "coverlet.collector",
+          "PackageListingUrl": "/packages/coverlet.collector/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "tonerdo",
+                "Url": "/profiles/tonerdo"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MarcoRossignoli",
+                "Url": "/profiles/MarcoRossignoli"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/coverlet.collector/3.1.2"
+          },
+          "DateTaken": "2022-04-22T19:26:05.0418214+00:00"
+        },
+        "Version": "3.1.0",
+        "Downloads": "12,932,090",
+        "DatePublished": "7/19/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 29,
+          "PackageName": "coverlet.collector",
+          "PackageListingUrl": "/packages/coverlet.collector/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "tonerdo",
+                "Url": "/profiles/tonerdo"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MarcoRossignoli",
+                "Url": "/profiles/MarcoRossignoli"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/coverlet.collector/3.1.2"
+          },
+          "DateTaken": "2022-04-22T19:26:05.0418214+00:00"
+        },
+        "Version": "3.0.3",
+        "Downloads": "10,415,544",
+        "DatePublished": "2/21/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 29,
+          "PackageName": "coverlet.collector",
+          "PackageListingUrl": "/packages/coverlet.collector/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "tonerdo",
+                "Url": "/profiles/tonerdo"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MarcoRossignoli",
+                "Url": "/profiles/MarcoRossignoli"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/coverlet.collector/3.1.2"
+          },
+          "DateTaken": "2022-04-22T19:26:05.0418214+00:00"
+        },
+        "Version": "3.0.2",
+        "Downloads": "8,295,398",
+        "DatePublished": "1/24/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 29,
+          "PackageName": "coverlet.collector",
+          "PackageListingUrl": "/packages/coverlet.collector/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "tonerdo",
+                "Url": "/profiles/tonerdo"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MarcoRossignoli",
+                "Url": "/profiles/MarcoRossignoli"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/coverlet.collector/3.1.2"
+          },
+          "DateTaken": "2022-04-22T19:26:05.0418214+00:00"
+        },
+        "Version": "3.0.1",
+        "Downloads": "661,752",
+        "DatePublished": "1/16/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 29,
+          "PackageName": "coverlet.collector",
+          "PackageListingUrl": "/packages/coverlet.collector/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "tonerdo",
+                "Url": "/profiles/tonerdo"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MarcoRossignoli",
+                "Url": "/profiles/MarcoRossignoli"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/coverlet.collector/3.1.2"
+          },
+          "DateTaken": "2022-04-22T19:26:05.0418214+00:00"
+        },
+        "Version": "3.0.0",
+        "Downloads": "429,337",
+        "DatePublished": "1/9/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 29,
+          "PackageName": "coverlet.collector",
+          "PackageListingUrl": "/packages/coverlet.collector/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "tonerdo",
+                "Url": "/profiles/tonerdo"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MarcoRossignoli",
+                "Url": "/profiles/MarcoRossignoli"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/coverlet.collector/3.1.2"
+          },
+          "DateTaken": "2022-04-22T19:26:05.0418214+00:00"
+        },
+        "Version": "1.3.0",
+        "Downloads": "25,112,092",
+        "DatePublished": "5/30/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 29,
+          "PackageName": "coverlet.collector",
+          "PackageListingUrl": "/packages/coverlet.collector/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "tonerdo",
+                "Url": "/profiles/tonerdo"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MarcoRossignoli",
+                "Url": "/profiles/MarcoRossignoli"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/coverlet.collector/3.1.2"
+          },
+          "DateTaken": "2022-04-22T19:26:05.0418214+00:00"
+        },
+        "Version": "1.2.1",
+        "Downloads": "4,466,186",
+        "DatePublished": "4/2/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 29,
+          "PackageName": "coverlet.collector",
+          "PackageListingUrl": "/packages/coverlet.collector/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "tonerdo",
+                "Url": "/profiles/tonerdo"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MarcoRossignoli",
+                "Url": "/profiles/MarcoRossignoli"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/coverlet.collector/3.1.2"
+          },
+          "DateTaken": "2022-04-22T19:26:05.0418214+00:00"
+        },
+        "Version": "1.2.0",
+        "Downloads": "23,404,433",
+        "DatePublished": "1/3/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 29,
+          "PackageName": "coverlet.collector",
+          "PackageListingUrl": "/packages/coverlet.collector/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "tonerdo",
+                "Url": "/profiles/tonerdo"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MarcoRossignoli",
+                "Url": "/profiles/MarcoRossignoli"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/coverlet.collector/3.1.2"
+          },
+          "DateTaken": "2022-04-22T19:26:05.0418214+00:00"
+        },
+        "Version": "1.1.0",
+        "Downloads": "2,165,483",
+        "DatePublished": "9/22/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 29,
+          "PackageName": "coverlet.collector",
+          "PackageListingUrl": "/packages/coverlet.collector/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "tonerdo",
+                "Url": "/profiles/tonerdo"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MarcoRossignoli",
+                "Url": "/profiles/MarcoRossignoli"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/coverlet.collector/3.1.2"
+          },
+          "DateTaken": "2022-04-22T19:26:05.0418214+00:00"
+        },
+        "Version": "1.0.1",
+        "Downloads": "14,177,936",
+        "DatePublished": "7/1/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 29,
+          "PackageName": "coverlet.collector",
+          "PackageListingUrl": "/packages/coverlet.collector/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "tonerdo",
+                "Url": "/profiles/tonerdo"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MarcoRossignoli",
+                "Url": "/profiles/MarcoRossignoli"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/coverlet.collector/3.1.2"
+          },
+          "DateTaken": "2022-04-22T19:26:05.0418214+00:00"
+        },
+        "Version": "1.0.0",
+        "Downloads": "219,815",
+        "DatePublished": "6/6/2019"
+      }
+    ]
+  }
+}

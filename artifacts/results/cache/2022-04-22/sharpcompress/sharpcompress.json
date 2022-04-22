@@ -1,0 +1,2178 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "sharpcompress",
+  "PackageUrl": "/packages/sharpcompress/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/adamhathcock/sharpcompress.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "adamhathcock/adamhathcock_sharpcompress",
+    "Url": "https://api.github.com/NugetCodeReview/adamhathcock_sharpcompress.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.31.0",
+        "Downloads": "26,567",
+        "DatePublished": "3/30/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.30.1",
+        "Downloads": "2,729,955",
+        "DatePublished": "11/22/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.30.0",
+        "Downloads": "494,153",
+        "DatePublished": "10/2/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.29.0",
+        "Downloads": "294,839",
+        "DatePublished": "9/12/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.28.3",
+        "Downloads": "400,372",
+        "DatePublished": "6/4/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.28.2",
+        "Downloads": "199,295",
+        "DatePublished": "4/25/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.28.1",
+        "Downloads": "368,066",
+        "DatePublished": "2/18/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.28.0",
+        "Downloads": "11,345",
+        "DatePublished": "2/14/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.27.1",
+        "Downloads": "133,142",
+        "DatePublished": "1/13/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.27.0",
+        "Downloads": "13,784",
+        "DatePublished": "1/11/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.26.0",
+        "Downloads": "675,695",
+        "DatePublished": "7/26/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.25.1",
+        "Downloads": "315,079",
+        "DatePublished": "5/22/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.25.0",
+        "Downloads": "383,069",
+        "DatePublished": "4/3/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.24.0",
+        "Downloads": "1,489,020",
+        "DatePublished": "8/20/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.23.0",
+        "Downloads": "40,268,877",
+        "DatePublished": "2/27/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.22.0",
+        "Downloads": "641,499",
+        "DatePublished": "7/9/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.21.1",
+        "Downloads": "60,917",
+        "DatePublished": "5/15/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.21.0",
+        "Downloads": "16,163",
+        "DatePublished": "5/9/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.20.0",
+        "Downloads": "82,693",
+        "DatePublished": "3/24/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.19.2",
+        "Downloads": "80,816",
+        "DatePublished": "12/16/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.19.1",
+        "Downloads": "2,301",
+        "DatePublished": "12/15/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.19.0",
+        "Downloads": "3,725",
+        "DatePublished": "12/12/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.18.2",
+        "Downloads": "244,825",
+        "DatePublished": "9/22/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.18.1",
+        "Downloads": "40,145",
+        "DatePublished": "8/17/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.18.0",
+        "Downloads": "28,109",
+        "DatePublished": "7/19/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.17.1",
+        "Downloads": "815,712",
+        "DatePublished": "6/9/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.17.0",
+        "Downloads": "7,233",
+        "DatePublished": "6/1/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.16.2",
+        "Downloads": "6,852",
+        "DatePublished": "5/31/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.16.1",
+        "Downloads": "33,153",
+        "DatePublished": "5/23/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.16.0",
+        "Downloads": "3,917",
+        "DatePublished": "5/22/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.15.2",
+        "Downloads": "282,828",
+        "DatePublished": "3/9/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.15.1",
+        "Downloads": "100,898",
+        "DatePublished": "1/26/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.15.0",
+        "Downloads": "4,005",
+        "DatePublished": "1/24/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.14.1",
+        "Downloads": "28,395",
+        "DatePublished": "11/30/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.14.0",
+        "Downloads": "20,944",
+        "DatePublished": "10/14/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.13.1",
+        "Downloads": "14,978",
+        "DatePublished": "10/3/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.13.0",
+        "Downloads": "4,160",
+        "DatePublished": "9/29/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.12.4",
+        "Downloads": "25,872",
+        "DatePublished": "8/12/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.12.3",
+        "Downloads": "23,080",
+        "DatePublished": "7/22/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.12.2",
+        "Downloads": "2,063",
+        "DatePublished": "7/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.12.1",
+        "Downloads": "2,302",
+        "DatePublished": "7/13/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.12.0",
+        "Downloads": "2,142",
+        "DatePublished": "7/13/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.11.6",
+        "Downloads": "166,914",
+        "DatePublished": "4/7/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.11.5",
+        "Downloads": "98,946",
+        "DatePublished": "2/14/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.11.4",
+        "Downloads": "3,292",
+        "DatePublished": "2/7/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.11.3",
+        "Downloads": "5,945",
+        "DatePublished": "12/28/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.11.2",
+        "Downloads": "3,785",
+        "DatePublished": "12/1/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.11.1",
+        "Downloads": "41,523",
+        "DatePublished": "7/27/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.11.0",
+        "Downloads": "3,677",
+        "DatePublished": "6/12/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.10.3",
+        "Downloads": "29,717",
+        "DatePublished": "12/15/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.10.2",
+        "Downloads": "40,695",
+        "DatePublished": "11/23/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.10.1.3",
+        "Downloads": "15,394",
+        "DatePublished": "8/14/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.10.1.1",
+        "Downloads": "1,659",
+        "DatePublished": "8/13/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.10.1",
+        "Downloads": "1,950",
+        "DatePublished": "8/11/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.10.0",
+        "Downloads": "2,174",
+        "DatePublished": "7/27/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.9.0",
+        "Downloads": "3,286",
+        "DatePublished": "5/4/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.8.2",
+        "Downloads": "14,916",
+        "DatePublished": "12/11/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.8.1",
+        "Downloads": "5,176",
+        "DatePublished": "5/15/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.8.0",
+        "Downloads": "2,680",
+        "DatePublished": "2/27/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.7.0",
+        "Downloads": "2,391",
+        "DatePublished": "11/16/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.6.0",
+        "Downloads": "2,062",
+        "DatePublished": "9/22/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.5.0",
+        "Downloads": "1,994",
+        "DatePublished": "7/6/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.4.0",
+        "Downloads": "1,911",
+        "DatePublished": "6/22/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.3.0",
+        "Downloads": "1,898",
+        "DatePublished": "5/27/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 79,
+          "PackageName": "sharpcompress",
+          "PackageListingUrl": "/packages/sharpcompress/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "adamhathcock",
+                "Url": "/profiles/adamhathcock"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.5859958+00:00"
+        },
+        "Version": "0.2.0",
+        "Downloads": "5,999",
+        "DatePublished": "5/12/2011"
+      }
+    ]
+  }
+}

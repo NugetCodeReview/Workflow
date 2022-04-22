@@ -1,0 +1,621 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "pipelines.sockets.unofficial",
+  "PackageUrl": "/packages/pipelines.sockets.unofficial/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/mgravell/Pipelines.Sockets.Unofficial.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "mgravell/mgravell_Pipelines.Sockets.Unofficial",
+    "Url": "https://api.github.com/NugetCodeReview/mgravell_Pipelines.Sockets.Unofficial.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "2.2.2",
+        "Downloads": "753,146",
+        "DatePublished": "12/14/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "2.2.0",
+        "Downloads": "24,856,029",
+        "DatePublished": "11/13/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "2.1.16",
+        "Downloads": "17,730,213",
+        "DatePublished": "6/9/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "2.1.11",
+        "Downloads": "340,084",
+        "DatePublished": "4/21/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "2.1.8",
+        "Downloads": "633,475",
+        "DatePublished": "4/5/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "2.1.1",
+        "Downloads": "965,231",
+        "DatePublished": "12/19/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "2.1.0",
+        "Downloads": "267,746",
+        "DatePublished": "10/21/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "2.0.25",
+        "Downloads": "274,197",
+        "DatePublished": "8/15/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "2.0.22",
+        "Downloads": "20,869,816",
+        "DatePublished": "4/5/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "2.0.20",
+        "Downloads": "8,859",
+        "DatePublished": "4/4/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "2.0.17",
+        "Downloads": "20,631,139",
+        "DatePublished": "4/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "2.0.11",
+        "Downloads": "14,421",
+        "DatePublished": "3/29/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "2.0.10",
+        "Downloads": "1,489",
+        "DatePublished": "3/28/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "2.0.7",
+        "Downloads": "824,228",
+        "DatePublished": "3/13/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "1.1.23",
+        "Downloads": "16,211",
+        "DatePublished": "3/9/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "1.1.14",
+        "Downloads": "12,817",
+        "DatePublished": "3/7/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "1.1.11",
+        "Downloads": "29,570",
+        "DatePublished": "3/5/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "1.0.9",
+        "Downloads": "366,823",
+        "DatePublished": "11/29/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "1.0.7",
+        "Downloads": "16,447,820",
+        "DatePublished": "9/27/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "1.0.6",
+        "Downloads": "41,084",
+        "DatePublished": "9/26/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 39,
+          "PackageName": "pipelines.sockets.unofficial",
+          "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+          },
+          "DateTaken": "2022-04-22T19:26:14.0809741+00:00"
+        },
+        "Version": "1.0.0",
+        "Downloads": "1,155,782",
+        "DatePublished": "8/28/2018"
+      }
+    ]
+  }
+}

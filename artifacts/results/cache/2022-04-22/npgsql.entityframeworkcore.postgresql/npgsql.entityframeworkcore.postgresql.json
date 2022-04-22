@@ -1,0 +1,1933 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "npgsql.entityframeworkcore.postgresql",
+  "PackageUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/npgsql/efcore.pg.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "npgsql/npgsql_efcore.pg",
+    "Url": "https://api.github.com/NugetCodeReview/npgsql_efcore.pg.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "7.0.0-preview.3",
+        "Downloads": "197",
+        "DatePublished": "4/19/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "7.0.0-preview.2",
+        "Downloads": "3,569",
+        "DatePublished": "3/16/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "7.0.0-preview.1",
+        "Downloads": "3,521",
+        "DatePublished": "2/17/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "6.0.4",
+        "Downloads": "10,865",
+        "DatePublished": "4/19/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "6.0.3",
+        "Downloads": "1,049,056",
+        "DatePublished": "1/27/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "6.0.2",
+        "Downloads": "931,212",
+        "DatePublished": "12/22/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "6.0.1",
+        "Downloads": "608,652",
+        "DatePublished": "12/3/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "6.0.0",
+        "Downloads": "498,241",
+        "DatePublished": "11/9/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "6.0.0-rc.2",
+        "Downloads": "77,391",
+        "DatePublished": "10/14/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "6.0.0-rc.1",
+        "Downloads": "24,600",
+        "DatePublished": "9/24/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "6.0.0-preview7",
+        "Downloads": "14,635",
+        "DatePublished": "8/16/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "6.0.0-preview6",
+        "Downloads": "4,834",
+        "DatePublished": "7/31/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "6.0.0-preview5",
+        "Downloads": "11,353",
+        "DatePublished": "7/1/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "6.0.0-preview4",
+        "Downloads": "27,676",
+        "DatePublished": "5/27/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "6.0.0-preview3",
+        "Downloads": "12,844",
+        "DatePublished": "4/15/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "6.0.0-preview2",
+        "Downloads": "7,841",
+        "DatePublished": "3/11/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "6.0.0-preview1",
+        "Downloads": "9,344",
+        "DatePublished": "2/16/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "5.0.10",
+        "Downloads": "2,845,964",
+        "DatePublished": "9/15/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "5.0.7",
+        "Downloads": "2,900,834",
+        "DatePublished": "6/13/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "5.0.6",
+        "Downloads": "1,115,591",
+        "DatePublished": "5/11/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "5.0.5.1",
+        "Downloads": "790,682",
+        "DatePublished": "4/21/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "5.0.5",
+        "Downloads": "232,331",
+        "DatePublished": "4/16/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "5.0.2",
+        "Downloads": "3,280,624",
+        "DatePublished": "1/19/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "5.0.1",
+        "Downloads": "1,006,010",
+        "DatePublished": "12/12/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "5.0.0",
+        "Downloads": "1,183,805",
+        "DatePublished": "11/15/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "3.1.18",
+        "Downloads": "557,325",
+        "DatePublished": "8/27/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "3.1.11",
+        "Downloads": "1,751,471",
+        "DatePublished": "1/21/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "3.1.4",
+        "Downloads": "8,458,873",
+        "DatePublished": "5/29/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "3.1.3",
+        "Downloads": "2,533,014",
+        "DatePublished": "3/26/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "3.1.2",
+        "Downloads": "1,462,089",
+        "DatePublished": "2/20/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "3.1.1.2",
+        "Downloads": "587,947",
+        "DatePublished": "2/6/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "3.1.1.1",
+        "Downloads": "159,169",
+        "DatePublished": "2/3/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "3.1.1",
+        "Downloads": "221,991",
+        "DatePublished": "1/31/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "3.1.0",
+        "Downloads": "2,108,425",
+        "DatePublished": "12/4/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "3.0.1",
+        "Downloads": "893,109",
+        "DatePublished": "10/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "3.0.0",
+        "Downloads": "212,038",
+        "DatePublished": "9/26/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "2.2.4",
+        "Downloads": "4,205,658",
+        "DatePublished": "5/21/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "2.2.0",
+        "Downloads": "4,374,838",
+        "DatePublished": "12/7/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "2.1.2",
+        "Downloads": "3,153,307",
+        "DatePublished": "9/8/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "2.1.1.1",
+        "Downloads": "882,366",
+        "DatePublished": "7/15/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "2.1.1",
+        "Downloads": "608,328",
+        "DatePublished": "7/1/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "2.1.0",
+        "Downloads": "1,045,871",
+        "DatePublished": "5/31/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "2.0.2",
+        "Downloads": "431,525",
+        "DatePublished": "4/22/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "2.0.1",
+        "Downloads": "509,999",
+        "DatePublished": "1/11/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "718,068",
+        "DatePublished": "8/16/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "1.1.1",
+        "Downloads": "170,293",
+        "DatePublished": "7/25/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "1.1.0",
+        "Downloads": "645,048",
+        "DatePublished": "11/20/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "1.0.2",
+        "Downloads": "48,089",
+        "DatePublished": "9/24/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "1.0.1",
+        "Downloads": "120,658",
+        "DatePublished": "7/21/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 81,
+          "PackageName": "npgsql.entityframeworkcore.postgresql",
+          "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "roji",
+                "Url": "/profiles/roji"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Npgsql",
+                "Url": "/profiles/Npgsql"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+          },
+          "DateTaken": "2022-04-22T19:27:12.7626271+00:00"
+        },
+        "Version": "1.0.0",
+        "Downloads": "83,722",
+        "DatePublished": "6/29/2016"
+      }
+    ]
+  }
+}

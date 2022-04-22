@@ -1,0 +1,845 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "serilog.extensions.hosting",
+  "PackageUrl": "/packages/serilog.extensions.hosting/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/serilog/serilog-extensions-hosting.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "serilog/serilog_serilog-extensions-hosting",
+    "Url": "https://api.github.com/NugetCodeReview/serilog_serilog-extensions-hosting.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "5.0.0-dev-00095",
+        "Downloads": "1,328",
+        "DatePublished": "3/21/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "5.0.0-dev-00094",
+        "Downloads": "48",
+        "DatePublished": "3/21/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "5.0.0-dev-00093",
+        "Downloads": "21,054",
+        "DatePublished": "3/4/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "4.2.1-dev-00092",
+        "Downloads": "671",
+        "DatePublished": "2/27/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "4.2.0",
+        "Downloads": "3,436,249",
+        "DatePublished": "11/8/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "4.2.0-dev-00079",
+        "Downloads": "132",
+        "DatePublished": "11/8/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "4.1.2",
+        "Downloads": "28,886,398",
+        "DatePublished": "3/3/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "4.1.2-dev-00062",
+        "Downloads": "215",
+        "DatePublished": "3/3/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "4.1.1",
+        "Downloads": "7,492",
+        "DatePublished": "3/2/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "4.1.1-dev-00058",
+        "Downloads": "854",
+        "DatePublished": "3/2/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "4.1.0",
+        "Downloads": "151,344",
+        "DatePublished": "2/24/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "4.1.0-dev-00054",
+        "Downloads": "269",
+        "DatePublished": "2/23/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "4.0.0",
+        "Downloads": "242,988",
+        "DatePublished": "2/14/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "4.0.0-dev-00051",
+        "Downloads": "65,462",
+        "DatePublished": "10/9/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "4.0.0-dev-00050",
+        "Downloads": "304",
+        "DatePublished": "10/9/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "3.1.0",
+        "Downloads": "27,080,187",
+        "DatePublished": "5/27/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "3.1.0-dev-00041",
+        "Downloads": "360",
+        "DatePublished": "5/27/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "3.1.0-dev-00037",
+        "Downloads": "481",
+        "DatePublished": "5/24/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "3.1.0-dev-00035",
+        "Downloads": "17,481",
+        "DatePublished": "5/11/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "3.0.0",
+        "Downloads": "33,976,909",
+        "DatePublished": "8/27/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "3.0.0-dev-00024",
+        "Downloads": "468",
+        "DatePublished": "8/27/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "3.0.0-dev-00019",
+        "Downloads": "108,739",
+        "DatePublished": "6/26/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "3.0.0-dev-00016",
+        "Downloads": "3,904",
+        "DatePublished": "6/24/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "3.0.0-dev-00015",
+        "Downloads": "478",
+        "DatePublished": "6/24/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "2.0.1-dev-00009",
+        "Downloads": "44,790",
+        "DatePublished": "9/21/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "2.0.1-dev-00007",
+        "Downloads": "1,500",
+        "DatePublished": "8/5/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "2.0.1-dev-00004",
+        "Downloads": "1,012",
+        "DatePublished": "7/19/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "1,840,312",
+        "DatePublished": "7/19/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 42,
+          "PackageName": "serilog.extensions.hosting",
+          "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+          },
+          "DateTaken": "2022-04-22T19:26:16.5393708+00:00"
+        },
+        "Version": "2.0.0-dev-00001",
+        "Downloads": "20,184",
+        "DatePublished": "6/3/2018"
+      }
+    ]
+  }
+}

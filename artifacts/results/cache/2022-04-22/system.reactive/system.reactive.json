@@ -1,0 +1,990 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "system.reactive",
+  "PackageUrl": "/packages/system.reactive/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/dotnet/reactive.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "dotnet/dotnet_reactive",
+    "Url": "https://api.github.com/NugetCodeReview/dotnet_reactive.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "5.0.0",
+        "Downloads": "9,785,112",
+        "DatePublished": "11/10/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "5.0.0-preview.220",
+        "Downloads": "8,976",
+        "DatePublished": "10/15/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "5.0.0-preview.16",
+        "Downloads": "14,193",
+        "DatePublished": "9/26/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.4.1",
+        "Downloads": "12,406,841",
+        "DatePublished": "4/2/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.3.2",
+        "Downloads": "7,458,552",
+        "DatePublished": "12/24/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.3.1",
+        "Downloads": "491,688",
+        "DatePublished": "12/4/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.2.2",
+        "Downloads": "1,686",
+        "DatePublished": "12/24/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.2.0",
+        "Downloads": "1,213,050",
+        "DatePublished": "10/10/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.2.0-preview.625",
+        "Downloads": "22,620",
+        "DatePublished": "8/19/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.2.0-preview.566",
+        "Downloads": "11,401",
+        "DatePublished": "6/14/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.2.0-preview.102",
+        "Downloads": "23,435",
+        "DatePublished": "2/24/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.2.0-preview.63",
+        "Downloads": "73,451",
+        "DatePublished": "12/12/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.1.6",
+        "Downloads": "2,406,751",
+        "DatePublished": "8/1/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.1.5",
+        "Downloads": "2,817,249",
+        "DatePublished": "4/10/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.1.4",
+        "Downloads": "21,387",
+        "DatePublished": "4/8/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.1.3",
+        "Downloads": "1,176,606",
+        "DatePublished": "2/18/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.1.2",
+        "Downloads": "4,515,159",
+        "DatePublished": "10/10/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.1.1",
+        "Downloads": "157,343",
+        "DatePublished": "10/1/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.1.0",
+        "Downloads": "887,231",
+        "DatePublished": "8/13/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.1.0-preview.330",
+        "Downloads": "1,343",
+        "DatePublished": "8/3/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.1.0-preview.84",
+        "Downloads": "35,672",
+        "DatePublished": "6/18/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.0.0",
+        "Downloads": "10,569,999",
+        "DatePublished": "5/25/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.0.0-preview.4.build.391",
+        "Downloads": "21,450",
+        "DatePublished": "5/23/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.0.0-preview.3.build.380",
+        "Downloads": "5,282",
+        "DatePublished": "5/16/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "4.0.0-preview.2.build.379",
+        "Downloads": "9,595",
+        "DatePublished": "5/12/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "3.1.1",
+        "Downloads": "6,072,666",
+        "DatePublished": "11/21/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "3.1.0",
+        "Downloads": "109,753",
+        "DatePublished": "11/5/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "3.1.0-rc",
+        "Downloads": "2,834",
+        "DatePublished": "9/23/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 78,
+          "PackageName": "system.reactive",
+          "PackageListingUrl": "/packages/system.reactive/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rxteam",
+                "Url": "/profiles/rxteam"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:10.0157134+00:00"
+        },
+        "Version": "3.0.0",
+        "Downloads": "1,199,492",
+        "DatePublished": "6/27/2016"
+      }
+    ]
+  }
+}

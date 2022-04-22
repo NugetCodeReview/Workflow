@@ -1,0 +1,2508 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "mongodb.bson",
+  "PackageUrl": "/packages/mongodb.bson/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/mongodb/mongo-csharp-driver.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "mongodb/mongodb_mongo-csharp-driver",
+    "Url": "https://api.github.com/NugetCodeReview/mongodb_mongo-csharp-driver.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.15.0",
+        "Downloads": "387,008",
+        "DatePublished": "3/9/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.14.1",
+        "Downloads": "1,901,614",
+        "DatePublished": "12/3/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.14.0",
+        "Downloads": "331,915",
+        "DatePublished": "11/24/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.14.0-beta1",
+        "Downloads": "25,227",
+        "DatePublished": "10/15/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.13.3",
+        "Downloads": "84,960",
+        "DatePublished": "11/23/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.13.2",
+        "Downloads": "1,811,071",
+        "DatePublished": "10/6/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.13.1",
+        "Downloads": "2,388,195",
+        "DatePublished": "8/4/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.13.0",
+        "Downloads": "746,234",
+        "DatePublished": "7/13/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.13.0-beta1",
+        "Downloads": "64,638",
+        "DatePublished": "3/31/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.12.5",
+        "Downloads": "18,787",
+        "DatePublished": "11/20/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.12.4",
+        "Downloads": "1,502,674",
+        "DatePublished": "6/4/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.12.3",
+        "Downloads": "1,297,651",
+        "DatePublished": "5/4/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.12.2",
+        "Downloads": "1,285,250",
+        "DatePublished": "4/7/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.12.1",
+        "Downloads": "846,177",
+        "DatePublished": "3/23/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.12.0",
+        "Downloads": "1,328,124",
+        "DatePublished": "3/3/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.12.0-beta1",
+        "Downloads": "86,709",
+        "DatePublished": "11/6/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.11.6",
+        "Downloads": "4,403,035",
+        "DatePublished": "1/20/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.11.5",
+        "Downloads": "1,832,280",
+        "DatePublished": "12/2/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.11.4",
+        "Downloads": "1,375,378",
+        "DatePublished": "11/4/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.11.3",
+        "Downloads": "2,091,116",
+        "DatePublished": "10/15/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.11.2",
+        "Downloads": "2,350,675",
+        "DatePublished": "9/10/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.11.1",
+        "Downloads": "703,309",
+        "DatePublished": "8/25/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.11.0",
+        "Downloads": "1,131,775",
+        "DatePublished": "7/30/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.11.0-beta2",
+        "Downloads": "22,075",
+        "DatePublished": "6/10/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.11.0-beta1",
+        "Downloads": "36,649",
+        "DatePublished": "4/10/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.10.4",
+        "Downloads": "5,968,095",
+        "DatePublished": "5/5/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.10.3",
+        "Downloads": "1,433,497",
+        "DatePublished": "4/7/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.10.2",
+        "Downloads": "4,491,529",
+        "DatePublished": "2/14/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.10.1",
+        "Downloads": "1,960,683",
+        "DatePublished": "1/15/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.10.0",
+        "Downloads": "2,570,040",
+        "DatePublished": "12/10/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.10.0-beta1",
+        "Downloads": "46,710",
+        "DatePublished": "10/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.9.3",
+        "Downloads": "2,658,417",
+        "DatePublished": "11/8/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.9.2",
+        "Downloads": "3,054,004",
+        "DatePublished": "9/30/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.9.1",
+        "Downloads": "3,764,049",
+        "DatePublished": "8/21/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.9.0",
+        "Downloads": "261,445",
+        "DatePublished": "8/15/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.9.0-beta2",
+        "Downloads": "32,252",
+        "DatePublished": "6/17/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.9.0-beta1",
+        "Downloads": "50,852",
+        "DatePublished": "3/13/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.8.1",
+        "Downloads": "4,433,371",
+        "DatePublished": "5/15/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.8.0",
+        "Downloads": "2,757,979",
+        "DatePublished": "3/13/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.7.3",
+        "Downloads": "2,187,449",
+        "DatePublished": "1/24/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.7.2",
+        "Downloads": "3,031,303",
+        "DatePublished": "11/10/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.7.1",
+        "Downloads": "35,023",
+        "DatePublished": "11/8/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.7.0",
+        "Downloads": "4,575,117",
+        "DatePublished": "6/27/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.7.0-beta0001",
+        "Downloads": "33,865",
+        "DatePublished": "4/22/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.6.1",
+        "Downloads": "1,112,507",
+        "DatePublished": "5/17/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.6.0",
+        "Downloads": "640,695",
+        "DatePublished": "4/24/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.5.1",
+        "Downloads": "329,120",
+        "DatePublished": "4/19/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.5.0",
+        "Downloads": "2,742,706",
+        "DatePublished": "12/12/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.4.4",
+        "Downloads": "4,715,172",
+        "DatePublished": "6/8/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.4.3",
+        "Downloads": "1,423,583",
+        "DatePublished": "3/9/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.4.2",
+        "Downloads": "276,724",
+        "DatePublished": "2/2/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.4.1",
+        "Downloads": "140,196",
+        "DatePublished": "1/4/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.4.0",
+        "Downloads": "534,928",
+        "DatePublished": "11/29/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.4.0-beta1",
+        "Downloads": "16,993",
+        "DatePublished": "10/5/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.3.0",
+        "Downloads": "2,955,523",
+        "DatePublished": "9/23/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.3.0-rc1",
+        "Downloads": "39,099",
+        "DatePublished": "8/29/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.3.0-beta1",
+        "Downloads": "9,649",
+        "DatePublished": "8/3/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.2.4",
+        "Downloads": "710,600",
+        "DatePublished": "5/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.2.3",
+        "Downloads": "474,695",
+        "DatePublished": "2/2/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.2.2",
+        "Downloads": "66,857",
+        "DatePublished": "1/15/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.2.1",
+        "Downloads": "20,082",
+        "DatePublished": "1/8/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.2.0",
+        "Downloads": "111,662",
+        "DatePublished": "12/7/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.2.0-rc0",
+        "Downloads": "3,246",
+        "DatePublished": "11/18/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.1.1",
+        "Downloads": "133,735",
+        "DatePublished": "11/11/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.1.0",
+        "Downloads": "69,173",
+        "DatePublished": "10/19/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.1.0-rc1",
+        "Downloads": "7,098",
+        "DatePublished": "10/7/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.1.0-rc0",
+        "Downloads": "5,197",
+        "DatePublished": "9/17/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.0.2",
+        "Downloads": "61,214",
+        "DatePublished": "11/11/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.0.1",
+        "Downloads": "294,364",
+        "DatePublished": "6/8/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "229,442",
+        "DatePublished": "4/2/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.0.0-rc0",
+        "Downloads": "16,061",
+        "DatePublished": "3/17/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.0.0-beta4",
+        "Downloads": "2,655",
+        "DatePublished": "3/9/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.0.0-beta3",
+        "Downloads": "2,167",
+        "DatePublished": "3/5/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.0.0-beta2",
+        "Downloads": "3,412",
+        "DatePublished": "2/4/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 62,
+          "PackageName": "mongodb.bson",
+          "PackageListingUrl": "/packages/mongodb.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MongoDB",
+                "Url": "/profiles/MongoDB"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+          },
+          "DateTaken": "2022-04-22T19:26:49.9564793+00:00"
+        },
+        "Version": "2.0.0-beta1",
+        "Downloads": "3,593",
+        "DatePublished": "1/16/2015"
+      }
+    ]
+  }
+}

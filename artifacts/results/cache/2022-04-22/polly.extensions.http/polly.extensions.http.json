@@ -1,0 +1,337 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "polly.extensions.http",
+  "PackageUrl": "/packages/polly.extensions.http/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/App-vNext/Polly.Extensions.Http.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "App-vNext/App-vNext_Polly.Extensions.Http",
+    "Url": "https://api.github.com/NugetCodeReview/App-vNext_Polly.Extensions.Http.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 73,
+          "PackageName": "polly.extensions.http",
+          "PackageListingUrl": "/packages/polly.extensions.http/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly.Extensions.Http/3.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:04.3971472+00:00"
+        },
+        "Version": "3.0.0",
+        "Downloads": "43,952,682",
+        "DatePublished": "4/1/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 73,
+          "PackageName": "polly.extensions.http",
+          "PackageListingUrl": "/packages/polly.extensions.http/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly.Extensions.Http/3.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:04.3971472+00:00"
+        },
+        "Version": "2.0.1",
+        "Downloads": "12,885,923",
+        "DatePublished": "5/6/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 73,
+          "PackageName": "polly.extensions.http",
+          "PackageListingUrl": "/packages/polly.extensions.http/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly.Extensions.Http/3.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:04.3971472+00:00"
+        },
+        "Version": "2.0.0-v2alpha0001",
+        "Downloads": "701",
+        "DatePublished": "5/3/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 73,
+          "PackageName": "polly.extensions.http",
+          "PackageListingUrl": "/packages/polly.extensions.http/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly.Extensions.Http/3.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:04.3971472+00:00"
+        },
+        "Version": "1.0.4",
+        "Downloads": "221,084",
+        "DatePublished": "4/15/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 73,
+          "PackageName": "polly.extensions.http",
+          "PackageListingUrl": "/packages/polly.extensions.http/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly.Extensions.Http/3.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:04.3971472+00:00"
+        },
+        "Version": "1.0.3",
+        "Downloads": "3,751",
+        "DatePublished": "4/15/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 73,
+          "PackageName": "polly.extensions.http",
+          "PackageListingUrl": "/packages/polly.extensions.http/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly.Extensions.Http/3.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:04.3971472+00:00"
+        },
+        "Version": "1.0.2-rc1",
+        "Downloads": "737",
+        "DatePublished": "4/10/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 73,
+          "PackageName": "polly.extensions.http",
+          "PackageListingUrl": "/packages/polly.extensions.http/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly.Extensions.Http/3.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:04.3971472+00:00"
+        },
+        "Version": "1.0.1-preview2",
+        "Downloads": "706",
+        "DatePublished": "4/3/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 73,
+          "PackageName": "polly.extensions.http",
+          "PackageListingUrl": "/packages/polly.extensions.http/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly.Extensions.Http/3.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:04.3971472+00:00"
+        },
+        "Version": "1.0.0-preview2",
+        "Downloads": "744",
+        "DatePublished": "3/29/2018"
+      }
+    ]
+  }
+}

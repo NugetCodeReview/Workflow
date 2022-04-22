@@ -1,0 +1,726 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+  "PackageUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "AutoMapper/AutoMapper_AutoMapper.Extensions.Microsoft.DependencyInjection",
+    "Url": "https://api.github.com/NugetCodeReview/AutoMapper_AutoMapper.Extensions.Microsoft.DependencyInjection.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "11.0.0",
+        "Downloads": "2,304,132",
+        "DatePublished": "1/5/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "8.1.1",
+        "Downloads": "21,037,792",
+        "DatePublished": "2/5/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "8.1.0",
+        "Downloads": "8,278,086",
+        "DatePublished": "10/14/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "8.0.1",
+        "Downloads": "7,119,103",
+        "DatePublished": "7/16/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "8.0.0",
+        "Downloads": "503,714",
+        "DatePublished": "7/9/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "7.0.0",
+        "Downloads": "24,972,379",
+        "DatePublished": "8/12/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "6.1.1",
+        "Downloads": "3,412,978",
+        "DatePublished": "6/4/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "6.1.0",
+        "Downloads": "2,458,356",
+        "DatePublished": "4/29/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "6.0.0",
+        "Downloads": "7,888,235",
+        "DatePublished": "11/18/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "5.0.1",
+        "Downloads": "4,458,171",
+        "DatePublished": "7/20/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "4.0.1",
+        "Downloads": "2,769,072",
+        "DatePublished": "6/18/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "3.2.0",
+        "Downloads": "2,963,924",
+        "DatePublished": "11/16/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "3.1.0",
+        "Downloads": "198,753",
+        "DatePublished": "10/26/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "3.0.1",
+        "Downloads": "394,961",
+        "DatePublished": "8/19/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "2.0.1",
+        "Downloads": "791,716",
+        "DatePublished": "3/30/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "25,869",
+        "DatePublished": "3/17/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "1.2.0",
+        "Downloads": "152,582",
+        "DatePublished": "12/29/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "1.1.2",
+        "Downloads": "79,286",
+        "DatePublished": "9/2/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "1.1.0",
+        "Downloads": "44,333",
+        "DatePublished": "8/11/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "1.0.1-alpha",
+        "Downloads": "10,208",
+        "DatePublished": "7/20/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 57,
+          "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:44.3274816+00:00"
+        },
+        "Version": "1.0.0-alpha",
+        "Downloads": "964",
+        "DatePublished": "7/20/2016"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2266 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "newtonsoft.json",
+  "PackageUrl": "/packages/newtonsoft.json/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/JamesNK/Newtonsoft.Json.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "JamesNK/JamesNK_Newtonsoft.Json",
+    "Url": "https://api.github.com/NugetCodeReview/JamesNK_Newtonsoft.Json.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.ContentItem, Workflow",
+        "Name": ".github/workflows",
+        "Type": 1,
+        "Parent": {
+          "$type": "Workflow.ContentItem, Workflow",
+          "Name": ".github",
+          "Type": 1
+        }
+      },
+      {
+        "$type": "Workflow.ContentItem, Workflow",
+        "Name": ".github/workflows/code-review.yml",
+        "Type": 0,
+        "DownloadUrl": "https://raw.githubusercontent.com/NugetCodeReview/JamesNK_Newtonsoft.Json/master/.github/workflows/code-review.yml",
+        "Parent": {
+          "$type": "Workflow.ContentItem, Workflow",
+          "Name": ".github/workflows",
+          "Type": 1,
+          "Parent": {
+            "$type": "Workflow.ContentItem, Workflow",
+            "Name": ".github",
+            "Type": 1
+          }
+        }
+      }
+    ]
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.ContentItem, Workflow",
+        "Name": "Build/build.ps1",
+        "Type": 0,
+        "DownloadUrl": "https://raw.githubusercontent.com/NugetCodeReview/JamesNK_Newtonsoft.Json/master/Build/build.ps1",
+        "Parent": {
+          "$type": "Workflow.ContentItem, Workflow",
+          "Name": "Build",
+          "Type": 1
+        }
+      },
+      {
+        "$type": "Workflow.ContentItem, Workflow",
+        "Name": "Build/localbuild.ps1",
+        "Type": 0,
+        "DownloadUrl": "https://raw.githubusercontent.com/NugetCodeReview/JamesNK_Newtonsoft.Json/master/Build/localbuild.ps1",
+        "Parent": {
+          "$type": "Workflow.ContentItem, Workflow",
+          "Name": "Build",
+          "Type": 1
+        }
+      },
+      {
+        "$type": "Workflow.ContentItem, Workflow",
+        "Name": "Build/psake.psm1",
+        "Type": 0,
+        "DownloadUrl": "https://raw.githubusercontent.com/NugetCodeReview/JamesNK_Newtonsoft.Json/master/Build/psake.psm1",
+        "Parent": {
+          "$type": "Workflow.ContentItem, Workflow",
+          "Name": "Build",
+          "Type": 1
+        }
+      },
+      {
+        "$type": "Workflow.ContentItem, Workflow",
+        "Name": "Build/runbuild.ps1",
+        "Type": 0,
+        "DownloadUrl": "https://raw.githubusercontent.com/NugetCodeReview/JamesNK_Newtonsoft.Json/master/Build/runbuild.ps1",
+        "Parent": {
+          "$type": "Workflow.ContentItem, Workflow",
+          "Name": "Build",
+          "Type": 1
+        }
+      },
+      {
+        "$type": "Workflow.ContentItem, Workflow",
+        "Name": "Build/Sign-Package.ps1",
+        "Type": 0,
+        "DownloadUrl": "https://raw.githubusercontent.com/NugetCodeReview/JamesNK_Newtonsoft.Json/master/Build/Sign-Package.ps1",
+        "Parent": {
+          "$type": "Workflow.ContentItem, Workflow",
+          "Name": "Build",
+          "Type": 1
+        }
+      }
+    ]
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "13.0.1",
+        "Downloads": "82,844,708",
+        "DatePublished": "3/22/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "12.0.3",
+        "Downloads": "249,719,356",
+        "DatePublished": "11/9/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "12.0.2",
+        "Downloads": "197,123,143",
+        "DatePublished": "4/22/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "12.0.1",
+        "Downloads": "98,761,749",
+        "DatePublished": "11/27/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "11.0.2",
+        "Downloads": "217,587,148",
+        "DatePublished": "3/24/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "11.0.1",
+        "Downloads": "72,232,332",
+        "DatePublished": "2/17/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "10.0.3",
+        "Downloads": "208,492,416",
+        "DatePublished": "6/18/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "10.0.2",
+        "Downloads": "121,063,586",
+        "DatePublished": "4/2/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "10.0.1",
+        "Downloads": "178,759,530",
+        "DatePublished": "3/20/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "9.0.1",
+        "Downloads": "264,563,058",
+        "DatePublished": "6/22/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "8.0.3",
+        "Downloads": "14,657,336",
+        "DatePublished": "3/14/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "8.0.2",
+        "Downloads": "6,176,254",
+        "DatePublished": "1/9/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "8.0.1",
+        "Downloads": "1,947,631",
+        "DatePublished": "12/29/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "7.0.1",
+        "Downloads": "22,066,285",
+        "DatePublished": "6/22/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "6.0.8",
+        "Downloads": "25,812,112",
+        "DatePublished": "1/11/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "6.0.7",
+        "Downloads": "1,217,489",
+        "DatePublished": "12/23/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "6.0.6",
+        "Downloads": "5,641,378",
+        "DatePublished": "10/24/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "6.0.5",
+        "Downloads": "4,394,868",
+        "DatePublished": "9/6/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "6.0.4",
+        "Downloads": "34,393,201",
+        "DatePublished": "8/3/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "6.0.3",
+        "Downloads": "3,225,113",
+        "DatePublished": "4/27/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "6.0.2",
+        "Downloads": "1,141,658",
+        "DatePublished": "3/30/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "6.0.1",
+        "Downloads": "5,568,801",
+        "DatePublished": "2/1/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "5.0.8",
+        "Downloads": "4,483,202",
+        "DatePublished": "10/17/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "5.0.7",
+        "Downloads": "511,898",
+        "DatePublished": "10/14/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "5.0.6",
+        "Downloads": "3,872,239",
+        "DatePublished": "6/6/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "5.0.5",
+        "Downloads": "876,757",
+        "DatePublished": "5/8/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "5.0.4",
+        "Downloads": "3,654,957",
+        "DatePublished": "4/25/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "5.0.3",
+        "Downloads": "383,213",
+        "DatePublished": "4/14/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "5.0.2",
+        "Downloads": "320,343",
+        "DatePublished": "4/8/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "5.0.1",
+        "Downloads": "3,565,571",
+        "DatePublished": "4/7/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "4.5.11",
+        "Downloads": "10,063,662",
+        "DatePublished": "11/20/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "4.5.10",
+        "Downloads": "458,369",
+        "DatePublished": "10/7/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "4.5.9",
+        "Downloads": "351,984",
+        "DatePublished": "9/8/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "4.5.8",
+        "Downloads": "329,983",
+        "DatePublished": "8/4/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "4.5.7",
+        "Downloads": "384,615",
+        "DatePublished": "6/9/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "4.5.6",
+        "Downloads": "3,486,386",
+        "DatePublished": "5/30/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "4.5.5",
+        "Downloads": "120,689",
+        "DatePublished": "5/8/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "4.5.4",
+        "Downloads": "132,364",
+        "DatePublished": "4/24/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "4.5.3",
+        "Downloads": "72,694",
+        "DatePublished": "4/13/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "4.5.2",
+        "Downloads": "51,636",
+        "DatePublished": "4/11/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "4.5.1",
+        "Downloads": "802,841",
+        "DatePublished": "3/20/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "4.0.8",
+        "Downloads": "435,410",
+        "DatePublished": "2/12/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "4.0.7",
+        "Downloads": "305,151",
+        "DatePublished": "1/24/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "4.0.6",
+        "Downloads": "58,945",
+        "DatePublished": "1/23/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "4.0.5",
+        "Downloads": "334,996",
+        "DatePublished": "12/10/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "4.0.4",
+        "Downloads": "69,291",
+        "DatePublished": "11/19/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "4.0.3",
+        "Downloads": "126,943",
+        "DatePublished": "10/2/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "4.0.2",
+        "Downloads": "195,617",
+        "DatePublished": "4/23/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "4.0.1",
+        "Downloads": "238,072",
+        "DatePublished": "4/22/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 1,
+          "PackageName": "newtonsoft.json",
+          "PackageListingUrl": "/packages/newtonsoft.json/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:36.7847893+00:00"
+        },
+        "Version": "3.5.8",
+        "Downloads": "1,264,424",
+        "DatePublished": "1/8/2011"
+      }
+    ]
+  }
+}

@@ -1,0 +1,749 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "timezoneconverter",
+  "PackageUrl": "/packages/timezoneconverter/",
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "5.0.0",
+        "Downloads": "815,782",
+        "DatePublished": "1/13/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "4.0.0",
+        "Downloads": "9,465",
+        "DatePublished": "1/11/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "3.5.0",
+        "Downloads": "6,951,091",
+        "DatePublished": "4/8/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "3.4.0",
+        "Downloads": "3,405,859",
+        "DatePublished": "2/13/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "3.3.0",
+        "Downloads": "6,503,989",
+        "DatePublished": "9/10/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "3.2.0",
+        "Downloads": "15,776,758",
+        "DatePublished": "6/4/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "3.1.0",
+        "Downloads": "3,730,060",
+        "DatePublished": "4/17/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "3.0.0",
+        "Downloads": "543,880",
+        "DatePublished": "3/19/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "2.5.1",
+        "Downloads": "1,985,427",
+        "DatePublished": "12/13/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "2.4.2",
+        "Downloads": "1,508,842",
+        "DatePublished": "10/1/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "2.4.1",
+        "Downloads": "1,313,812",
+        "DatePublished": "4/25/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "2.4.0",
+        "Downloads": "2,200",
+        "DatePublished": "4/25/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "2.3.2",
+        "Downloads": "280,066",
+        "DatePublished": "3/27/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "2.3.1",
+        "Downloads": "154,501",
+        "DatePublished": "3/14/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "2.3.0",
+        "Downloads": "171,503",
+        "DatePublished": "2/26/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "2.2.1",
+        "Downloads": "616,038",
+        "DatePublished": "11/20/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "2.2.0",
+        "Downloads": "1,955",
+        "DatePublished": "11/20/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "2.1.0",
+        "Downloads": "38,211",
+        "DatePublished": "11/5/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "424,419",
+        "DatePublished": "6/1/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "1.1.1",
+        "Downloads": "73,677",
+        "DatePublished": "4/20/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "1.1.0",
+        "Downloads": "1,012",
+        "DatePublished": "4/19/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 93,
+          "PackageName": "timezoneconverter",
+          "PackageListingUrl": "/packages/timezoneconverter/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "mj1856",
+                "Url": "/profiles/mj1856"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:27:24.4491438+00:00"
+        },
+        "Version": "1.0.0",
+        "Downloads": "59,940",
+        "DatePublished": "1/28/2017"
+      }
+    ]
+  }
+}

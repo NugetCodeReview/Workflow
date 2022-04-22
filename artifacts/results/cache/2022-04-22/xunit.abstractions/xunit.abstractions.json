@@ -1,0 +1,1013 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "xunit.abstractions",
+  "PackageUrl": "/packages/xunit.abstractions/",
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.3",
+        "Downloads": "126,231,056",
+        "DatePublished": "8/26/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.2",
+        "Downloads": "46,439,974",
+        "DatePublished": "7/17/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.1",
+        "Downloads": "46,931,614",
+        "DatePublished": "8/9/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "7,747,179",
+        "DatePublished": "3/16/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-rc4-build2924",
+        "Downloads": "5,421",
+        "DatePublished": "3/9/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-rc3-build2880",
+        "Downloads": "49,756",
+        "DatePublished": "2/23/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-rc2-build2857",
+        "Downloads": "4,538",
+        "DatePublished": "2/17/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-rc1-build2826",
+        "Downloads": "11,816",
+        "DatePublished": "1/20/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-beta5-build2785",
+        "Downloads": "42,076",
+        "DatePublished": "11/20/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-beta4-build2738",
+        "Downloads": "17,578",
+        "DatePublished": "8/10/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-beta-build2700",
+        "Downloads": "3,226",
+        "DatePublished": "6/30/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-beta-build2650",
+        "Downloads": "2,993",
+        "DatePublished": "4/29/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-beta-build2616",
+        "Downloads": "3,371",
+        "DatePublished": "3/22/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-alpha-build2606",
+        "Downloads": "1,401",
+        "DatePublished": "3/16/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-alpha-build2595",
+        "Downloads": "1,720",
+        "DatePublished": "3/9/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-alpha-build2576",
+        "Downloads": "10,077",
+        "DatePublished": "1/19/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-alpha-build2569",
+        "Downloads": "1,281",
+        "DatePublished": "1/17/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-alpha-build2562",
+        "Downloads": "1,405",
+        "DatePublished": "1/3/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-alpha-build2552",
+        "Downloads": "1,433",
+        "DatePublished": "12/8/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-alpha-build2548",
+        "Downloads": "1,637",
+        "DatePublished": "11/25/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-alpha-build2533",
+        "Downloads": "1,571",
+        "DatePublished": "11/4/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-alpha-build2529",
+        "Downloads": "1,280",
+        "DatePublished": "10/26/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-alpha-build2521",
+        "Downloads": "1,652",
+        "DatePublished": "9/22/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-alpha-build2510",
+        "Downloads": "2,393",
+        "DatePublished": "8/19/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-alpha-build2503",
+        "Downloads": "1,457",
+        "DatePublished": "7/23/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-alpha-build1657",
+        "Downloads": "1,250",
+        "DatePublished": "7/13/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-alpha-build1654",
+        "Downloads": "1,434",
+        "DatePublished": "5/19/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-alpha-build1650",
+        "Downloads": "1,318",
+        "DatePublished": "4/24/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-alpha-build1648",
+        "Downloads": "1,135",
+        "DatePublished": "4/18/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 23,
+          "PackageName": "xunit.abstractions",
+          "PackageListingUrl": "/packages/xunit.abstractions/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+          },
+          "DateTaken": "2022-04-22T19:25:59.4561452+00:00"
+        },
+        "Version": "2.0.0-alpha-build1644",
+        "Downloads": "2,051",
+        "DatePublished": "4/14/2013"
+      }
+    ]
+  }
+}

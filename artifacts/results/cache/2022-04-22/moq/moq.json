@@ -1,0 +1,3201 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "moq",
+  "PackageUrl": "/packages/moq/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/moq/moq4.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "moq/moq_moq4",
+    "Url": "https://api.github.com/NugetCodeReview/moq_moq4.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.17.2",
+        "Downloads": "1,771,275",
+        "DatePublished": "3/6/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.17.1",
+        "Downloads": "469,788",
+        "DatePublished": "2/26/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.16.1",
+        "Downloads": "38,939,233",
+        "DatePublished": "2/23/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.16.0",
+        "Downloads": "7,520,291",
+        "DatePublished": "1/16/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.15.2",
+        "Downloads": "7,426,906",
+        "DatePublished": "11/26/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.15.1",
+        "Downloads": "4,170,253",
+        "DatePublished": "11/10/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.14.7",
+        "Downloads": "4,971,629",
+        "DatePublished": "10/14/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.14.6",
+        "Downloads": "2,246,760",
+        "DatePublished": "9/30/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.14.5",
+        "Downloads": "15,373,940",
+        "DatePublished": "7/1/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.14.4",
+        "Downloads": "1,302,217",
+        "DatePublished": "6/24/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.14.3",
+        "Downloads": "1,130,479",
+        "DatePublished": "6/18/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.14.2",
+        "Downloads": "762,368",
+        "DatePublished": "6/16/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.14.1",
+        "Downloads": "9,476,684",
+        "DatePublished": "4/28/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.14.0",
+        "Downloads": "845,874",
+        "DatePublished": "4/24/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.13.1",
+        "Downloads": "33,096,564",
+        "DatePublished": "10/19/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.13.0",
+        "Downloads": "7,856,585",
+        "DatePublished": "8/31/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.12.0",
+        "Downloads": "10,490,364",
+        "DatePublished": "6/20/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.11.0",
+        "Downloads": "3,646,611",
+        "DatePublished": "5/27/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.11.0-rc2",
+        "Downloads": "4,638",
+        "DatePublished": "5/27/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.11.0-rc1",
+        "Downloads": "177,331",
+        "DatePublished": "4/19/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.10.1",
+        "Downloads": "24,733,945",
+        "DatePublished": "12/3/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.10.0",
+        "Downloads": "11,387,801",
+        "DatePublished": "9/8/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.9.0",
+        "Downloads": "7,343,687",
+        "DatePublished": "7/13/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.8.3",
+        "Downloads": "4,391,816",
+        "DatePublished": "6/9/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.8.2",
+        "Downloads": "10,434,238",
+        "DatePublished": "2/23/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.8.1",
+        "Downloads": "4,298,803",
+        "DatePublished": "1/8/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.8.0",
+        "Downloads": "1,654,908",
+        "DatePublished": "12/24/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.8.0-rc1",
+        "Downloads": "44,325",
+        "DatePublished": "12/8/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.7.145",
+        "Downloads": "5,889,892",
+        "DatePublished": "11/6/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.7.142",
+        "Downloads": "2,395,436",
+        "DatePublished": "10/10/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.7.137",
+        "Downloads": "928,713",
+        "DatePublished": "10/3/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.7.127",
+        "Downloads": "712,717",
+        "DatePublished": "9/25/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.7.99",
+        "Downloads": "5,199,701",
+        "DatePublished": "7/17/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.7.63",
+        "Downloads": "1,493,843",
+        "DatePublished": "6/21/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.7.58",
+        "Downloads": "68,350",
+        "DatePublished": "6/20/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.7.49",
+        "Downloads": "353,584",
+        "DatePublished": "6/18/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.7.46",
+        "Downloads": "56,788",
+        "DatePublished": "6/18/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.7.25",
+        "Downloads": "1,158,309",
+        "DatePublished": "6/2/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.7.12",
+        "Downloads": "228,887",
+        "DatePublished": "5/30/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.7.11",
+        "Downloads": "4,797",
+        "DatePublished": "5/30/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.7.10",
+        "Downloads": "1,032,074",
+        "DatePublished": "5/6/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.7.9",
+        "Downloads": "372,434",
+        "DatePublished": "4/29/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.7.8",
+        "Downloads": "1,556,264",
+        "DatePublished": "3/26/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.7.7",
+        "Downloads": "25,504",
+        "DatePublished": "3/25/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.7.1",
+        "Downloads": "1,399,306",
+        "DatePublished": "2/28/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.7.0",
+        "Downloads": "4,690,485",
+        "DatePublished": "2/22/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.6.62-alpha",
+        "Downloads": "5,348",
+        "DatePublished": "2/21/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.6.39-alpha",
+        "Downloads": "12,563",
+        "DatePublished": "2/18/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.6.38-alpha",
+        "Downloads": "698,113",
+        "DatePublished": "8/20/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.6.36-alpha",
+        "Downloads": "201,751",
+        "DatePublished": "7/20/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.6.25-alpha",
+        "Downloads": "102,110",
+        "DatePublished": "6/6/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.30",
+        "Downloads": "2,988,180",
+        "DatePublished": "1/9/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.29",
+        "Downloads": "1,022,980",
+        "DatePublished": "12/10/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.28",
+        "Downloads": "1,528,335",
+        "DatePublished": "11/10/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.23",
+        "Downloads": "1,002,335",
+        "DatePublished": "10/11/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.22",
+        "Downloads": "683,938",
+        "DatePublished": "9/20/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.21",
+        "Downloads": "1,392,485",
+        "DatePublished": "8/12/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.20",
+        "Downloads": "9,389",
+        "DatePublished": "8/12/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.19",
+        "Downloads": "80,790",
+        "DatePublished": "8/10/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.18",
+        "Downloads": "6,328",
+        "DatePublished": "8/10/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.16",
+        "Downloads": "703,664",
+        "DatePublished": "7/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.13",
+        "Downloads": "167,290",
+        "DatePublished": "7/11/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.10",
+        "Downloads": "529,972",
+        "DatePublished": "6/21/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.9",
+        "Downloads": "526,339",
+        "DatePublished": "6/9/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.9-alpha",
+        "Downloads": "9,619",
+        "DatePublished": "5/22/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.8",
+        "Downloads": "646,732",
+        "DatePublished": "5/26/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.7",
+        "Downloads": "7,833",
+        "DatePublished": "5/26/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.7-alpha",
+        "Downloads": "3,788",
+        "DatePublished": "5/22/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.6-alpha",
+        "Downloads": "3,970",
+        "DatePublished": "5/22/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.3",
+        "Downloads": "720,108",
+        "DatePublished": "5/25/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.5.0",
+        "Downloads": "215,854",
+        "DatePublished": "5/24/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.2.1510.2205",
+        "Downloads": "6,584,424",
+        "DatePublished": "10/22/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.2.1507.118",
+        "Downloads": "2,404,724",
+        "DatePublished": "7/1/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.2.1506.2515",
+        "Downloads": "124,877",
+        "DatePublished": "6/25/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.2.1506.2016",
+        "Downloads": "62,213",
+        "DatePublished": "6/20/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.2.1502.911",
+        "Downloads": "2,564,827",
+        "DatePublished": "2/9/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.2.1409.1722",
+        "Downloads": "1,851,110",
+        "DatePublished": "9/17/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.2.1408.717",
+        "Downloads": "799,971",
+        "DatePublished": "8/7/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.2.1408.619",
+        "Downloads": "25,015",
+        "DatePublished": "8/6/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.2.1402.2112",
+        "Downloads": "2,024,641",
+        "DatePublished": "2/21/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.2.1312.1622",
+        "Downloads": "794,258",
+        "DatePublished": "12/17/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.2.1312.1621",
+        "Downloads": "5,390",
+        "DatePublished": "12/16/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.2.1312.1615",
+        "Downloads": "5,963",
+        "DatePublished": "12/16/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.2.1312.1416",
+        "Downloads": "18,592",
+        "DatePublished": "12/14/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.2.1312.1323",
+        "Downloads": "6,120",
+        "DatePublished": "12/14/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.2.1312.1319",
+        "Downloads": "36,332",
+        "DatePublished": "12/13/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.1.1311.615",
+        "Downloads": "295,647",
+        "DatePublished": "11/18/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.1.1309.1617",
+        "Downloads": "545,357",
+        "DatePublished": "9/16/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.1.1309.919",
+        "Downloads": "264,769",
+        "DatePublished": "9/9/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.1.1309.801",
+        "Downloads": "11,671",
+        "DatePublished": "9/8/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.1.1309.800",
+        "Downloads": "5,226",
+        "DatePublished": "9/8/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.1.1308.2321",
+        "Downloads": "825,902",
+        "DatePublished": "8/23/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.1.1308.2316",
+        "Downloads": "7,873",
+        "DatePublished": "8/23/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.1.1308.2120",
+        "Downloads": "799,853",
+        "DatePublished": "8/21/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "4.0.10827",
+        "Downloads": "3,818,558",
+        "DatePublished": "2/9/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 8,
+          "PackageName": "moq",
+          "PackageListingUrl": "/packages/moq/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "kzu",
+                "Url": "/profiles/kzu"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clarius",
+                "Url": "/profiles/clarius"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+          },
+          "DateTaken": "2022-04-22T19:25:44.0774475+00:00"
+        },
+        "Version": "3.1.416.3",
+        "Downloads": "222,923",
+        "DatePublished": "2/9/2011"
+      }
+    ]
+  }
+}

@@ -1,0 +1,413 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "rabbitmq.client",
+  "PackageUrl": "/packages/rabbitmq.client/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/rabbitmq/rabbitmq-dotnet-client.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "rabbitmq/rabbitmq_rabbitmq-dotnet-client",
+    "Url": "https://api.github.com/NugetCodeReview/rabbitmq_rabbitmq-dotnet-client.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 61,
+          "PackageName": "rabbitmq.client",
+          "PackageListingUrl": "/packages/rabbitmq.client/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joefitzgerald",
+                "Url": "/profiles/joefitzgerald"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "team-rabbitmq",
+                "Url": "/profiles/team-rabbitmq"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/RabbitMQ.Client/6.2.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/RabbitMQ.Client/6.2.4"
+          },
+          "DateTaken": "2022-04-22T19:26:48.8695811+00:00"
+        },
+        "Version": "6.2.4",
+        "Downloads": "472,456",
+        "DatePublished": "2/24/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 61,
+          "PackageName": "rabbitmq.client",
+          "PackageListingUrl": "/packages/rabbitmq.client/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joefitzgerald",
+                "Url": "/profiles/joefitzgerald"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "team-rabbitmq",
+                "Url": "/profiles/team-rabbitmq"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/RabbitMQ.Client/6.2.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/RabbitMQ.Client/6.2.4"
+          },
+          "DateTaken": "2022-04-22T19:26:48.8695811+00:00"
+        },
+        "Version": "6.2.3",
+        "Downloads": "224,809",
+        "DatePublished": "2/9/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 61,
+          "PackageName": "rabbitmq.client",
+          "PackageListingUrl": "/packages/rabbitmq.client/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joefitzgerald",
+                "Url": "/profiles/joefitzgerald"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "team-rabbitmq",
+                "Url": "/profiles/team-rabbitmq"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/RabbitMQ.Client/6.2.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/RabbitMQ.Client/6.2.4"
+          },
+          "DateTaken": "2022-04-22T19:26:48.8695811+00:00"
+        },
+        "Version": "6.2.2",
+        "Downloads": "6,143,760",
+        "DatePublished": "6/23/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 61,
+          "PackageName": "rabbitmq.client",
+          "PackageListingUrl": "/packages/rabbitmq.client/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joefitzgerald",
+                "Url": "/profiles/joefitzgerald"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "team-rabbitmq",
+                "Url": "/profiles/team-rabbitmq"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/RabbitMQ.Client/6.2.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/RabbitMQ.Client/6.2.4"
+          },
+          "DateTaken": "2022-04-22T19:26:48.8695811+00:00"
+        },
+        "Version": "6.2.1",
+        "Downloads": "16,139,349",
+        "DatePublished": "8/20/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 61,
+          "PackageName": "rabbitmq.client",
+          "PackageListingUrl": "/packages/rabbitmq.client/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joefitzgerald",
+                "Url": "/profiles/joefitzgerald"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "team-rabbitmq",
+                "Url": "/profiles/team-rabbitmq"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/RabbitMQ.Client/6.2.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/RabbitMQ.Client/6.2.4"
+          },
+          "DateTaken": "2022-04-22T19:26:48.8695811+00:00"
+        },
+        "Version": "6.1.0",
+        "Downloads": "4,884,171",
+        "DatePublished": "6/5/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 61,
+          "PackageName": "rabbitmq.client",
+          "PackageListingUrl": "/packages/rabbitmq.client/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joefitzgerald",
+                "Url": "/profiles/joefitzgerald"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "team-rabbitmq",
+                "Url": "/profiles/team-rabbitmq"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/RabbitMQ.Client/6.2.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/RabbitMQ.Client/6.2.4"
+          },
+          "DateTaken": "2022-04-22T19:26:48.8695811+00:00"
+        },
+        "Version": "6.0.0",
+        "Downloads": "2,188,751",
+        "DatePublished": "4/16/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 61,
+          "PackageName": "rabbitmq.client",
+          "PackageListingUrl": "/packages/rabbitmq.client/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joefitzgerald",
+                "Url": "/profiles/joefitzgerald"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "team-rabbitmq",
+                "Url": "/profiles/team-rabbitmq"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/RabbitMQ.Client/6.2.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/RabbitMQ.Client/6.2.4"
+          },
+          "DateTaken": "2022-04-22T19:26:48.8695811+00:00"
+        },
+        "Version": "5.2.0",
+        "Downloads": "3,375,939",
+        "DatePublished": "4/16/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 61,
+          "PackageName": "rabbitmq.client",
+          "PackageListingUrl": "/packages/rabbitmq.client/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joefitzgerald",
+                "Url": "/profiles/joefitzgerald"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "team-rabbitmq",
+                "Url": "/profiles/team-rabbitmq"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/RabbitMQ.Client/6.2.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/RabbitMQ.Client/6.2.4"
+          },
+          "DateTaken": "2022-04-22T19:26:48.8695811+00:00"
+        },
+        "Version": "5.1.2",
+        "Downloads": "11,389,305",
+        "DatePublished": "10/11/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 61,
+          "PackageName": "rabbitmq.client",
+          "PackageListingUrl": "/packages/rabbitmq.client/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joefitzgerald",
+                "Url": "/profiles/joefitzgerald"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "team-rabbitmq",
+                "Url": "/profiles/team-rabbitmq"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/RabbitMQ.Client/6.2.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/RabbitMQ.Client/6.2.4"
+          },
+          "DateTaken": "2022-04-22T19:26:48.8695811+00:00"
+        },
+        "Version": "4.1.3",
+        "Downloads": "2,492,060",
+        "DatePublished": "3/28/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 61,
+          "PackageName": "rabbitmq.client",
+          "PackageListingUrl": "/packages/rabbitmq.client/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joefitzgerald",
+                "Url": "/profiles/joefitzgerald"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "team-rabbitmq",
+                "Url": "/profiles/team-rabbitmq"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/RabbitMQ.Client/6.2.4"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/RabbitMQ.Client/6.2.4"
+          },
+          "DateTaken": "2022-04-22T19:26:48.8695811+00:00"
+        },
+        "Version": "3.6.9",
+        "Downloads": "594,393",
+        "DatePublished": "3/29/2017"
+      }
+    ]
+  }
+}

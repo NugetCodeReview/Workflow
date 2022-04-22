@@ -1,0 +1,3113 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "hangfire.core",
+  "PackageUrl": "/packages/hangfire.core/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/HangfireIO/Hangfire.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "HangfireIO/HangfireIO_Hangfire",
+    "Url": "https://api.github.com/NugetCodeReview/HangfireIO_Hangfire.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.8.0-beta4",
+        "Downloads": "58,031",
+        "DatePublished": "11/12/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.8.0-beta3",
+        "Downloads": "48,988",
+        "DatePublished": "7/5/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.8.0-beta2",
+        "Downloads": "23,445",
+        "DatePublished": "4/15/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.8.0-beta1",
+        "Downloads": "8,910",
+        "DatePublished": "3/19/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.28",
+        "Downloads": "1,166,010",
+        "DatePublished": "12/18/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.27",
+        "Downloads": "986,141",
+        "DatePublished": "11/3/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.26",
+        "Downloads": "156,318",
+        "DatePublished": "10/27/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.25",
+        "Downloads": "1,232,472",
+        "DatePublished": "8/30/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.24",
+        "Downloads": "1,518,205",
+        "DatePublished": "6/28/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.23",
+        "Downloads": "772,684",
+        "DatePublished": "5/28/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.22",
+        "Downloads": "1,345,381",
+        "DatePublished": "4/13/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.21",
+        "Downloads": "30,793",
+        "DatePublished": "4/12/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.20",
+        "Downloads": "615,857",
+        "DatePublished": "3/19/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.19",
+        "Downloads": "2,159,655",
+        "DatePublished": "1/15/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.18",
+        "Downloads": "2,375,243",
+        "DatePublished": "11/20/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.17",
+        "Downloads": "1,186,800",
+        "DatePublished": "10/20/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.16",
+        "Downloads": "213,322",
+        "DatePublished": "10/14/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.15",
+        "Downloads": "200,194",
+        "DatePublished": "10/8/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.14",
+        "Downloads": "382,938",
+        "DatePublished": "9/24/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.13",
+        "Downloads": "349,658",
+        "DatePublished": "9/15/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.12",
+        "Downloads": "1,419,369",
+        "DatePublished": "7/24/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.11",
+        "Downloads": "4,215,046",
+        "DatePublished": "4/15/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.10",
+        "Downloads": "842,460",
+        "DatePublished": "4/2/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.9",
+        "Downloads": "5,239,944",
+        "DatePublished": "1/20/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.8",
+        "Downloads": "1,341,781",
+        "DatePublished": "12/5/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.7",
+        "Downloads": "1,297,912",
+        "DatePublished": "10/22/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.6",
+        "Downloads": "2,899,829",
+        "DatePublished": "8/5/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.5",
+        "Downloads": "418,765",
+        "DatePublished": "7/18/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.4",
+        "Downloads": "500,174",
+        "DatePublished": "6/28/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.3",
+        "Downloads": "1,416,229",
+        "DatePublished": "5/23/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.2",
+        "Downloads": "946,551",
+        "DatePublished": "4/29/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.1",
+        "Downloads": "463,713",
+        "DatePublished": "4/16/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.7.0",
+        "Downloads": "673,641",
+        "DatePublished": "3/29/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.30",
+        "Downloads": "8,104",
+        "DatePublished": "4/29/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.29",
+        "Downloads": "41,549",
+        "DatePublished": "4/15/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.28",
+        "Downloads": "63,612",
+        "DatePublished": "1/14/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.27",
+        "Downloads": "65,497",
+        "DatePublished": "6/27/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.26",
+        "Downloads": "96,011",
+        "DatePublished": "5/23/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.25",
+        "Downloads": "31,871",
+        "DatePublished": "4/9/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.24",
+        "Downloads": "46,611",
+        "DatePublished": "3/27/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.23",
+        "Downloads": "261,168",
+        "DatePublished": "3/13/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.22",
+        "Downloads": "1,090,813",
+        "DatePublished": "1/25/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.21",
+        "Downloads": "2,468,576",
+        "DatePublished": "11/1/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.20",
+        "Downloads": "2,552,361",
+        "DatePublished": "7/31/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.19",
+        "Downloads": "1,596,288",
+        "DatePublished": "4/6/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.18",
+        "Downloads": "33,039",
+        "DatePublished": "4/5/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.17",
+        "Downloads": "2,320,925",
+        "DatePublished": "9/19/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.16",
+        "Downloads": "319,151",
+        "DatePublished": "9/2/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.15",
+        "Downloads": "350,878",
+        "DatePublished": "8/8/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.14",
+        "Downloads": "587,721",
+        "DatePublished": "6/16/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.13",
+        "Downloads": "87,269",
+        "DatePublished": "6/7/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.12",
+        "Downloads": "1,163,260",
+        "DatePublished": "3/22/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.11",
+        "Downloads": "42,372",
+        "DatePublished": "3/14/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.10",
+        "Downloads": "40,838",
+        "DatePublished": "3/13/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.9",
+        "Downloads": "69,517",
+        "DatePublished": "3/2/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.8",
+        "Downloads": "402,641",
+        "DatePublished": "12/21/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.7",
+        "Downloads": "231,529",
+        "DatePublished": "11/25/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.6",
+        "Downloads": "308,802",
+        "DatePublished": "10/13/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.5",
+        "Downloads": "143,323",
+        "DatePublished": "9/24/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.4",
+        "Downloads": "105,330",
+        "DatePublished": "8/30/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.3",
+        "Downloads": "152,846",
+        "DatePublished": "8/19/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.2",
+        "Downloads": "75,869",
+        "DatePublished": "8/5/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.1",
+        "Downloads": "1,577,069",
+        "DatePublished": "7/27/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.6.0",
+        "Downloads": "3,928,845",
+        "DatePublished": "7/15/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.5.9",
+        "Downloads": "181,823",
+        "DatePublished": "7/11/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.5.8",
+        "Downloads": "47,384",
+        "DatePublished": "6/17/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.5.7",
+        "Downloads": "33,447",
+        "DatePublished": "5/30/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.5.6",
+        "Downloads": "107,059",
+        "DatePublished": "4/22/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.5.5",
+        "Downloads": "23,081",
+        "DatePublished": "4/14/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.5.4",
+        "Downloads": "54,268",
+        "DatePublished": "3/22/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.5.3",
+        "Downloads": "423,129",
+        "DatePublished": "11/6/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.5.2",
+        "Downloads": "54,119",
+        "DatePublished": "10/15/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.5.1",
+        "Downloads": "3,610",
+        "DatePublished": "10/14/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.5.0",
+        "Downloads": "395,696",
+        "DatePublished": "10/1/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.4.7",
+        "Downloads": "3,432",
+        "DatePublished": "10/1/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.4.6",
+        "Downloads": "38,031",
+        "DatePublished": "8/29/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.4.5",
+        "Downloads": "39,901",
+        "DatePublished": "7/24/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.4.4",
+        "Downloads": "2,336",
+        "DatePublished": "7/23/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.4.3",
+        "Downloads": "72,604",
+        "DatePublished": "5/27/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.4.2",
+        "Downloads": "13,132",
+        "DatePublished": "5/6/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.4.1",
+        "Downloads": "31,216",
+        "DatePublished": "4/14/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.3.4",
+        "Downloads": "64,548",
+        "DatePublished": "2/4/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.3.3",
+        "Downloads": "4,690",
+        "DatePublished": "1/28/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.3.2",
+        "Downloads": "2,639",
+        "DatePublished": "1/27/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.3.1",
+        "Downloads": "8,688",
+        "DatePublished": "1/13/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.3.0",
+        "Downloads": "9,501",
+        "DatePublished": "12/10/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.2.2",
+        "Downloads": "7,265",
+        "DatePublished": "11/24/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.2.1",
+        "Downloads": "2,045",
+        "DatePublished": "11/22/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.2.0",
+        "Downloads": "4,873",
+        "DatePublished": "11/17/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.1.1",
+        "Downloads": "122,940",
+        "DatePublished": "9/5/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.1.0",
+        "Downloads": "3,692",
+        "DatePublished": "9/3/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.0.2",
+        "Downloads": "6,152",
+        "DatePublished": "7/1/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.0.1",
+        "Downloads": "18,775",
+        "DatePublished": "6/30/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "1.0.0",
+        "Downloads": "2,133",
+        "DatePublished": "6/30/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "0.9.1",
+        "Downloads": "3,223",
+        "DatePublished": "6/12/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "0.9.0",
+        "Downloads": "1,770",
+        "DatePublished": "6/7/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "0.8.3",
+        "Downloads": "1,937",
+        "DatePublished": "5/23/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "0.8.2",
+        "Downloads": "1,756",
+        "DatePublished": "5/21/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "0.8.1",
+        "Downloads": "2,842",
+        "DatePublished": "5/17/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "0.8.0",
+        "Downloads": "2,631",
+        "DatePublished": "5/2/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "0.7.5",
+        "Downloads": "2,136",
+        "DatePublished": "4/10/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "0.7.4",
+        "Downloads": "1,661",
+        "DatePublished": "4/7/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "0.7.3",
+        "Downloads": "1,662",
+        "DatePublished": "4/4/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "0.7.1",
+        "Downloads": "1,680",
+        "DatePublished": "4/1/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "0.7.0",
+        "Downloads": "2,475",
+        "DatePublished": "3/22/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "0.6.2",
+        "Downloads": "1,361",
+        "DatePublished": "1/28/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "0.6.1",
+        "Downloads": "1,317",
+        "DatePublished": "1/27/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "0.5.2",
+        "Downloads": "1,410",
+        "DatePublished": "11/19/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "0.5.1",
+        "Downloads": "1,366",
+        "DatePublished": "11/12/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 85,
+          "PackageName": "hangfire.core",
+          "PackageListingUrl": "/packages/hangfire.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "odinserj",
+                "Url": "/profiles/odinserj"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+          },
+          "DateTaken": "2022-04-22T19:27:15.9599206+00:00"
+        },
+        "Version": "0.5.0",
+        "Downloads": "1,916",
+        "DatePublished": "11/10/2013"
+      }
+    ]
+  }
+}

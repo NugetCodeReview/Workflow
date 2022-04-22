@@ -1,0 +1,2105 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "serilog.extensions.logging",
+  "PackageUrl": "/packages/serilog.extensions.logging/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/serilog/serilog-extensions-logging.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "serilog/serilog_serilog-extensions-logging",
+    "Url": "https://api.github.com/NugetCodeReview/serilog_serilog-extensions-logging.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.1.1-dev-10301",
+        "Downloads": "605",
+        "DatePublished": "4/7/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.1.0",
+        "Downloads": "5,914,883",
+        "DatePublished": "11/1/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.1.0-dev-10295",
+        "Downloads": "190",
+        "DatePublished": "11/1/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.2-dev-10289",
+        "Downloads": "68,595",
+        "DatePublished": "5/17/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.2-dev-10286",
+        "Downloads": "6,374",
+        "DatePublished": "5/6/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.2-dev-10284",
+        "Downloads": "731,624",
+        "DatePublished": "1/8/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.2-dev-10281",
+        "Downloads": "152,750",
+        "DatePublished": "8/2/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.2-dev-10280",
+        "Downloads": "58,334",
+        "DatePublished": "5/14/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.2-dev-10272",
+        "Downloads": "65,102",
+        "DatePublished": "3/2/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.2-dev-10269",
+        "Downloads": "11,681",
+        "DatePublished": "2/24/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.2-dev-10265",
+        "Downloads": "114,293",
+        "DatePublished": "12/11/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.2-dev-10260",
+        "Downloads": "67,706",
+        "DatePublished": "10/4/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.2-dev-10257",
+        "Downloads": "43,991",
+        "DatePublished": "9/20/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.2-dev-10256",
+        "Downloads": "19,470",
+        "DatePublished": "9/3/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.1",
+        "Downloads": "104,189,147",
+        "DatePublished": "8/21/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.1-dev-10252",
+        "Downloads": "505",
+        "DatePublished": "8/21/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.0",
+        "Downloads": "106,913",
+        "DatePublished": "8/20/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.0-dev-10248",
+        "Downloads": "1,010",
+        "DatePublished": "8/20/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.0-dev-10244",
+        "Downloads": "636",
+        "DatePublished": "8/19/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.0-dev-10240",
+        "Downloads": "144,145",
+        "DatePublished": "5/21/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.0-dev-10237",
+        "Downloads": "818",
+        "DatePublished": "5/21/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.0-dev-10234",
+        "Downloads": "553",
+        "DatePublished": "5/21/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "3.0.0-dev-10232",
+        "Downloads": "568",
+        "DatePublished": "5/21/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.5-dev-10226",
+        "Downloads": "4,156",
+        "DatePublished": "5/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.5-dev-10225",
+        "Downloads": "565",
+        "DatePublished": "5/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.4",
+        "Downloads": "4,378,529",
+        "DatePublished": "4/23/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.3",
+        "Downloads": "183,082",
+        "DatePublished": "4/23/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.3-dev-10220",
+        "Downloads": "614",
+        "DatePublished": "4/23/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.3-dev-10215",
+        "Downloads": "525",
+        "DatePublished": "4/23/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.2",
+        "Downloads": "17,618,144",
+        "DatePublished": "8/28/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.2-dev-10199",
+        "Downloads": "813",
+        "DatePublished": "8/28/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.1",
+        "Downloads": "8,666",
+        "DatePublished": "8/28/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.1-dev-10207",
+        "Downloads": "700",
+        "DatePublished": "9/22/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.1-dev-10205",
+        "Downloads": "844",
+        "DatePublished": "5/9/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.1-dev-10204",
+        "Downloads": "917",
+        "DatePublished": "1/17/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.1-dev-10195",
+        "Downloads": "819",
+        "DatePublished": "8/28/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "21,268,098",
+        "DatePublished": "8/18/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.0-dev-10187",
+        "Downloads": "816",
+        "DatePublished": "8/24/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.0-dev-10185",
+        "Downloads": "792",
+        "DatePublished": "8/23/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.0-dev-10180",
+        "Downloads": "1,130",
+        "DatePublished": "8/17/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.0-dev-10177",
+        "Downloads": "868",
+        "DatePublished": "8/16/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.0-dev-10174",
+        "Downloads": "1,214",
+        "DatePublished": "8/15/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.0-dev-10172",
+        "Downloads": "15,291",
+        "DatePublished": "7/31/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.0-dev-10169",
+        "Downloads": "7,040",
+        "DatePublished": "7/18/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "2.0.0-dev-10164",
+        "Downloads": "1,101",
+        "DatePublished": "7/17/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.4.1-dev-10155",
+        "Downloads": "25,335",
+        "DatePublished": "4/22/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.4.1-dev-10152",
+        "Downloads": "829",
+        "DatePublished": "4/22/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.4.1-dev-10147",
+        "Downloads": "36,708",
+        "DatePublished": "2/15/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.4.0",
+        "Downloads": "5,287,426",
+        "DatePublished": "2/14/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.4.0-dev-10144",
+        "Downloads": "851",
+        "DatePublished": "2/14/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.4.0-dev-10138",
+        "Downloads": "119,878",
+        "DatePublished": "1/16/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.4.0-dev-10136",
+        "Downloads": "14,550",
+        "DatePublished": "11/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.4.0-dev-10133",
+        "Downloads": "1,081",
+        "DatePublished": "11/16/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.3.1",
+        "Downloads": "654,289",
+        "DatePublished": "11/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.3.0",
+        "Downloads": "5,660",
+        "DatePublished": "11/16/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.3.0-dev-10129",
+        "Downloads": "2,741",
+        "DatePublished": "11/15/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.3.0-dev-10125",
+        "Downloads": "22,240",
+        "DatePublished": "8/21/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.2.0",
+        "Downloads": "507,110",
+        "DatePublished": "8/8/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.2.0-dev-10122",
+        "Downloads": "1,512",
+        "DatePublished": "8/3/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.1.0",
+        "Downloads": "32,934",
+        "DatePublished": "7/26/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.1.0-dev-10116",
+        "Downloads": "4,991",
+        "DatePublished": "7/15/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.1.0-dev-10114",
+        "Downloads": "1,058",
+        "DatePublished": "7/14/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.0.0",
+        "Downloads": "293,748",
+        "DatePublished": "6/27/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.0.0-rc2-10110",
+        "Downloads": "7,160",
+        "DatePublished": "5/29/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.0.0-rc2-10108",
+        "Downloads": "877",
+        "DatePublished": "5/28/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.0.0-rc2-10104",
+        "Downloads": "3,439",
+        "DatePublished": "5/19/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.0.0-rc2-10102",
+        "Downloads": "863",
+        "DatePublished": "5/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.0.0-rc2-10099",
+        "Downloads": "1,206",
+        "DatePublished": "5/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.0.0-rc2-10096",
+        "Downloads": "1,104",
+        "DatePublished": "5/17/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.0.0-rc1-final-10092",
+        "Downloads": "15,463",
+        "DatePublished": "1/26/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.0.0-rc1-final-10091",
+        "Downloads": "857",
+        "DatePublished": "1/26/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.0.0-rc1-final-10088",
+        "Downloads": "918",
+        "DatePublished": "1/26/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.0.0-rc1-final-10087",
+        "Downloads": "841",
+        "DatePublished": "1/26/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 26,
+          "PackageName": "serilog.extensions.logging",
+          "PackageListingUrl": "/packages/serilog.extensions.logging/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:02.9374424+00:00"
+        },
+        "Version": "1.0.0-rc1-final-10086",
+        "Downloads": "1,564",
+        "DatePublished": "1/26/2016"
+      }
+    ]
+  }
+}

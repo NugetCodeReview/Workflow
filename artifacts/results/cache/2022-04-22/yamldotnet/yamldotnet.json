@@ -1,0 +1,593 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "yamldotnet",
+  "PackageUrl": "/packages/yamldotnet/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/aaubry/YamlDotNet.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "aaubry/aaubry_YamlDotNet",
+    "Url": "https://api.github.com/NugetCodeReview/aaubry_YamlDotNet.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "11.2.1",
+        "Downloads": "5,518,630",
+        "DatePublished": "6/28/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "11.2.0",
+        "Downloads": "163,595",
+        "DatePublished": "6/13/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "11.1.3-nullable-enums-0003",
+        "Downloads": "9,464",
+        "DatePublished": "4/9/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "11.1.1",
+        "Downloads": "1,258,654",
+        "DatePublished": "4/9/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "11.1.0",
+        "Downloads": "18,804",
+        "DatePublished": "4/8/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "11.0.1",
+        "Downloads": "38,191",
+        "DatePublished": "4/1/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "10.1.0",
+        "Downloads": "25,383",
+        "DatePublished": "3/31/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "10.0.0",
+        "Downloads": "21,947",
+        "DatePublished": "3/27/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "9.1.4",
+        "Downloads": "4,802,284",
+        "DatePublished": "1/15/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "8.1.2",
+        "Downloads": "8,299,076",
+        "DatePublished": "5/28/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "8.1.0",
+        "Downloads": "1,708,908",
+        "DatePublished": "1/18/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "8.0.0",
+        "Downloads": "3,087,747",
+        "DatePublished": "10/19/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "7.0.0",
+        "Downloads": "367,338",
+        "DatePublished": "9/28/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "6.1.2",
+        "Downloads": "1,850,047",
+        "DatePublished": "7/20/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "6.1.1",
+        "Downloads": "331,315",
+        "DatePublished": "6/4/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "6.0.0",
+        "Downloads": "7,482,649",
+        "DatePublished": "3/15/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "5.4.0",
+        "Downloads": "237,663",
+        "DatePublished": "2/12/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "5.3.1",
+        "Downloads": "2,298",
+        "DatePublished": "2/12/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "5.3.0",
+        "Downloads": "752,306",
+        "DatePublished": "12/5/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 77,
+          "PackageName": "yamldotnet",
+          "PackageListingUrl": "/packages/yamldotnet/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "aaubry",
+                "Url": "/profiles/aaubry"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+          },
+          "DateTaken": "2022-04-22T19:27:09.3678119+00:00"
+        },
+        "Version": "5.1.0",
+        "Downloads": "1,401,718",
+        "DatePublished": "9/21/2018"
+      }
+    ]
+  }
+}

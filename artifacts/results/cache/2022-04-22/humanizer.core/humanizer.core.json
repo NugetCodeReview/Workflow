@@ -1,0 +1,792 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "humanizer.core",
+  "PackageUrl": "/packages/humanizer.core/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/Humanizr/Humanizer.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Humanizr/Humanizr_Humanizer",
+    "Url": "https://api.github.com/NugetCodeReview/Humanizr_Humanizer.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.14.1",
+        "Downloads": "579,524",
+        "DatePublished": "1/29/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.13.14",
+        "Downloads": "962,160",
+        "DatePublished": "11/16/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.11.10",
+        "Downloads": "3,683,326",
+        "DatePublished": "6/7/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.10.1",
+        "Downloads": "628,667",
+        "DatePublished": "5/5/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.9.9",
+        "Downloads": "136,020",
+        "DatePublished": "4/27/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.9.7",
+        "Downloads": "6,553",
+        "DatePublished": "4/27/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.8.26",
+        "Downloads": "42,051,049",
+        "DatePublished": "6/2/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.8.25",
+        "Downloads": "65,097",
+        "DatePublished": "6/2/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.8.11",
+        "Downloads": "791,296",
+        "DatePublished": "5/2/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.8.2",
+        "Downloads": "143,932",
+        "DatePublished": "4/18/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.7.9",
+        "Downloads": "2,916,916",
+        "DatePublished": "9/27/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.7.2",
+        "Downloads": "420,211",
+        "DatePublished": "9/6/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.6.2",
+        "Downloads": "2,933,520",
+        "DatePublished": "3/13/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.5.16",
+        "Downloads": "1,639,206",
+        "DatePublished": "11/22/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.5.1",
+        "Downloads": "744,767",
+        "DatePublished": "9/17/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.4.2",
+        "Downloads": "1,020,723",
+        "DatePublished": "6/30/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.3.3",
+        "Downloads": "1,109,678",
+        "DatePublished": "6/9/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.3.2",
+        "Downloads": "6,116",
+        "DatePublished": "6/9/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.2.0",
+        "Downloads": "21,526,744",
+        "DatePublished": "5/4/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.1.0",
+        "Downloads": "948,493",
+        "DatePublished": "7/4/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.0.1",
+        "Downloads": "390,300",
+        "DatePublished": "2/8/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "96,922",
+        "DatePublished": "1/30/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 33,
+          "PackageName": "humanizer.core",
+          "PackageListingUrl": "/packages/humanizer.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Humanizer",
+                "Url": "/profiles/Humanizer"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+          },
+          "DateTaken": "2022-04-22T19:26:08.6960291+00:00"
+        },
+        "Version": "2.0.0-beta02-0092",
+        "Downloads": "4,442",
+        "DatePublished": "12/30/2015"
+      }
+    ]
+  }
+}

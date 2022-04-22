@@ -1,0 +1,2105 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "autofac",
+  "PackageUrl": "/packages/autofac/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/autofac/Autofac.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "autofac/autofac_Autofac",
+    "Url": "https://api.github.com/NugetCodeReview/autofac_Autofac.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "6.3.0",
+        "Downloads": "3,140,588",
+        "DatePublished": "10/8/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "6.2.0",
+        "Downloads": "4,893,189",
+        "DatePublished": "4/21/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "6.1.0",
+        "Downloads": "5,116,528",
+        "DatePublished": "12/4/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "6.0.0",
+        "Downloads": "9,666,547",
+        "DatePublished": "9/28/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "5.2.0",
+        "Downloads": "9,130,663",
+        "DatePublished": "5/11/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "5.1.4",
+        "Downloads": "889,060",
+        "DatePublished": "4/27/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "5.1.3",
+        "Downloads": "303,726",
+        "DatePublished": "4/23/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "5.1.2",
+        "Downloads": "3,917,637",
+        "DatePublished": "2/16/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "5.1.1",
+        "Downloads": "592,267",
+        "DatePublished": "2/13/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "5.1.0",
+        "Downloads": "788,560",
+        "DatePublished": "2/12/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "5.0.0",
+        "Downloads": "7,354,678",
+        "DatePublished": "1/27/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.9.4",
+        "Downloads": "12,367,689",
+        "DatePublished": "8/15/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.9.3",
+        "Downloads": "1,327,623",
+        "DatePublished": "7/23/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.9.2",
+        "Downloads": "7,847,465",
+        "DatePublished": "3/24/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.9.1",
+        "Downloads": "8,800,910",
+        "DatePublished": "2/18/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.9.0",
+        "Downloads": "513,214",
+        "DatePublished": "2/10/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.9.0-beta1",
+        "Downloads": "161,507",
+        "DatePublished": "8/26/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.8.1",
+        "Downloads": "14,045,097",
+        "DatePublished": "5/9/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.8.0",
+        "Downloads": "886,264",
+        "DatePublished": "4/19/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.7.1",
+        "Downloads": "147,711",
+        "DatePublished": "4/17/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.7.0",
+        "Downloads": "256,022",
+        "DatePublished": "4/10/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.6.2",
+        "Downloads": "8,200,446",
+        "DatePublished": "10/16/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.6.1",
+        "Downloads": "5,769,640",
+        "DatePublished": "7/25/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.6.0",
+        "Downloads": "2,089,117",
+        "DatePublished": "5/16/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.5.0",
+        "Downloads": "1,137,275",
+        "DatePublished": "4/5/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.4.0",
+        "Downloads": "1,060,813",
+        "DatePublished": "3/1/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.3.0",
+        "Downloads": "900,921",
+        "DatePublished": "1/17/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.2.1",
+        "Downloads": "1,427,754",
+        "DatePublished": "11/23/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.2.0",
+        "Downloads": "4,523,350",
+        "DatePublished": "11/3/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.1.1",
+        "Downloads": "647,095",
+        "DatePublished": "9/22/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.1.0",
+        "Downloads": "659,344",
+        "DatePublished": "8/25/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.0.1",
+        "Downloads": "3,284,814",
+        "DatePublished": "8/24/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.0.0",
+        "Downloads": "4,097,759",
+        "DatePublished": "8/9/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.0.0-rc3-316",
+        "Downloads": "143,401",
+        "DatePublished": "7/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.0.0-rc3-309",
+        "Downloads": "49,462",
+        "DatePublished": "7/12/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.0.0-rc3-293",
+        "Downloads": "18,726",
+        "DatePublished": "7/6/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.0.0-rc3-286",
+        "Downloads": "21,877",
+        "DatePublished": "6/29/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.0.0-rc3-280",
+        "Downloads": "41,528",
+        "DatePublished": "6/28/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.0.0-rc2-240",
+        "Downloads": "34,486",
+        "DatePublished": "5/19/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.0.0-rc1-177",
+        "Downloads": "68,023",
+        "DatePublished": "11/19/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.0.0-beta8-157",
+        "Downloads": "20,457",
+        "DatePublished": "10/16/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.0.0-beta7-130",
+        "Downloads": "23,265",
+        "DatePublished": "9/4/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.0.0-beta6-110",
+        "Downloads": "22,319",
+        "DatePublished": "8/5/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.0.0-beta5-90",
+        "Downloads": "16,450",
+        "DatePublished": "7/21/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.0.0-alpha2",
+        "Downloads": "19,400",
+        "DatePublished": "5/4/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "4.0.0-alpha1",
+        "Downloads": "16,266",
+        "DatePublished": "3/12/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "3.5.2",
+        "Downloads": "8,447,417",
+        "DatePublished": "8/12/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "3.5.0",
+        "Downloads": "2,673,065",
+        "DatePublished": "6/16/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "3.4.1",
+        "Downloads": "74,796",
+        "DatePublished": "6/1/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "3.4.0",
+        "Downloads": "480,242",
+        "DatePublished": "5/9/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "3.3.1",
+        "Downloads": "598,207",
+        "DatePublished": "3/27/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "3.3.0",
+        "Downloads": "269,658",
+        "DatePublished": "12/28/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "3.2.0",
+        "Downloads": "66,445",
+        "DatePublished": "12/17/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "3.1.5",
+        "Downloads": "510,903",
+        "DatePublished": "10/29/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "3.1.4",
+        "Downloads": "15,354",
+        "DatePublished": "10/29/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "3.1.3",
+        "Downloads": "66,407",
+        "DatePublished": "10/16/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "3.1.1",
+        "Downloads": "183,096",
+        "DatePublished": "7/15/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "3.1.0",
+        "Downloads": "173,055",
+        "DatePublished": "7/12/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "3.0.2",
+        "Downloads": "165,453",
+        "DatePublished": "4/8/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "3.0.1",
+        "Downloads": "142,789",
+        "DatePublished": "2/8/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "3.0.0",
+        "Downloads": "554,091",
+        "DatePublished": "1/30/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "3.0.0-beta2",
+        "Downloads": "19,408",
+        "DatePublished": "12/23/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "3.0.0-beta",
+        "Downloads": "18,212",
+        "DatePublished": "11/1/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "2.6.3.862",
+        "Downloads": "322,156",
+        "DatePublished": "6/20/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "2.6.2.859",
+        "Downloads": "27,100",
+        "DatePublished": "6/7/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "2.6.1.841",
+        "Downloads": "91,752",
+        "DatePublished": "3/5/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "2.5.2.830",
+        "Downloads": "128,438",
+        "DatePublished": "8/12/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "2.5.1.827",
+        "Downloads": "22,661",
+        "DatePublished": "7/10/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "2.4.5.724",
+        "Downloads": "60,799",
+        "DatePublished": "3/12/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "2.4.4.705",
+        "Downloads": "19,825",
+        "DatePublished": "2/6/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "2.4.3.700",
+        "Downloads": "16,644",
+        "DatePublished": "1/30/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "2.4.2.696",
+        "Downloads": "19,714",
+        "DatePublished": "1/24/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "2.3.2.632",
+        "Downloads": "20,898",
+        "DatePublished": "1/7/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 56,
+          "PackageName": "autofac",
+          "PackageListingUrl": "/packages/autofac/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Autofac",
+                "Url": "/profiles/Autofac"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+          },
+          "DateTaken": "2022-04-22T19:26:43.5651444+00:00"
+        },
+        "Version": "2.2.4.900",
+        "Downloads": "100,884",
+        "DatePublished": "1/7/2011"
+      }
+    ]
+  }
+}

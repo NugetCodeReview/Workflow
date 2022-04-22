@@ -1,0 +1,2161 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "google.apis.core",
+  "PackageUrl": "/packages/google.apis.core/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/googleapis/google-api-dotnet-client.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "googleapis/googleapis_google-api-dotnet-client",
+    "Url": "https://api.github.com/NugetCodeReview/googleapis_google-api-dotnet-client.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.57.0",
+        "Downloads": "129,051",
+        "DatePublished": "3/28/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.56.0",
+        "Downloads": "250,437",
+        "DatePublished": "2/18/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.55.0",
+        "Downloads": "2,355,050",
+        "DatePublished": "9/8/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.54.0",
+        "Downloads": "1,190,712",
+        "DatePublished": "8/9/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.53.0",
+        "Downloads": "2,010,094",
+        "DatePublished": "7/28/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.52.0",
+        "Downloads": "1,493,251",
+        "DatePublished": "6/15/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.51.0",
+        "Downloads": "2,014,588",
+        "DatePublished": "3/18/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.50.0",
+        "Downloads": "749,765",
+        "DatePublished": "2/9/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.49.0",
+        "Downloads": "6,730,402",
+        "DatePublished": "8/17/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.48.0",
+        "Downloads": "5,295,156",
+        "DatePublished": "7/9/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.47.0",
+        "Downloads": "624,278",
+        "DatePublished": "7/1/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.46.0",
+        "Downloads": "1,406,594",
+        "DatePublished": "6/1/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.45.0",
+        "Downloads": "4,034,496",
+        "DatePublished": "4/2/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.44.1",
+        "Downloads": "5,789,025",
+        "DatePublished": "3/6/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.44.0",
+        "Downloads": "229,868",
+        "DatePublished": "2/26/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.43.0",
+        "Downloads": "1,640,953",
+        "DatePublished": "1/6/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.42.0",
+        "Downloads": "3,278,401",
+        "DatePublished": "11/5/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.41.1",
+        "Downloads": "4,103,881",
+        "DatePublished": "9/11/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.41.0",
+        "Downloads": "46,062",
+        "DatePublished": "9/9/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.40.3",
+        "Downloads": "606,838",
+        "DatePublished": "8/5/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.40.2",
+        "Downloads": "1,520,596",
+        "DatePublished": "6/11/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.40.1",
+        "Downloads": "52,247",
+        "DatePublished": "6/6/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.40.0",
+        "Downloads": "2,227,723",
+        "DatePublished": "5/9/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.39.0",
+        "Downloads": "597,837",
+        "DatePublished": "5/1/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.38.2",
+        "Downloads": "722,049",
+        "DatePublished": "4/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.38.0",
+        "Downloads": "2,709,439",
+        "DatePublished": "1/31/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.37.0",
+        "Downloads": "436,340",
+        "DatePublished": "1/10/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.36.1",
+        "Downloads": "1,856,203",
+        "DatePublished": "10/17/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.36.0",
+        "Downloads": "140,995",
+        "DatePublished": "10/10/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.35.2",
+        "Downloads": "468,773",
+        "DatePublished": "9/13/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.35.1",
+        "Downloads": "3,939,635",
+        "DatePublished": "7/20/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.35.0",
+        "Downloads": "39,883",
+        "DatePublished": "7/18/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.34.0",
+        "Downloads": "1,352,505",
+        "DatePublished": "5/30/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.33.1",
+        "Downloads": "412,455",
+        "DatePublished": "5/10/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.33.0",
+        "Downloads": "158,931",
+        "DatePublished": "4/23/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.32.2",
+        "Downloads": "1,048,487",
+        "DatePublished": "2/8/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.32.1",
+        "Downloads": "116,698",
+        "DatePublished": "1/25/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.32.0",
+        "Downloads": "676,345",
+        "DatePublished": "12/14/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.31.1",
+        "Downloads": "148,130",
+        "DatePublished": "12/7/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.31.0-beta01",
+        "Downloads": "11,319",
+        "DatePublished": "10/26/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.30.0",
+        "Downloads": "1,154,346",
+        "DatePublished": "10/26/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.30.0-beta02",
+        "Downloads": "2,650",
+        "DatePublished": "10/4/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.30.0-beta01",
+        "Downloads": "1,785",
+        "DatePublished": "9/22/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.29.2",
+        "Downloads": "238,294",
+        "DatePublished": "10/3/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.29.1",
+        "Downloads": "791,526",
+        "DatePublished": "9/1/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.29.0",
+        "Downloads": "26,683",
+        "DatePublished": "8/30/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.28.0",
+        "Downloads": "748,392",
+        "DatePublished": "7/19/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.27.1",
+        "Downloads": "837,137",
+        "DatePublished": "6/6/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.27.0",
+        "Downloads": "48,160",
+        "DatePublished": "6/1/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.26.2",
+        "Downloads": "56,044",
+        "DatePublished": "5/24/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.25.0",
+        "Downloads": "858,048",
+        "DatePublished": "4/10/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.24.1",
+        "Downloads": "187,350",
+        "DatePublished": "3/30/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.23.0",
+        "Downloads": "35,375",
+        "DatePublished": "3/27/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.22.0",
+        "Downloads": "92,272",
+        "DatePublished": "3/15/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.21.0",
+        "Downloads": "1,336,913",
+        "DatePublished": "2/9/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.20.0",
+        "Downloads": "2,006,708",
+        "DatePublished": "12/13/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.19.0",
+        "Downloads": "1,621,669",
+        "DatePublished": "11/7/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.18.0",
+        "Downloads": "90,458",
+        "DatePublished": "10/24/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.17.0",
+        "Downloads": "77,827",
+        "DatePublished": "10/12/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.16.0",
+        "Downloads": "336,352",
+        "DatePublished": "8/22/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.15.0",
+        "Downloads": "302,647",
+        "DatePublished": "8/4/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.14.1",
+        "Downloads": "19,112",
+        "DatePublished": "7/28/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.14.0",
+        "Downloads": "57,840",
+        "DatePublished": "7/5/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.13.1",
+        "Downloads": "85,062",
+        "DatePublished": "5/31/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.13.0",
+        "Downloads": "93,591",
+        "DatePublished": "5/12/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.11.1",
+        "Downloads": "149,746",
+        "DatePublished": "3/22/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.10.1-rc1",
+        "Downloads": "3,080",
+        "DatePublished": "3/7/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.10.0",
+        "Downloads": "391,168",
+        "DatePublished": "12/15/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.9.3",
+        "Downloads": "132,801",
+        "DatePublished": "8/12/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.9.2",
+        "Downloads": "202,409",
+        "DatePublished": "7/23/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.9.1",
+        "Downloads": "233,253",
+        "DatePublished": "12/29/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.9.0",
+        "Downloads": "410,220",
+        "DatePublished": "9/30/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.8.2",
+        "Downloads": "59,239",
+        "DatePublished": "5/26/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.8.1",
+        "Downloads": "258,310",
+        "DatePublished": "3/17/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.8.0-rc",
+        "Downloads": "17,670",
+        "DatePublished": "2/17/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 66,
+          "PackageName": "google.apis.core",
+          "PackageListingUrl": "/packages/google.apis.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:53.6848948+00:00"
+        },
+        "Version": "1.7.0-beta",
+        "Downloads": "54,764",
+        "DatePublished": "12/18/2013"
+      }
+    ]
+  }
+}

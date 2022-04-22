@@ -1,0 +1,1221 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "mediatr",
+  "PackageUrl": "/packages/mediatr/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/jbogard/MediatR.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "jbogard/jbogard_MediatR",
+    "Url": "https://api.github.com/NugetCodeReview/jbogard_MediatR.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "10.0.1",
+        "Downloads": "1,694,135",
+        "DatePublished": "1/10/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "10.0.0",
+        "Downloads": "80,122",
+        "DatePublished": "1/6/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "9.0.0",
+        "Downloads": "22,144,763",
+        "DatePublished": "10/8/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "8.1.0",
+        "Downloads": "4,915,253",
+        "DatePublished": "7/27/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "8.0.2",
+        "Downloads": "1,274,282",
+        "DatePublished": "6/30/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "8.0.1",
+        "Downloads": "5,988,193",
+        "DatePublished": "2/27/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "8.0.0",
+        "Downloads": "5,410,078",
+        "DatePublished": "12/30/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "7.0.0",
+        "Downloads": "8,084,462",
+        "DatePublished": "4/30/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "6.0.0",
+        "Downloads": "4,148,282",
+        "DatePublished": "12/10/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "5.1.0",
+        "Downloads": "2,203,724",
+        "DatePublished": "7/30/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "5.0.1",
+        "Downloads": "672,002",
+        "DatePublished": "6/1/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "5.0.1-alpha-0002",
+        "Downloads": "32,670",
+        "DatePublished": "4/5/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "5.0.1-alpha-0001",
+        "Downloads": "1,336",
+        "DatePublished": "4/5/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "4.1.0",
+        "Downloads": "1,234,035",
+        "DatePublished": "3/20/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "4.0.1",
+        "Downloads": "792,842",
+        "DatePublished": "12/4/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "4.0.0",
+        "Downloads": "101,201",
+        "DatePublished": "11/30/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "4.0.0-alpha-0002",
+        "Downloads": "1,322",
+        "DatePublished": "11/30/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "4.0.0-alpha",
+        "Downloads": "1,425",
+        "DatePublished": "11/29/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "3.0.1",
+        "Downloads": "1,009,521",
+        "DatePublished": "3/7/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "3.0.0",
+        "Downloads": "201,945",
+        "DatePublished": "1/4/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "2.1.0",
+        "Downloads": "531,238",
+        "DatePublished": "7/1/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "2.1.0-beta-19",
+        "Downloads": "2,036",
+        "DatePublished": "5/23/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "2.0.2",
+        "Downloads": "283,054",
+        "DatePublished": "8/5/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "2.0.1",
+        "Downloads": "2,444",
+        "DatePublished": "8/5/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "4,891",
+        "DatePublished": "8/4/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "2.0.0-beta-005",
+        "Downloads": "3,148",
+        "DatePublished": "7/2/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "2.0.0-beta-004",
+        "Downloads": "11,584",
+        "DatePublished": "4/20/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "2.0.0-beta-003",
+        "Downloads": "2,377",
+        "DatePublished": "4/20/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "2.0.0-beta-002",
+        "Downloads": "1,523",
+        "DatePublished": "4/19/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "2.0.0-beta-001",
+        "Downloads": "3,619",
+        "DatePublished": "2/16/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "1.0.0",
+        "Downloads": "41,986",
+        "DatePublished": "12/16/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "0.5.0",
+        "Downloads": "5,085",
+        "DatePublished": "7/7/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "0.4.0",
+        "Downloads": "1,732",
+        "DatePublished": "6/16/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "0.3.0",
+        "Downloads": "2,481",
+        "DatePublished": "3/20/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "0.2.0",
+        "Downloads": "2,269",
+        "DatePublished": "3/6/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 72,
+          "PackageName": "mediatr",
+          "PackageListingUrl": "/packages/mediatr/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:03.4358697+00:00"
+        },
+        "Version": "0.1.0",
+        "Downloads": "12,176",
+        "DatePublished": "3/4/2014"
+      }
+    ]
+  }
+}

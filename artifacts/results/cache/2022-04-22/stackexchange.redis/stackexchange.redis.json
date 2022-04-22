@@ -1,0 +1,3035 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "stackexchange.redis",
+  "PackageUrl": "/packages/stackexchange.redis/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/StackExchange/StackExchange.Redis/.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "StackExchange/StackExchange_StackExchange.Redis",
+    "Url": "https://api.github.com/NugetCodeReview/StackExchange_StackExchange.Redis.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.5.61",
+        "Downloads": "122,179",
+        "DatePublished": "4/4/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.5.43",
+        "Downloads": "555,996",
+        "DatePublished": "3/5/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.2.88",
+        "Downloads": "3,520,411",
+        "DatePublished": "11/11/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.2.79",
+        "Downloads": "1,325,523",
+        "DatePublished": "10/14/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.2.50",
+        "Downloads": "2,266,907",
+        "DatePublished": "6/22/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.2.4",
+        "Downloads": "14,425,195",
+        "DatePublished": "11/19/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.2.3",
+        "Downloads": "97,751",
+        "DatePublished": "11/18/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.1.58",
+        "Downloads": "16,877,854",
+        "DatePublished": "6/18/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.1.55",
+        "Downloads": "915,712",
+        "DatePublished": "6/9/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.1.30",
+        "Downloads": "6,248,483",
+        "DatePublished": "4/5/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.1.28",
+        "Downloads": "911,866",
+        "DatePublished": "3/30/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.0.601",
+        "Downloads": "20,362,849",
+        "DatePublished": "4/16/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.0.600",
+        "Downloads": "712,940",
+        "DatePublished": "4/9/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.0.593",
+        "Downloads": "20,696,577",
+        "DatePublished": "4/4/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.0.588",
+        "Downloads": "57,286",
+        "DatePublished": "4/3/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.0.571",
+        "Downloads": "835,724",
+        "DatePublished": "3/13/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.0.519",
+        "Downloads": "7,404,856",
+        "DatePublished": "11/27/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.0.513",
+        "Downloads": "10,049,653",
+        "DatePublished": "9/28/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.0.505",
+        "Downloads": "482,633",
+        "DatePublished": "9/12/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "2.0.495",
+        "Downloads": "648,170",
+        "DatePublished": "9/4/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.2.6",
+        "Downloads": "12,933,916",
+        "DatePublished": "8/1/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.2.5",
+        "Downloads": "432,871",
+        "DatePublished": "7/24/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.2.4",
+        "Downloads": "690,562",
+        "DatePublished": "6/24/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.2.3",
+        "Downloads": "1,105,240",
+        "DatePublished": "5/8/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.2.1",
+        "Downloads": "1,296,316",
+        "DatePublished": "2/3/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.2.0",
+        "Downloads": "1,140,629",
+        "DatePublished": "1/11/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.2.0-alpha1",
+        "Downloads": "2,882",
+        "DatePublished": "1/5/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.1.608",
+        "Downloads": "1,382,021",
+        "DatePublished": "10/6/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.1.606",
+        "Downloads": "34,802",
+        "DatePublished": "10/3/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.1.605",
+        "Downloads": "281,570",
+        "DatePublished": "9/3/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.1.604-alpha",
+        "Downloads": "272,641",
+        "DatePublished": "5/21/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.1.603",
+        "Downloads": "1,354,567",
+        "DatePublished": "5/16/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.1.572-alpha",
+        "Downloads": "14,726",
+        "DatePublished": "2/8/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.1.553-alpha",
+        "Downloads": "24,495",
+        "DatePublished": "1/19/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.1.0-alpha2",
+        "Downloads": "3,403",
+        "DatePublished": "12/11/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.1.0-alpha1",
+        "Downloads": "5,260",
+        "DatePublished": "12/10/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.488",
+        "Downloads": "1,505,512",
+        "DatePublished": "11/5/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.481",
+        "Downloads": "1,000,704",
+        "DatePublished": "7/13/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.479",
+        "Downloads": "2,709",
+        "DatePublished": "7/13/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.450",
+        "Downloads": "374,439",
+        "DatePublished": "5/15/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.414",
+        "Downloads": "345,526",
+        "DatePublished": "3/18/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.394",
+        "Downloads": "217,916",
+        "DatePublished": "1/20/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.371",
+        "Downloads": "211,816",
+        "DatePublished": "10/30/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.333",
+        "Downloads": "111,958",
+        "DatePublished": "9/18/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.331",
+        "Downloads": "6,966",
+        "DatePublished": "9/11/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.330",
+        "Downloads": "15,087",
+        "DatePublished": "9/2/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.329",
+        "Downloads": "2,727",
+        "DatePublished": "9/1/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.328",
+        "Downloads": "20,251",
+        "DatePublished": "8/21/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.322",
+        "Downloads": "54,499",
+        "DatePublished": "7/10/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.321",
+        "Downloads": "4,122",
+        "DatePublished": "7/10/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.320",
+        "Downloads": "63,203",
+        "DatePublished": "7/1/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.312",
+        "Downloads": "13,920",
+        "DatePublished": "6/24/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.297",
+        "Downloads": "41,279",
+        "DatePublished": "5/28/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.289",
+        "Downloads": "7,945",
+        "DatePublished": "5/9/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.281",
+        "Downloads": "9,397",
+        "DatePublished": "4/30/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.278",
+        "Downloads": "2,926",
+        "DatePublished": "4/27/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.273",
+        "Downloads": "3,581",
+        "DatePublished": "4/22/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.270",
+        "Downloads": "11,332",
+        "DatePublished": "4/14/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.247",
+        "Downloads": "8,188",
+        "DatePublished": "4/4/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.245",
+        "Downloads": "2,774",
+        "DatePublished": "4/4/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.243",
+        "Downloads": "3,011",
+        "DatePublished": "4/3/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.242",
+        "Downloads": "2,898",
+        "DatePublished": "4/2/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.241",
+        "Downloads": "2,900",
+        "DatePublished": "4/1/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.240",
+        "Downloads": "2,992",
+        "DatePublished": "4/1/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.238",
+        "Downloads": "3,013",
+        "DatePublished": "3/30/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.236",
+        "Downloads": "3,715",
+        "DatePublished": "3/28/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.233",
+        "Downloads": "2,856",
+        "DatePublished": "3/27/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.231",
+        "Downloads": "2,878",
+        "DatePublished": "3/27/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.228",
+        "Downloads": "2,927",
+        "DatePublished": "3/27/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.223",
+        "Downloads": "2,941",
+        "DatePublished": "3/25/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.221",
+        "Downloads": "2,811",
+        "DatePublished": "3/25/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.219",
+        "Downloads": "19,862",
+        "DatePublished": "3/24/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.214",
+        "Downloads": "2,864",
+        "DatePublished": "3/23/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.210",
+        "Downloads": "2,892",
+        "DatePublished": "3/23/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.209",
+        "Downloads": "2,825",
+        "DatePublished": "3/22/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.207",
+        "Downloads": "2,842",
+        "DatePublished": "3/22/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.206",
+        "Downloads": "2,899",
+        "DatePublished": "3/21/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.190",
+        "Downloads": "3,054",
+        "DatePublished": "3/19/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 35,
+          "PackageName": "stackexchange.redis",
+          "PackageListingUrl": "/packages/stackexchange.redis/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+          },
+          "DateTaken": "2022-04-22T19:26:11.1523135+00:00"
+        },
+        "Version": "1.0.187",
+        "Downloads": "44,014",
+        "DatePublished": "3/18/2014"
+      }
+    ]
+  }
+}

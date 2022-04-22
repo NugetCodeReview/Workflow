@@ -1,0 +1,929 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "dnsclient",
+  "PackageUrl": "/packages/dnsclient/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/MichaCo/DnsClient.NET.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "MichaCo/MichaCo_DnsClient.NET",
+    "Url": "https://api.github.com/NugetCodeReview/MichaCo_DnsClient.NET.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.6.0",
+        "Downloads": "472,479",
+        "DatePublished": "1/30/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.5.0",
+        "Downloads": "496,297",
+        "DatePublished": "6/20/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.5.0-beta-20210612.7",
+        "Downloads": "739",
+        "DatePublished": "6/12/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.5.0-beta-20210522.7",
+        "Downloads": "365",
+        "DatePublished": "5/22/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.4.0",
+        "Downloads": "11,332,576",
+        "DatePublished": "2/14/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.4.0-beta-20200912.4",
+        "Downloads": "13,840",
+        "DatePublished": "9/12/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.4.0-beta-20200801.7",
+        "Downloads": "34,542",
+        "DatePublished": "8/1/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.3.2",
+        "Downloads": "1,633,465",
+        "DatePublished": "5/13/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.3.2-beta-20200512.2",
+        "Downloads": "286",
+        "DatePublished": "5/12/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.3.1",
+        "Downloads": "18,530,374",
+        "DatePublished": "3/31/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.3.0",
+        "Downloads": "279,895",
+        "DatePublished": "3/17/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.3.0-beta-20200316.3",
+        "Downloads": "539",
+        "DatePublished": "3/16/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.3.0-beta-20200314.3",
+        "Downloads": "403",
+        "DatePublished": "3/14/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.3.0-beta-20200311.4",
+        "Downloads": "1,001",
+        "DatePublished": "3/11/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.2.0",
+        "Downloads": "23,030,428",
+        "DatePublished": "8/15/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.1.1",
+        "Downloads": "263,679",
+        "DatePublished": "6/13/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.1.0",
+        "Downloads": "12,926",
+        "DatePublished": "6/4/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.0.7",
+        "Downloads": "12,810,849",
+        "DatePublished": "5/1/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.0.6",
+        "Downloads": "15,822",
+        "DatePublished": "4/5/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.0.5",
+        "Downloads": "8,275",
+        "DatePublished": "3/3/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.0.4",
+        "Downloads": "1,104",
+        "DatePublished": "2/23/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.0.3",
+        "Downloads": "3,227",
+        "DatePublished": "1/21/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.0.2",
+        "Downloads": "1,049",
+        "DatePublished": "1/16/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.0.2-beta-1080",
+        "Downloads": "882",
+        "DatePublished": "1/10/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.0.1",
+        "Downloads": "38,206",
+        "DatePublished": "12/31/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.0.1-beta-1033",
+        "Downloads": "878",
+        "DatePublished": "12/31/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.0.1-beta-1030",
+        "Downloads": "891",
+        "DatePublished": "12/31/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.0.0",
+        "Downloads": "1,644",
+        "DatePublished": "12/29/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.0.0-beta-1017",
+        "Downloads": "1,017",
+        "DatePublished": "12/7/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.0.0-beta-1014",
+        "Downloads": "1,016",
+        "DatePublished": "11/27/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.0.0-beta-1011",
+        "Downloads": "912",
+        "DatePublished": "11/24/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 74,
+          "PackageName": "dnsclient",
+          "PackageListingUrl": "/packages/dnsclient/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "MichaConrad",
+                "Url": "/profiles/MichaConrad"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+          },
+          "DateTaken": "2022-04-22T19:27:05.4176396+00:00"
+        },
+        "Version": "1.0.0-beta-1005",
+        "Downloads": "1,010",
+        "DatePublished": "11/22/2016"
+      }
+    ]
+  }
+}

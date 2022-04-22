@@ -1,0 +1,726 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+  "PackageUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/jbogard/MediatR.Extensions.Microsoft.DependencyInjection.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "jbogard/jbogard_MediatR.Extensions.Microsoft.DependencyInjection",
+    "Url": "https://api.github.com/NugetCodeReview/jbogard_MediatR.Extensions.Microsoft.DependencyInjection.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "10.0.1",
+        "Downloads": "1,373,303",
+        "DatePublished": "1/10/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "10.0.0",
+        "Downloads": "52,079",
+        "DatePublished": "1/6/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "9.0.0",
+        "Downloads": "17,816,796",
+        "DatePublished": "10/8/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "8.1.0",
+        "Downloads": "3,417,258",
+        "DatePublished": "7/27/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "8.0.1",
+        "Downloads": "1,482,895",
+        "DatePublished": "6/30/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "8.0.0",
+        "Downloads": "6,801,292",
+        "DatePublished": "12/30/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "7.0.0",
+        "Downloads": "4,982,137",
+        "DatePublished": "4/30/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "6.0.1",
+        "Downloads": "2,358,272",
+        "DatePublished": "12/13/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "6.0.0",
+        "Downloads": "287,511",
+        "DatePublished": "12/10/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "5.1.0",
+        "Downloads": "1,243,071",
+        "DatePublished": "7/30/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "5.0.2",
+        "Downloads": "152,676",
+        "DatePublished": "6/25/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "5.0.1",
+        "Downloads": "149,526",
+        "DatePublished": "6/1/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "5.0.1-alpha-0002",
+        "Downloads": "11,031",
+        "DatePublished": "4/5/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "4.1.0",
+        "Downloads": "626,203",
+        "DatePublished": "3/21/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "4.0.0",
+        "Downloads": "337,933",
+        "DatePublished": "11/30/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "4.0.0-alpha",
+        "Downloads": "761",
+        "DatePublished": "11/30/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "3.0.0",
+        "Downloads": "207,138",
+        "DatePublished": "8/19/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "154,675",
+        "DatePublished": "1/5/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "1.1.0",
+        "Downloads": "19,314",
+        "DatePublished": "12/29/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "1.0.1",
+        "Downloads": "29,738",
+        "DatePublished": "8/31/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 91,
+          "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+          "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+          },
+          "DateTaken": "2022-04-22T19:27:22.4871935+00:00"
+        },
+        "Version": "1.0.0",
+        "Downloads": "24,433",
+        "DatePublished": "7/19/2016"
+      }
+    ]
+  }
+}

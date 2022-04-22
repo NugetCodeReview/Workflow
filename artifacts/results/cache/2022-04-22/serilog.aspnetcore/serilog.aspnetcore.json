@@ -1,0 +1,2273 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "serilog.aspnetcore",
+  "PackageUrl": "/packages/serilog.aspnetcore/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/serilog/serilog-aspnetcore.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "serilog/serilog_serilog-aspnetcore",
+    "Url": "https://api.github.com/NugetCodeReview/serilog_serilog-aspnetcore.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "6.0.0-dev-00265",
+        "Downloads": "20,609",
+        "DatePublished": "3/4/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "5.0.1-dev-00264",
+        "Downloads": "96",
+        "DatePublished": "3/4/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "5.0.1-dev-00262",
+        "Downloads": "2,882",
+        "DatePublished": "2/24/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "5.0.0",
+        "Downloads": "1,856,427",
+        "DatePublished": "2/15/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "5.0.0-dev-00259",
+        "Downloads": "4,813",
+        "DatePublished": "2/8/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "4.1.1-dev-00250",
+        "Downloads": "17,191",
+        "DatePublished": "1/19/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "4.1.1-dev-00241",
+        "Downloads": "61,326",
+        "DatePublished": "11/12/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "4.1.1-dev-00229",
+        "Downloads": "188,458",
+        "DatePublished": "6/2/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "4.1.1-dev-00227",
+        "Downloads": "6,309",
+        "DatePublished": "5/27/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "4.1.0",
+        "Downloads": "24,473,059",
+        "DatePublished": "3/29/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "4.1.0-dev-00223",
+        "Downloads": "313",
+        "DatePublished": "3/29/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "4.0.1-dev-00222",
+        "Downloads": "354",
+        "DatePublished": "3/26/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "4.0.1-dev-00219",
+        "Downloads": "9,523",
+        "DatePublished": "3/17/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "4.0.0",
+        "Downloads": "2,291,304",
+        "DatePublished": "3/3/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "4.0.0-dev-00210",
+        "Downloads": "213",
+        "DatePublished": "3/3/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "4.0.0-dev-00208",
+        "Downloads": "209",
+        "DatePublished": "3/3/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "4.0.0-dev-00206",
+        "Downloads": "400",
+        "DatePublished": "3/3/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "4.0.0-dev-00204",
+        "Downloads": "239",
+        "DatePublished": "3/2/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "4.0.0-dev-00202",
+        "Downloads": "6,756",
+        "DatePublished": "2/24/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "4.0.0-dev-00199",
+        "Downloads": "5,385",
+        "DatePublished": "2/17/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "4.0.0-dev-00198",
+        "Downloads": "4,791",
+        "DatePublished": "2/17/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.4.1-dev-00188",
+        "Downloads": "228,437",
+        "DatePublished": "10/26/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.4.1-dev-00180",
+        "Downloads": "75,962",
+        "DatePublished": "9/15/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.4.0",
+        "Downloads": "23,226,307",
+        "DatePublished": "7/24/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.4.0-dev-00177",
+        "Downloads": "398",
+        "DatePublished": "7/24/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.4.0-dev-00176",
+        "Downloads": "343",
+        "DatePublished": "7/24/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.4.0-dev-00174",
+        "Downloads": "369",
+        "DatePublished": "7/24/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.4.0-dev-00173",
+        "Downloads": "113,928",
+        "DatePublished": "6/18/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.4.0-dev-00171",
+        "Downloads": "41,497",
+        "DatePublished": "6/3/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.4.0-dev-00168",
+        "Downloads": "11,510",
+        "DatePublished": "5/19/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.4.0-dev-00167",
+        "Downloads": "5,517",
+        "DatePublished": "5/13/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.3.0-dev-00161",
+        "Downloads": "26,885",
+        "DatePublished": "5/1/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.3.0-dev-00160",
+        "Downloads": "370",
+        "DatePublished": "5/1/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.3.0-dev-00152",
+        "Downloads": "140,921",
+        "DatePublished": "2/24/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.3.0-dev-00149",
+        "Downloads": "53,844",
+        "DatePublished": "2/19/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.2.1-dev-00147",
+        "Downloads": "7,477",
+        "DatePublished": "2/19/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.2.1-dev-00142",
+        "Downloads": "68,820",
+        "DatePublished": "1/24/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.2.0",
+        "Downloads": "26,963,683",
+        "DatePublished": "11/12/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.2.0-dev-00135",
+        "Downloads": "14,834",
+        "DatePublished": "11/8/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.2.0-dev-00133",
+        "Downloads": "2,274",
+        "DatePublished": "11/6/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.1.1-dev-00132",
+        "Downloads": "482",
+        "DatePublished": "11/6/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.1.0",
+        "Downloads": "2,368,657",
+        "DatePublished": "10/14/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.1.0-dev-00122",
+        "Downloads": "10,426",
+        "DatePublished": "10/7/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.1.0-dev-00119",
+        "Downloads": "453",
+        "DatePublished": "10/7/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.1.0-dev-00118",
+        "Downloads": "449",
+        "DatePublished": "10/7/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.1-dev-00116",
+        "Downloads": "9,527",
+        "DatePublished": "10/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.1-dev-00110",
+        "Downloads": "464",
+        "DatePublished": "10/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.1-dev-00109",
+        "Downloads": "20,690",
+        "DatePublished": "9/25/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.1-dev-00099",
+        "Downloads": "50,399",
+        "DatePublished": "9/3/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.0",
+        "Downloads": "3,211,494",
+        "DatePublished": "8/28/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.0-dev-00093",
+        "Downloads": "508",
+        "DatePublished": "8/27/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.0-dev-00088",
+        "Downloads": "14,829",
+        "DatePublished": "8/21/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.0-dev-00086",
+        "Downloads": "471",
+        "DatePublished": "8/21/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.0-dev-00083",
+        "Downloads": "509",
+        "DatePublished": "8/20/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.0-dev-00081",
+        "Downloads": "473",
+        "DatePublished": "8/20/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.0-dev-00079",
+        "Downloads": "456",
+        "DatePublished": "8/20/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.0-dev-00077",
+        "Downloads": "469",
+        "DatePublished": "8/20/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.0-dev-00067",
+        "Downloads": "4,682",
+        "DatePublished": "8/19/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.0-dev-00059",
+        "Downloads": "38,452",
+        "DatePublished": "7/19/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.0-dev-00058",
+        "Downloads": "27,443",
+        "DatePublished": "6/26/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.0-dev-00057",
+        "Downloads": "493",
+        "DatePublished": "6/26/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.0-dev-00053",
+        "Downloads": "3,272",
+        "DatePublished": "6/25/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.0-dev-00052",
+        "Downloads": "1,046",
+        "DatePublished": "6/25/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.0-dev-00046",
+        "Downloads": "1,590",
+        "DatePublished": "6/23/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.0-dev-00043",
+        "Downloads": "11,147",
+        "DatePublished": "6/5/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.0-dev-00041",
+        "Downloads": "1,282",
+        "DatePublished": "6/3/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "3.0.0-dev-00040",
+        "Downloads": "622",
+        "DatePublished": "6/3/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "2.1.2-dev-00028",
+        "Downloads": "161,683",
+        "DatePublished": "9/22/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "2.1.2-dev-00026",
+        "Downloads": "49,284",
+        "DatePublished": "7/19/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "2.1.2-dev-00024",
+        "Downloads": "131,407",
+        "DatePublished": "5/9/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "2.1.1",
+        "Downloads": "22,120,218",
+        "DatePublished": "3/7/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "2.1.1-dev-00022",
+        "Downloads": "31,611",
+        "DatePublished": "1/18/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "2.1.1-dev-00021",
+        "Downloads": "16,973",
+        "DatePublished": "12/17/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "2.1.1-dev-00017",
+        "Downloads": "6,031",
+        "DatePublished": "12/3/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "2.1.0",
+        "Downloads": "1,836,694",
+        "DatePublished": "10/22/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "2.1.0-dev-00012",
+        "Downloads": "1,017",
+        "DatePublished": "10/16/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "2.0.1-dev-00011",
+        "Downloads": "780",
+        "DatePublished": "10/16/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "270,482",
+        "DatePublished": "9/5/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "2.0.0-dev-00002",
+        "Downloads": "4,284",
+        "DatePublished": "8/29/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 44,
+          "PackageName": "serilog.aspnetcore",
+          "PackageListingUrl": "/packages/serilog.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:17.8700348+00:00"
+        },
+        "Version": "2.0.0-dev-00001",
+        "Downloads": "1,633",
+        "DatePublished": "8/27/2017"
+      }
+    ]
+  }
+}

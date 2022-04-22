@@ -1,0 +1,1386 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "automapper",
+  "PackageUrl": "/packages/automapper/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/AutoMapper/AutoMapper.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "AutoMapper/AutoMapper_AutoMapper",
+    "Url": "https://api.github.com/NugetCodeReview/AutoMapper_AutoMapper.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "11.0.1",
+        "Downloads": "1,741,969",
+        "DatePublished": "2/4/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "11.0.0",
+        "Downloads": "2,046,166",
+        "DatePublished": "1/5/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "10.1.1",
+        "Downloads": "44,589,825",
+        "DatePublished": "10/16/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "10.0.0",
+        "Downloads": "19,107,322",
+        "DatePublished": "7/1/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "9.0.0",
+        "Downloads": "51,867,115",
+        "DatePublished": "8/12/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "8.1.1",
+        "Downloads": "10,111,707",
+        "DatePublished": "6/3/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "8.1.0",
+        "Downloads": "6,763,162",
+        "DatePublished": "4/25/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "8.0.0",
+        "Downloads": "22,320,304",
+        "DatePublished": "11/17/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "7.0.1",
+        "Downloads": "21,454,150",
+        "DatePublished": "6/18/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "7.0.0-alpha-0001",
+        "Downloads": "326,002",
+        "DatePublished": "4/10/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "6.2.2",
+        "Downloads": "13,127,529",
+        "DatePublished": "12/6/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "6.2.1",
+        "Downloads": "1,322,890",
+        "DatePublished": "11/16/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "6.2.0",
+        "Downloads": "394,394",
+        "DatePublished": "11/9/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "6.1.1",
+        "Downloads": "8,642,967",
+        "DatePublished": "6/27/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "6.1.0",
+        "Downloads": "595,767",
+        "DatePublished": "6/14/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "6.0.2",
+        "Downloads": "4,071,850",
+        "DatePublished": "3/22/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "5.2.0",
+        "Downloads": "4,431,057",
+        "DatePublished": "11/23/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "5.1.1",
+        "Downloads": "3,233,310",
+        "DatePublished": "8/12/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "5.0.2",
+        "Downloads": "1,222,971",
+        "DatePublished": "7/7/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "5.0.0-beta-1",
+        "Downloads": "45,315",
+        "DatePublished": "5/17/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "4.2.1",
+        "Downloads": "5,207,387",
+        "DatePublished": "2/24/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "4.2.0",
+        "Downloads": "828,171",
+        "DatePublished": "1/28/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "4.1.1",
+        "Downloads": "3,210,506",
+        "DatePublished": "10/26/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "4.0.4",
+        "Downloads": "1,747,974",
+        "DatePublished": "8/6/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "4.0.0-alpha1",
+        "Downloads": "21,610",
+        "DatePublished": "7/7/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "3.3.1",
+        "Downloads": "6,439,967",
+        "DatePublished": "1/29/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "3.3.0",
+        "Downloads": "948,587",
+        "DatePublished": "11/29/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "3.2.1",
+        "Downloads": "2,350,198",
+        "DatePublished": "4/25/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "3.1.1",
+        "Downloads": "919,281",
+        "DatePublished": "12/31/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "3.1.0",
+        "Downloads": "196,924",
+        "DatePublished": "11/17/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "3.0.0",
+        "Downloads": "1,138,430",
+        "DatePublished": "8/25/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "2.2.1",
+        "Downloads": "1,192,977",
+        "DatePublished": "2/18/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "2.2.0",
+        "Downloads": "398,112",
+        "DatePublished": "9/22/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "2.1.267",
+        "Downloads": "488,504",
+        "DatePublished": "4/15/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "2.1.266",
+        "Downloads": "33,908",
+        "DatePublished": "3/29/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "2.1.265",
+        "Downloads": "44,651",
+        "DatePublished": "2/29/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "2.1.262",
+        "Downloads": "33,440",
+        "DatePublished": "2/29/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "2.1.1",
+        "Downloads": "38,389",
+        "DatePublished": "4/15/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "340,668",
+        "DatePublished": "9/22/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "1.1.2",
+        "Downloads": "48,536",
+        "DatePublished": "3/8/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 9,
+          "PackageName": "automapper",
+          "PackageListingUrl": "/packages/automapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jbogard",
+                "Url": "/profiles/jbogard"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+          },
+          "DateTaken": "2022-04-22T19:25:45.0798956+00:00"
+        },
+        "Version": "1.1.0.118",
+        "Downloads": "906,655",
+        "DatePublished": "9/7/2011"
+      }
+    ]
+  }
+}

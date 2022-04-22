@@ -1,0 +1,1628 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "swashbuckle.aspnetcore.swagger",
+  "PackageUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "domaindrivendev/domaindrivendev_Swashbuckle.AspNetCore",
+    "Url": "https://api.github.com/NugetCodeReview/domaindrivendev_Swashbuckle.AspNetCore.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.ContentItem, Workflow",
+        "Name": ".github/workflows",
+        "Type": 1,
+        "Parent": {
+          "$type": "Workflow.ContentItem, Workflow",
+          "Name": ".github",
+          "Type": 1
+        }
+      },
+      {
+        "$type": "Workflow.ContentItem, Workflow",
+        "Name": ".github/workflows/code-review.yml",
+        "Type": 0,
+        "DownloadUrl": "https://raw.githubusercontent.com/NugetCodeReview/domaindrivendev_Swashbuckle.AspNetCore/master/.github/workflows/code-review.yml",
+        "Parent": {
+          "$type": "Workflow.ContentItem, Workflow",
+          "Name": ".github/workflows",
+          "Type": 1,
+          "Parent": {
+            "$type": "Workflow.ContentItem, Workflow",
+            "Name": ".github",
+            "Type": 1
+          }
+        }
+      }
+    ]
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.3.1",
+        "Downloads": "0",
+        "DatePublished": "4/22/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.3.0",
+        "Downloads": "1,739,524",
+        "DatePublished": "3/7/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.2.3",
+        "Downloads": "12,682,764",
+        "DatePublished": "10/16/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.2.2",
+        "Downloads": "3,034,504",
+        "DatePublished": "9/22/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.2.1",
+        "Downloads": "2,715,419",
+        "DatePublished": "8/30/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.2.0",
+        "Downloads": "25,629",
+        "DatePublished": "8/30/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.1.5",
+        "Downloads": "3,449,134",
+        "DatePublished": "8/2/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.1.4",
+        "Downloads": "12,254,116",
+        "DatePublished": "4/30/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.1.3",
+        "Downloads": "1,841,507",
+        "DatePublished": "4/20/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.1.2",
+        "Downloads": "1,604,313",
+        "DatePublished": "4/9/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.1.1",
+        "Downloads": "4,105,986",
+        "DatePublished": "3/16/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.1.0",
+        "Downloads": "2,057,422",
+        "DatePublished": "3/6/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.0.7",
+        "Downloads": "2,906,364",
+        "DatePublished": "2/16/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.0.6",
+        "Downloads": "35,454",
+        "DatePublished": "2/16/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.0.5",
+        "Downloads": "375,903",
+        "DatePublished": "2/13/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.0.4",
+        "Downloads": "378,672",
+        "DatePublished": "2/10/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.0.3",
+        "Downloads": "115,843",
+        "DatePublished": "2/10/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.0.2",
+        "Downloads": "1,525,356",
+        "DatePublished": "2/7/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.0.1",
+        "Downloads": "104,762",
+        "DatePublished": "2/6/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "6.0.0",
+        "Downloads": "166,776",
+        "DatePublished": "2/5/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.6.3",
+        "Downloads": "31,572,399",
+        "DatePublished": "9/23/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.6.2",
+        "Downloads": "482,020",
+        "DatePublished": "9/22/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.6.1",
+        "Downloads": "1,150,253",
+        "DatePublished": "9/16/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.5.1",
+        "Downloads": "15,997,612",
+        "DatePublished": "6/25/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.5.0",
+        "Downloads": "3,265,166",
+        "DatePublished": "6/19/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.4.1",
+        "Downloads": "11,098,652",
+        "DatePublished": "4/29/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.4.0",
+        "Downloads": "602,143",
+        "DatePublished": "4/28/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.3.3",
+        "Downloads": "1,688,594",
+        "DatePublished": "4/20/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.3.2",
+        "Downloads": "670,509",
+        "DatePublished": "4/17/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.3.1",
+        "Downloads": "3,711,443",
+        "DatePublished": "4/3/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.3.0",
+        "Downloads": "293,440",
+        "DatePublished": "4/2/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.2.1",
+        "Downloads": "2,182,747",
+        "DatePublished": "3/23/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.2.0",
+        "Downloads": "734,212",
+        "DatePublished": "3/20/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.1.0",
+        "Downloads": "2,119,737",
+        "DatePublished": "3/11/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.0.0",
+        "Downloads": "21,229,398",
+        "DatePublished": "1/14/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.0.0-rc5",
+        "Downloads": "2,468,530",
+        "DatePublished": "12/12/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.0.0-rc4",
+        "Downloads": "6,359,907",
+        "DatePublished": "9/30/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.0.0-rc3",
+        "Downloads": "477,382",
+        "DatePublished": "9/20/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.0.0-rc2",
+        "Downloads": "2,859,338",
+        "DatePublished": "3/22/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.0.0-rc1",
+        "Downloads": "9,120",
+        "DatePublished": "3/20/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "5.0.0-beta",
+        "Downloads": "641,348",
+        "DatePublished": "11/24/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "4.0.1",
+        "Downloads": "32,592,269",
+        "DatePublished": "11/7/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "4.0.0",
+        "Downloads": "193,195",
+        "DatePublished": "11/6/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "3.0.0",
+        "Downloads": "10,287,144",
+        "DatePublished": "7/6/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "2.5.0",
+        "Downloads": "2,654,406",
+        "DatePublished": "6/5/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "2.4.0",
+        "Downloads": "2,819,832",
+        "DatePublished": "4/7/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "2.3.0",
+        "Downloads": "1,180,828",
+        "DatePublished": "3/12/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "2.2.0",
+        "Downloads": "315,770",
+        "DatePublished": "3/1/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "2.1.0",
+        "Downloads": "571,313",
+        "DatePublished": "2/25/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "164,176",
+        "DatePublished": "2/22/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "1.2.0",
+        "Downloads": "300,136",
+        "DatePublished": "2/18/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "1.1.0",
+        "Downloads": "3,696,562",
+        "DatePublished": "11/14/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "1.0.0",
+        "Downloads": "4,813,491",
+        "DatePublished": "4/21/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "1.0.0-rc3",
+        "Downloads": "208,233",
+        "DatePublished": "2/27/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "1.0.0-rc2",
+        "Downloads": "2,283",
+        "DatePublished": "2/27/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 6,
+          "PackageName": "swashbuckle.aspnetcore.swagger",
+          "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "domaindrivendev",
+                "Url": "/profiles/domaindrivendev"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.1"
+          },
+          "DateTaken": "2022-04-22T19:25:42.3451572+00:00"
+        },
+        "Version": "1.0.0-rc1",
+        "Downloads": "200,966",
+        "DatePublished": "1/3/2017"
+      }
+    ]
+  }
+}

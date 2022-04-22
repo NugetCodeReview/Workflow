@@ -1,0 +1,386 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "fare",
+  "PackageUrl": "/packages/fare/",
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 92,
+          "PackageName": "fare",
+          "PackageListingUrl": "/packages/fare/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ymotton",
+                "Url": "/profiles/ymotton"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "moodmosaic",
+                "Url": "/profiles/moodmosaic"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Fare/2.2.0"
+          },
+          "DateTaken": "2022-04-22T19:27:23.7950332+00:00"
+        },
+        "Version": "2.2.0",
+        "Downloads": "38,220",
+        "DatePublished": "3/23/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 92,
+          "PackageName": "fare",
+          "PackageListingUrl": "/packages/fare/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ymotton",
+                "Url": "/profiles/ymotton"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "moodmosaic",
+                "Url": "/profiles/moodmosaic"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Fare/2.2.0"
+          },
+          "DateTaken": "2022-04-22T19:27:23.7950332+00:00"
+        },
+        "Version": "2.1.2",
+        "Downloads": "3,871,272",
+        "DatePublished": "4/3/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 92,
+          "PackageName": "fare",
+          "PackageListingUrl": "/packages/fare/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ymotton",
+                "Url": "/profiles/ymotton"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "moodmosaic",
+                "Url": "/profiles/moodmosaic"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Fare/2.2.0"
+          },
+          "DateTaken": "2022-04-22T19:27:23.7950332+00:00"
+        },
+        "Version": "2.1.1",
+        "Downloads": "41,619,288",
+        "DatePublished": "4/12/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 92,
+          "PackageName": "fare",
+          "PackageListingUrl": "/packages/fare/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ymotton",
+                "Url": "/profiles/ymotton"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "moodmosaic",
+                "Url": "/profiles/moodmosaic"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Fare/2.2.0"
+          },
+          "DateTaken": "2022-04-22T19:27:23.7950332+00:00"
+        },
+        "Version": "2.1.0",
+        "Downloads": "4,795",
+        "DatePublished": "4/12/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 92,
+          "PackageName": "fare",
+          "PackageListingUrl": "/packages/fare/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ymotton",
+                "Url": "/profiles/ymotton"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "moodmosaic",
+                "Url": "/profiles/moodmosaic"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Fare/2.2.0"
+          },
+          "DateTaken": "2022-04-22T19:27:23.7950332+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "1,232",
+        "DatePublished": "4/9/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 92,
+          "PackageName": "fare",
+          "PackageListingUrl": "/packages/fare/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ymotton",
+                "Url": "/profiles/ymotton"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "moodmosaic",
+                "Url": "/profiles/moodmosaic"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Fare/2.2.0"
+          },
+          "DateTaken": "2022-04-22T19:27:23.7950332+00:00"
+        },
+        "Version": "1.1.0",
+        "Downloads": "20,363",
+        "DatePublished": "1/22/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 92,
+          "PackageName": "fare",
+          "PackageListingUrl": "/packages/fare/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ymotton",
+                "Url": "/profiles/ymotton"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "moodmosaic",
+                "Url": "/profiles/moodmosaic"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Fare/2.2.0"
+          },
+          "DateTaken": "2022-04-22T19:27:23.7950332+00:00"
+        },
+        "Version": "1.0.4",
+        "Downloads": "29,514",
+        "DatePublished": "12/20/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 92,
+          "PackageName": "fare",
+          "PackageListingUrl": "/packages/fare/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ymotton",
+                "Url": "/profiles/ymotton"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "moodmosaic",
+                "Url": "/profiles/moodmosaic"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Fare/2.2.0"
+          },
+          "DateTaken": "2022-04-22T19:27:23.7950332+00:00"
+        },
+        "Version": "1.0.3",
+        "Downloads": "164,498",
+        "DatePublished": "5/5/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 92,
+          "PackageName": "fare",
+          "PackageListingUrl": "/packages/fare/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ymotton",
+                "Url": "/profiles/ymotton"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "moodmosaic",
+                "Url": "/profiles/moodmosaic"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Fare/2.2.0"
+          },
+          "DateTaken": "2022-04-22T19:27:23.7950332+00:00"
+        },
+        "Version": "1.0.2",
+        "Downloads": "9,044",
+        "DatePublished": "2/25/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 92,
+          "PackageName": "fare",
+          "PackageListingUrl": "/packages/fare/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ymotton",
+                "Url": "/profiles/ymotton"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "moodmosaic",
+                "Url": "/profiles/moodmosaic"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Fare/2.2.0"
+          },
+          "DateTaken": "2022-04-22T19:27:23.7950332+00:00"
+        },
+        "Version": "1.0.1",
+        "Downloads": "4,255",
+        "DatePublished": "11/19/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 92,
+          "PackageName": "fare",
+          "PackageListingUrl": "/packages/fare/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ymotton",
+                "Url": "/profiles/ymotton"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "moodmosaic",
+                "Url": "/profiles/moodmosaic"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Fare/2.2.0"
+          },
+          "DateTaken": "2022-04-22T19:27:23.7950332+00:00"
+        },
+        "Version": "1.0.0",
+        "Downloads": "37,139",
+        "DatePublished": "10/17/2013"
+      }
+    ]
+  }
+}

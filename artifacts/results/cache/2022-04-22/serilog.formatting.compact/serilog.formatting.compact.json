@@ -1,0 +1,650 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "serilog.formatting.compact",
+  "PackageUrl": "/packages/serilog.formatting.compact/",
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 30,
+          "PackageName": "serilog.formatting.compact",
+          "PackageListingUrl": "/packages/serilog.formatting.compact/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nblumhardt",
+                "Url": "/profiles/nblumhardt"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:06.212934+00:00"
+        },
+        "Version": "1.1.1-dev-00944",
+        "Downloads": "38,148",
+        "DatePublished": "5/11/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 30,
+          "PackageName": "serilog.formatting.compact",
+          "PackageListingUrl": "/packages/serilog.formatting.compact/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nblumhardt",
+                "Url": "/profiles/nblumhardt"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:06.212934+00:00"
+        },
+        "Version": "1.1.1-dev-00940",
+        "Downloads": "78,689",
+        "DatePublished": "3/6/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 30,
+          "PackageName": "serilog.formatting.compact",
+          "PackageListingUrl": "/packages/serilog.formatting.compact/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nblumhardt",
+                "Url": "/profiles/nblumhardt"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:06.212934+00:00"
+        },
+        "Version": "1.1.1-dev-00939",
+        "Downloads": "1,388",
+        "DatePublished": "3/6/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 30,
+          "PackageName": "serilog.formatting.compact",
+          "PackageListingUrl": "/packages/serilog.formatting.compact/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nblumhardt",
+                "Url": "/profiles/nblumhardt"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:06.212934+00:00"
+        },
+        "Version": "1.1.0",
+        "Downloads": "62,914,285",
+        "DatePublished": "10/17/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 30,
+          "PackageName": "serilog.formatting.compact",
+          "PackageListingUrl": "/packages/serilog.formatting.compact/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nblumhardt",
+                "Url": "/profiles/nblumhardt"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:06.212934+00:00"
+        },
+        "Version": "1.1.0-dev-00934",
+        "Downloads": "448",
+        "DatePublished": "10/17/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 30,
+          "PackageName": "serilog.formatting.compact",
+          "PackageListingUrl": "/packages/serilog.formatting.compact/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nblumhardt",
+                "Url": "/profiles/nblumhardt"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:06.212934+00:00"
+        },
+        "Version": "1.0.1-dev-00933",
+        "Downloads": "2,918",
+        "DatePublished": "10/6/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 30,
+          "PackageName": "serilog.formatting.compact",
+          "PackageListingUrl": "/packages/serilog.formatting.compact/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nblumhardt",
+                "Url": "/profiles/nblumhardt"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:06.212934+00:00"
+        },
+        "Version": "1.0.1-dev-00929",
+        "Downloads": "542",
+        "DatePublished": "10/5/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 30,
+          "PackageName": "serilog.formatting.compact",
+          "PackageListingUrl": "/packages/serilog.formatting.compact/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nblumhardt",
+                "Url": "/profiles/nblumhardt"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:06.212934+00:00"
+        },
+        "Version": "1.0.1-dev-00925",
+        "Downloads": "86,655",
+        "DatePublished": "1/24/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 30,
+          "PackageName": "serilog.formatting.compact",
+          "PackageListingUrl": "/packages/serilog.formatting.compact/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nblumhardt",
+                "Url": "/profiles/nblumhardt"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:06.212934+00:00"
+        },
+        "Version": "1.0.1-dev-00922",
+        "Downloads": "278,856",
+        "DatePublished": "10/23/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 30,
+          "PackageName": "serilog.formatting.compact",
+          "PackageListingUrl": "/packages/serilog.formatting.compact/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nblumhardt",
+                "Url": "/profiles/nblumhardt"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:06.212934+00:00"
+        },
+        "Version": "1.0.1-dev-00920",
+        "Downloads": "1,720",
+        "DatePublished": "8/29/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 30,
+          "PackageName": "serilog.formatting.compact",
+          "PackageListingUrl": "/packages/serilog.formatting.compact/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nblumhardt",
+                "Url": "/profiles/nblumhardt"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:06.212934+00:00"
+        },
+        "Version": "1.0.0",
+        "Downloads": "71,749,695",
+        "DatePublished": "7/5/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 30,
+          "PackageName": "serilog.formatting.compact",
+          "PackageListingUrl": "/packages/serilog.formatting.compact/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nblumhardt",
+                "Url": "/profiles/nblumhardt"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:06.212934+00:00"
+        },
+        "Version": "1.0.0-rc-916",
+        "Downloads": "924",
+        "DatePublished": "6/26/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 30,
+          "PackageName": "serilog.formatting.compact",
+          "PackageListingUrl": "/packages/serilog.formatting.compact/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nblumhardt",
+                "Url": "/profiles/nblumhardt"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:06.212934+00:00"
+        },
+        "Version": "1.0.0-rc-915",
+        "Downloads": "876",
+        "DatePublished": "6/26/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 30,
+          "PackageName": "serilog.formatting.compact",
+          "PackageListingUrl": "/packages/serilog.formatting.compact/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nblumhardt",
+                "Url": "/profiles/nblumhardt"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:06.212934+00:00"
+        },
+        "Version": "1.0.0-rc-912",
+        "Downloads": "925",
+        "DatePublished": "6/25/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 30,
+          "PackageName": "serilog.formatting.compact",
+          "PackageListingUrl": "/packages/serilog.formatting.compact/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nblumhardt",
+                "Url": "/profiles/nblumhardt"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:06.212934+00:00"
+        },
+        "Version": "1.0.0-rc-9",
+        "Downloads": "864",
+        "DatePublished": "6/22/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 30,
+          "PackageName": "serilog.formatting.compact",
+          "PackageListingUrl": "/packages/serilog.formatting.compact/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nblumhardt",
+                "Url": "/profiles/nblumhardt"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:06.212934+00:00"
+        },
+        "Version": "1.0.0-rc-6",
+        "Downloads": "869",
+        "DatePublished": "6/21/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 30,
+          "PackageName": "serilog.formatting.compact",
+          "PackageListingUrl": "/packages/serilog.formatting.compact/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nblumhardt",
+                "Url": "/profiles/nblumhardt"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:06.212934+00:00"
+        },
+        "Version": "1.0.0-rc-5",
+        "Downloads": "885",
+        "DatePublished": "6/21/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 30,
+          "PackageName": "serilog.formatting.compact",
+          "PackageListingUrl": "/packages/serilog.formatting.compact/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nblumhardt",
+                "Url": "/profiles/nblumhardt"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:06.212934+00:00"
+        },
+        "Version": "1.0.0-rc-3",
+        "Downloads": "869",
+        "DatePublished": "6/21/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 30,
+          "PackageName": "serilog.formatting.compact",
+          "PackageListingUrl": "/packages/serilog.formatting.compact/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nblumhardt",
+                "Url": "/profiles/nblumhardt"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+          },
+          "DateTaken": "2022-04-22T19:26:06.212934+00:00"
+        },
+        "Version": "1.0.0-rc-10",
+        "Downloads": "867",
+        "DatePublished": "6/22/2016"
+      }
+    ]
+  }
+}

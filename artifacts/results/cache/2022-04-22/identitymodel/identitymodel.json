@@ -1,0 +1,4205 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "identitymodel",
+  "PackageUrl": "/packages/identitymodel/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/IdentityModel/IdentityModel.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "IdentityModel/IdentityModel_IdentityModel",
+    "Url": "https://api.github.com/NugetCodeReview/IdentityModel_IdentityModel.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "6.0.0",
+        "Downloads": "1,091,063",
+        "DatePublished": "12/26/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "6.0.0-preview.3",
+        "Downloads": "1,732",
+        "DatePublished": "12/16/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "6.0.0-preview.2",
+        "Downloads": "5,289",
+        "DatePublished": "11/27/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "6.0.0-preview.1",
+        "Downloads": "7,599",
+        "DatePublished": "11/24/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "5.2.0",
+        "Downloads": "1,509,584",
+        "DatePublished": "10/15/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "5.1.1",
+        "Downloads": "64,664",
+        "DatePublished": "10/11/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "5.1.0",
+        "Downloads": "5,677,148",
+        "DatePublished": "3/25/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "5.1.0-preview.1",
+        "Downloads": "15,988",
+        "DatePublished": "3/11/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "5.0.1",
+        "Downloads": "1,462,737",
+        "DatePublished": "2/3/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "5.0.0",
+        "Downloads": "1,128,460",
+        "DatePublished": "1/13/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "5.0.0-preview.2",
+        "Downloads": "1,364",
+        "DatePublished": "1/9/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "5.0.0-preview.1.7",
+        "Downloads": "869",
+        "DatePublished": "1/7/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "5.0.0-preview.1.4",
+        "Downloads": "411",
+        "DatePublished": "1/5/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "5.0.0-preview.1.2",
+        "Downloads": "5,016",
+        "DatePublished": "12/27/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "5.0.0-preview.1.1",
+        "Downloads": "349",
+        "DatePublished": "12/26/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "5.0.0-preview.0",
+        "Downloads": "92,312",
+        "DatePublished": "4/10/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.6.0",
+        "Downloads": "1,751,276",
+        "DatePublished": "12/26/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.5.0",
+        "Downloads": "2,502,262",
+        "DatePublished": "11/23/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.4.0",
+        "Downloads": "9,153,136",
+        "DatePublished": "9/11/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.3.1",
+        "Downloads": "2,679,120",
+        "DatePublished": "7/10/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.3.0",
+        "Downloads": "4,744,211",
+        "DatePublished": "5/18/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.2.0",
+        "Downloads": "2,254,439",
+        "DatePublished": "3/31/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.1.1",
+        "Downloads": "10,272,200",
+        "DatePublished": "11/24/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.1.0",
+        "Downloads": "4,359,317",
+        "DatePublished": "11/5/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.0.0",
+        "Downloads": "19,527,943",
+        "DatePublished": "8/30/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.0.0-preview.4",
+        "Downloads": "3,180",
+        "DatePublished": "8/25/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.0.0-preview.3",
+        "Downloads": "35,703",
+        "DatePublished": "8/5/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.0.0-preview.2.39",
+        "Downloads": "16,819",
+        "DatePublished": "7/25/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.0.0-preview.2.33",
+        "Downloads": "9,028",
+        "DatePublished": "6/28/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.0.0-preview.2.13",
+        "Downloads": "59,013",
+        "DatePublished": "5/17/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.0.0-preview.2.6",
+        "Downloads": "25,106",
+        "DatePublished": "5/8/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.0.0-preview.2",
+        "Downloads": "989",
+        "DatePublished": "4/29/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.0.0-cragganmore",
+        "Downloads": "38,195",
+        "DatePublished": "3/8/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.0.0-caolila",
+        "Downloads": "5,221",
+        "DatePublished": "3/6/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.0.0-bunnahabhain",
+        "Downloads": "6,380",
+        "DatePublished": "2/6/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.0.0-bruichladdich",
+        "Downloads": "20,067",
+        "DatePublished": "12/12/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.0.0-bowmore",
+        "Downloads": "2,959",
+        "DatePublished": "12/5/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "4.0.0-arran",
+        "Downloads": "8,499",
+        "DatePublished": "11/12/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.10.10",
+        "Downloads": "8,221,547",
+        "DatePublished": "4/29/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.10.9",
+        "Downloads": "90,087",
+        "DatePublished": "4/25/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.10.7",
+        "Downloads": "370,908",
+        "DatePublished": "4/9/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.10.6",
+        "Downloads": "4,548,710",
+        "DatePublished": "2/8/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.10.5",
+        "Downloads": "1,011,097",
+        "DatePublished": "1/6/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.10.4",
+        "Downloads": "733,588",
+        "DatePublished": "12/4/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.10.3",
+        "Downloads": "1,910,883",
+        "DatePublished": "12/3/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.10.2",
+        "Downloads": "348,281",
+        "DatePublished": "11/22/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.10.1",
+        "Downloads": "888,141",
+        "DatePublished": "10/23/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.10.0",
+        "Downloads": "9,154,234",
+        "DatePublished": "10/2/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.10.0-arran",
+        "Downloads": "28,462",
+        "DatePublished": "9/7/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.9.0",
+        "Downloads": "1,151,339",
+        "DatePublished": "8/8/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.9.0-bruichladdich",
+        "Downloads": "2,410",
+        "DatePublished": "8/6/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.9.0-benromach",
+        "Downloads": "1,730",
+        "DatePublished": "8/6/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.8.0",
+        "Downloads": "1,040,314",
+        "DatePublished": "7/7/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.7.1",
+        "Downloads": "548,579",
+        "DatePublished": "6/17/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.7.0",
+        "Downloads": "892,092",
+        "DatePublished": "5/31/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.7.0-preview1",
+        "Downloads": "9,358",
+        "DatePublished": "5/16/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.6.1",
+        "Downloads": "3,312,597",
+        "DatePublished": "4/16/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.6.0",
+        "Downloads": "3,463,894",
+        "DatePublished": "4/15/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.5.0",
+        "Downloads": "67,812",
+        "DatePublished": "4/12/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.4.1",
+        "Downloads": "34,093",
+        "DatePublished": "4/9/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.4.0",
+        "Downloads": "178,468",
+        "DatePublished": "4/6/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.3.1",
+        "Downloads": "462,932",
+        "DatePublished": "2/28/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.3.0",
+        "Downloads": "178,688",
+        "DatePublished": "2/26/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.2.0",
+        "Downloads": "231,999",
+        "DatePublished": "2/22/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.1.1",
+        "Downloads": "91,072",
+        "DatePublished": "2/19/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.1.0",
+        "Downloads": "457,497",
+        "DatePublished": "2/6/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.1.0-preview1",
+        "Downloads": "1,946",
+        "DatePublished": "2/5/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.0.0",
+        "Downloads": "2,376,128",
+        "DatePublished": "1/5/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.0.0-ardbeg",
+        "Downloads": "3,722",
+        "DatePublished": "12/30/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.0.0-aberlour",
+        "Downloads": "2,115",
+        "DatePublished": "12/27/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "3.0.0-aberfeldy",
+        "Downloads": "13,463",
+        "DatePublished": "11/28/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.16.1",
+        "Downloads": "581,100",
+        "DatePublished": "12/12/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.16.0",
+        "Downloads": "412,040",
+        "DatePublished": "11/15/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.15.0",
+        "Downloads": "193,753",
+        "DatePublished": "11/5/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.15.0-preview1",
+        "Downloads": "2,080",
+        "DatePublished": "11/3/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.14.0",
+        "Downloads": "116,702",
+        "DatePublished": "10/18/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.13.0",
+        "Downloads": "176,359",
+        "DatePublished": "10/11/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.13.0-preview1",
+        "Downloads": "2,344",
+        "DatePublished": "10/10/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.12.0",
+        "Downloads": "1,151,150",
+        "DatePublished": "9/21/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.11.0",
+        "Downloads": "78,096",
+        "DatePublished": "9/11/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.10.0",
+        "Downloads": "680,186",
+        "DatePublished": "6/22/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.9.1",
+        "Downloads": "159,606",
+        "DatePublished": "5/31/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.9.0",
+        "Downloads": "11,793",
+        "DatePublished": "5/29/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.8.1",
+        "Downloads": "1,016,725",
+        "DatePublished": "5/16/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.8.0",
+        "Downloads": "279,567",
+        "DatePublished": "4/19/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.7.0",
+        "Downloads": "225,420",
+        "DatePublished": "3/28/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.6.0",
+        "Downloads": "498,610",
+        "DatePublished": "3/12/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.5.1",
+        "Downloads": "526,443",
+        "DatePublished": "2/1/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.5.0",
+        "Downloads": "49,603",
+        "DatePublished": "1/30/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.4.0",
+        "Downloads": "126,856",
+        "DatePublished": "1/23/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.3.1",
+        "Downloads": "73,508",
+        "DatePublished": "1/10/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.3.0",
+        "Downloads": "8,293",
+        "DatePublished": "1/9/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.2.2",
+        "Downloads": "18,052",
+        "DatePublished": "1/7/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.2.1",
+        "Downloads": "3,033",
+        "DatePublished": "1/6/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.2.0",
+        "Downloads": "12,768",
+        "DatePublished": "1/6/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.1.1",
+        "Downloads": "245,702",
+        "DatePublished": "12/1/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.1.0",
+        "Downloads": "50,240",
+        "DatePublished": "11/27/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.0.2",
+        "Downloads": "17,406",
+        "DatePublished": "11/24/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.0.1",
+        "Downloads": "369,125",
+        "DatePublished": "11/8/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "274,750",
+        "DatePublished": "10/7/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.0.0-rc6",
+        "Downloads": "3,825",
+        "DatePublished": "10/6/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.0.0-rc5",
+        "Downloads": "2,047",
+        "DatePublished": "10/4/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.0.0-rc4",
+        "Downloads": "10,209",
+        "DatePublished": "9/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.0.0-rc3",
+        "Downloads": "41,750",
+        "DatePublished": "9/3/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.0.0-rc2",
+        "Downloads": "6,023",
+        "DatePublished": "8/23/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.0.0-rc1",
+        "Downloads": "2,557",
+        "DatePublished": "8/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.0.0-beta6",
+        "Downloads": "2,095",
+        "DatePublished": "8/16/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.0.0-beta5",
+        "Downloads": "12,730",
+        "DatePublished": "7/7/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.0.0-beta4",
+        "Downloads": "28,965",
+        "DatePublished": "6/27/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.0.0-beta3",
+        "Downloads": "23,759",
+        "DatePublished": "5/30/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.0.0-beta2",
+        "Downloads": "1,852",
+        "DatePublished": "5/29/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.0.0-beta1",
+        "Downloads": "4,577",
+        "DatePublished": "5/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.0.0-alpha3",
+        "Downloads": "17,188",
+        "DatePublished": "2/9/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.0.0-alpha2",
+        "Downloads": "10,749",
+        "DatePublished": "12/26/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "2.0.0-alpha1",
+        "Downloads": "8,156",
+        "DatePublished": "11/27/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.13.1",
+        "Downloads": "1,498,630",
+        "DatePublished": "11/8/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.13.0",
+        "Downloads": "455,626",
+        "DatePublished": "8/30/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.12.0",
+        "Downloads": "348,129",
+        "DatePublished": "7/20/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.11.1",
+        "Downloads": "27,600",
+        "DatePublished": "7/19/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.11.0",
+        "Downloads": "552,753",
+        "DatePublished": "4/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.10.0",
+        "Downloads": "95,703",
+        "DatePublished": "4/1/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.9.2",
+        "Downloads": "3,575,084",
+        "DatePublished": "3/15/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.9.1",
+        "Downloads": "37,111",
+        "DatePublished": "2/27/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.9.0",
+        "Downloads": "5,797",
+        "DatePublished": "2/26/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.8.0",
+        "Downloads": "62,068",
+        "DatePublished": "2/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.7.0",
+        "Downloads": "2,583",
+        "DatePublished": "2/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.6.0",
+        "Downloads": "8,620",
+        "DatePublished": "2/16/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.5.1",
+        "Downloads": "96,827",
+        "DatePublished": "2/2/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.5.0",
+        "Downloads": "2,172",
+        "DatePublished": "2/2/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.4.2",
+        "Downloads": "5,734",
+        "DatePublished": "2/1/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.4.1",
+        "Downloads": "1,999",
+        "DatePublished": "2/1/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.4.0",
+        "Downloads": "3,654",
+        "DatePublished": "1/31/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.3.1",
+        "Downloads": "84,600",
+        "DatePublished": "12/26/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.3.0",
+        "Downloads": "29,645",
+        "DatePublished": "12/15/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.2.1",
+        "Downloads": "250,168",
+        "DatePublished": "10/23/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.2.0",
+        "Downloads": "15,839",
+        "DatePublished": "10/7/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.1.0",
+        "Downloads": "24,583",
+        "DatePublished": "9/6/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.0.0",
+        "Downloads": "352,860",
+        "DatePublished": "7/22/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.0.0-rc8",
+        "Downloads": "2,031",
+        "DatePublished": "7/13/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.0.0-rc6",
+        "Downloads": "1,923",
+        "DatePublished": "7/13/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.0.0-rc5",
+        "Downloads": "1,840",
+        "DatePublished": "7/10/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.0.0-rc4",
+        "Downloads": "1,818",
+        "DatePublished": "7/10/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.0.0-rc3",
+        "Downloads": "1,843",
+        "DatePublished": "7/10/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.0.0-rc2",
+        "Downloads": "1,799",
+        "DatePublished": "7/10/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.0.0-rc1",
+        "Downloads": "1,813",
+        "DatePublished": "7/10/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.0.0-beta4",
+        "Downloads": "2,057",
+        "DatePublished": "6/29/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.0.0-beta3",
+        "Downloads": "1,790",
+        "DatePublished": "6/29/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.0.0-beta2",
+        "Downloads": "2,506",
+        "DatePublished": "6/22/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 49,
+          "PackageName": "identitymodel",
+          "PackageListingUrl": "/packages/identitymodel/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "identity",
+                "Url": "/profiles/identity"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+          },
+          "DateTaken": "2022-04-22T19:26:22.2257456+00:00"
+        },
+        "Version": "1.0.0-beta1",
+        "Downloads": "2,506",
+        "DatePublished": "4/14/2015"
+      }
+    ]
+  }
+}

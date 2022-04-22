@@ -1,0 +1,1815 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "sqlitepclraw.core",
+  "PackageUrl": "/packages/sqlitepclraw.core/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/ericsink/SQLitePCL.raw.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "ericsink/ericsink_SQLitePCL.raw",
+    "Url": "https://api.github.com/NugetCodeReview/ericsink_SQLitePCL.raw.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.1.0-pre20220318192836",
+        "Downloads": "1,664",
+        "DatePublished": "3/18/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.1.0-pre20220207221914",
+        "Downloads": "2,721",
+        "DatePublished": "2/7/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.1.0-pre20220207195309",
+        "Downloads": "96",
+        "DatePublished": "2/7/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.8-pre20220111224339",
+        "Downloads": "4,310",
+        "DatePublished": "1/11/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.7",
+        "Downloads": "304,284",
+        "DatePublished": "10/27/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.7-pre20210929171745",
+        "Downloads": "1,349",
+        "DatePublished": "9/29/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.6",
+        "Downloads": "2,578,279",
+        "DatePublished": "9/3/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.6-pre20210902144138",
+        "Downloads": "594",
+        "DatePublished": "9/2/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.5",
+        "Downloads": "16,285",
+        "DatePublished": "8/26/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.5-pre20210824155535",
+        "Downloads": "630",
+        "DatePublished": "8/24/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.5-pre20210824155428",
+        "Downloads": "572",
+        "DatePublished": "8/24/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.5-pre20210817120427",
+        "Downloads": "1,055",
+        "DatePublished": "8/17/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.5-pre20210521085756",
+        "Downloads": "37,727",
+        "DatePublished": "5/21/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.5-pre20210119130047",
+        "Downloads": "55,729",
+        "DatePublished": "1/19/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.5-pre20201231105030",
+        "Downloads": "10,585",
+        "DatePublished": "12/31/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.4",
+        "Downloads": "12,999,816",
+        "DatePublished": "9/3/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.4-pre20200828111558",
+        "Downloads": "1,046",
+        "DatePublished": "8/28/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.3",
+        "Downloads": "2,884,501",
+        "DatePublished": "5/1/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.2",
+        "Downloads": "22,240,439",
+        "DatePublished": "11/1/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.2-pre20191018090318",
+        "Downloads": "3,726",
+        "DatePublished": "10/18/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.2-pre20191003102319",
+        "Downloads": "2,534",
+        "DatePublished": "10/3/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.2-pre20190904113843",
+        "Downloads": "3,223",
+        "DatePublished": "9/4/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.1",
+        "Downloads": "475,413",
+        "DatePublished": "9/3/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "3,332,409",
+        "DatePublished": "8/5/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.0-pre20190628101813",
+        "Downloads": "63,477",
+        "DatePublished": "6/28/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.0-pre20190625090255",
+        "Downloads": "4,952",
+        "DatePublished": "6/25/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.0-pre20190621100518",
+        "Downloads": "1,083",
+        "DatePublished": "6/21/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "2.0.0-pre20190620134904",
+        "Downloads": "1,062",
+        "DatePublished": "6/20/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.14",
+        "Downloads": "641,254",
+        "DatePublished": "6/5/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.13",
+        "Downloads": "3,003,495",
+        "DatePublished": "1/24/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.12",
+        "Downloads": "10,508,885",
+        "DatePublished": "12/19/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.11",
+        "Downloads": "5,426,399",
+        "DatePublished": "5/2/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.10",
+        "Downloads": "144,991",
+        "DatePublished": "3/28/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.10-pre20180223200113",
+        "Downloads": "12,186",
+        "DatePublished": "2/24/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.9",
+        "Downloads": "276,126",
+        "DatePublished": "11/13/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.9-pre20170905093404",
+        "Downloads": "2,667",
+        "DatePublished": "9/5/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.8",
+        "Downloads": "560,768",
+        "DatePublished": "8/3/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.7",
+        "Downloads": "11,478,155",
+        "DatePublished": "6/28/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.7-pre20170619212538",
+        "Downloads": "1,286",
+        "DatePublished": "6/20/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.6",
+        "Downloads": "24,239",
+        "DatePublished": "6/19/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.5",
+        "Downloads": "3,231,843",
+        "DatePublished": "5/1/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.4",
+        "Downloads": "3,102",
+        "DatePublished": "4/29/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.3",
+        "Downloads": "75,070",
+        "DatePublished": "4/19/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.3-pre20170220084037",
+        "Downloads": "5,442",
+        "DatePublished": "2/20/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.2",
+        "Downloads": "3,164,633",
+        "DatePublished": "1/4/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.2-pre20161207051304",
+        "Downloads": "1,556",
+        "DatePublished": "12/7/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.1",
+        "Downloads": "41,487",
+        "DatePublished": "11/30/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.1-pre20161109081005",
+        "Downloads": "3,789",
+        "DatePublished": "11/9/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.0",
+        "Downloads": "618,392",
+        "DatePublished": "10/3/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.1.0-pre20160928150051",
+        "Downloads": "1,799",
+        "DatePublished": "9/28/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.0.1",
+        "Downloads": "103,319",
+        "DatePublished": "9/20/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.0.0",
+        "Downloads": "84,381",
+        "DatePublished": "9/15/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.0.0-pre20160912104037",
+        "Downloads": "1,615",
+        "DatePublished": "9/12/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 68,
+          "PackageName": "sqlitepclraw.core",
+          "PackageListingUrl": "/packages/sqlitepclraw.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "ericsink",
+                "Url": "/profiles/ericsink"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "SQLitePCLRaw",
+                "Url": "/profiles/SQLitePCLRaw"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+          },
+          "DateTaken": "2022-04-22T19:26:55.3589463+00:00"
+        },
+        "Version": "1.0.0-pre20160901085507",
+        "Downloads": "3,752",
+        "DatePublished": "9/1/2016"
+      }
+    ]
+  }
+}

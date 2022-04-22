@@ -1,0 +1,2465 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "xunit",
+  "PackageUrl": "/packages/xunit/",
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.4.2-pre.12",
+        "Downloads": "210,800",
+        "DatePublished": "10/3/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.4.1",
+        "Downloads": "120,102,716",
+        "DatePublished": "10/29/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.4.1-pre.build.4071",
+        "Downloads": "18,326",
+        "DatePublished": "10/7/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.4.1-pre.build.4059",
+        "Downloads": "1,202,802",
+        "DatePublished": "8/26/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.4.0",
+        "Downloads": "39,547,762",
+        "DatePublished": "7/17/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.4.0-rc.2.build4045",
+        "Downloads": "5,702",
+        "DatePublished": "7/13/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.4.0-rc.1.build4038",
+        "Downloads": "23,241",
+        "DatePublished": "7/2/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.4.0-beta.2.build4010",
+        "Downloads": "253,077",
+        "DatePublished": "5/29/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.4.0-beta.1.build3958",
+        "Downloads": "166,922",
+        "DatePublished": "2/12/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.3.1",
+        "Downloads": "20,737,208",
+        "DatePublished": "10/27/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.3.1-rc2-build3844",
+        "Downloads": "14,094",
+        "DatePublished": "10/20/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.3.1-rc1-build3843",
+        "Downloads": "995",
+        "DatePublished": "10/20/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.3.0",
+        "Downloads": "1,158,527",
+        "DatePublished": "10/6/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.3.0-rc3-build3818",
+        "Downloads": "4,752",
+        "DatePublished": "10/5/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.3.0-rc2-build3812",
+        "Downloads": "2,670",
+        "DatePublished": "10/4/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.3.0-rc1-build3809",
+        "Downloads": "9,080",
+        "DatePublished": "10/2/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.3.0-beta5-build3769",
+        "Downloads": "241,918",
+        "DatePublished": "9/1/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.3.0-beta4-build3742",
+        "Downloads": "161,024",
+        "DatePublished": "8/14/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.3.0-beta3-build3705",
+        "Downloads": "196,644",
+        "DatePublished": "6/8/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.3.0-beta2-build3683",
+        "Downloads": "276,226",
+        "DatePublished": "5/9/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.3.0-beta1-build3642",
+        "Downloads": "129,507",
+        "DatePublished": "4/6/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.2.0",
+        "Downloads": "8,549,683",
+        "DatePublished": "2/20/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.2.0-rc4-build3536",
+        "Downloads": "5,699",
+        "DatePublished": "2/18/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.2.0-rc3-build3528",
+        "Downloads": "54,898",
+        "DatePublished": "2/16/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.2.0-rc2-build3523",
+        "Downloads": "17,167",
+        "DatePublished": "2/13/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.2.0-rc1-build3507",
+        "Downloads": "4,341",
+        "DatePublished": "2/12/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.2.0-beta5-build3474",
+        "Downloads": "478,246",
+        "DatePublished": "1/16/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.2.0-beta4-build3444",
+        "Downloads": "655,174",
+        "DatePublished": "11/6/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.2.0-beta3-build3402",
+        "Downloads": "107,729",
+        "DatePublished": "10/5/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.2.0-beta2-build3300",
+        "Downloads": "2,947,061",
+        "DatePublished": "6/27/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.2.0-beta1-build3239",
+        "Downloads": "70,133",
+        "DatePublished": "12/20/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.1.0",
+        "Downloads": "4,994,437",
+        "DatePublished": "9/27/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.1.0-rc2-build3176",
+        "Downloads": "7,292",
+        "DatePublished": "9/20/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.1.0-rc1-build3168",
+        "Downloads": "23,173",
+        "DatePublished": "9/6/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.1.0-beta4-build3109",
+        "Downloads": "25,642",
+        "DatePublished": "8/5/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.1.0-beta3-build3029",
+        "Downloads": "18,178",
+        "DatePublished": "6/30/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.1.0-beta2-build2981",
+        "Downloads": "14,849",
+        "DatePublished": "5/3/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.1.0-beta1-build2945",
+        "Downloads": "12,833",
+        "DatePublished": "3/21/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "1,126,292",
+        "DatePublished": "3/16/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-rc4-build2924",
+        "Downloads": "5,094",
+        "DatePublished": "3/9/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-rc3-build2880",
+        "Downloads": "8,272",
+        "DatePublished": "2/23/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-rc2-build2857",
+        "Downloads": "3,503",
+        "DatePublished": "2/17/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-rc1-build2826",
+        "Downloads": "8,812",
+        "DatePublished": "1/20/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-beta5-build2785",
+        "Downloads": "36,775",
+        "DatePublished": "11/20/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-beta4-build2738",
+        "Downloads": "15,965",
+        "DatePublished": "8/10/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-beta-build2700",
+        "Downloads": "2,872",
+        "DatePublished": "6/30/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-beta-build2650",
+        "Downloads": "2,764",
+        "DatePublished": "4/29/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-beta-build2616",
+        "Downloads": "1,907",
+        "DatePublished": "3/22/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build2606",
+        "Downloads": "1,321",
+        "DatePublished": "3/16/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build2595",
+        "Downloads": "1,602",
+        "DatePublished": "3/9/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build2576",
+        "Downloads": "9,900",
+        "DatePublished": "1/19/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build2569",
+        "Downloads": "1,138",
+        "DatePublished": "1/17/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build2562",
+        "Downloads": "1,376",
+        "DatePublished": "1/3/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build2552",
+        "Downloads": "1,388",
+        "DatePublished": "12/8/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build2548",
+        "Downloads": "1,462",
+        "DatePublished": "11/25/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build2533",
+        "Downloads": "1,468",
+        "DatePublished": "11/4/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build2529",
+        "Downloads": "1,248",
+        "DatePublished": "10/26/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build2521",
+        "Downloads": "1,571",
+        "DatePublished": "9/22/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build2510",
+        "Downloads": "1,950",
+        "DatePublished": "8/19/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build2503",
+        "Downloads": "1,533",
+        "DatePublished": "7/23/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build1657",
+        "Downloads": "1,575",
+        "DatePublished": "7/13/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build1654",
+        "Downloads": "1,640",
+        "DatePublished": "5/19/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build1650",
+        "Downloads": "1,435",
+        "DatePublished": "4/24/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build1648",
+        "Downloads": "1,258",
+        "DatePublished": "4/18/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build1644",
+        "Downloads": "1,246",
+        "DatePublished": "4/14/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build1631",
+        "Downloads": "1,219",
+        "DatePublished": "4/8/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build1624",
+        "Downloads": "1,302",
+        "DatePublished": "4/5/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "2.0.0-alpha-build1611",
+        "Downloads": "6,664",
+        "DatePublished": "8/6/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "1.9.2",
+        "Downloads": "2,095,505",
+        "DatePublished": "8/24/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "1.9.1",
+        "Downloads": "415,901",
+        "DatePublished": "7/4/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "1.9.0.1566",
+        "Downloads": "315,424",
+        "DatePublished": "1/2/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "1.8.0.1549",
+        "Downloads": "120,916",
+        "DatePublished": "9/13/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "1.8.0.1545",
+        "Downloads": "33,550",
+        "DatePublished": "4/12/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 32,
+          "PackageName": "xunit",
+          "PackageListingUrl": "/packages/xunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+          },
+          "DateTaken": "2022-04-22T19:26:07.4515574+00:00"
+        },
+        "Version": "1.7.0.1540",
+        "Downloads": "99,864",
+        "DatePublished": "1/31/2011"
+      }
+    ]
+  }
+}

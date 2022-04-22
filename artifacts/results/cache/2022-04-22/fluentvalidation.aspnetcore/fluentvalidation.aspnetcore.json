@@ -1,0 +1,3281 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "fluentvalidation.aspnetcore",
+  "PackageUrl": "/packages/fluentvalidation.aspnetcore/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/JeremySkinner/fluentvalidation.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "JeremySkinner/JeremySkinner_fluentvalidation",
+    "Url": "https://api.github.com/NugetCodeReview/JeremySkinner_fluentvalidation.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.4.0",
+        "Downloads": "399,734",
+        "DatePublished": "3/11/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.3.6",
+        "Downloads": "1,817,031",
+        "DatePublished": "12/13/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.3.5",
+        "Downloads": "375,823",
+        "DatePublished": "11/30/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.3.4",
+        "Downloads": "1,117,305",
+        "DatePublished": "10/22/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.3.3",
+        "Downloads": "1,889,032",
+        "DatePublished": "8/24/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.3.1",
+        "Downloads": "110,591",
+        "DatePublished": "8/19/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.3.0",
+        "Downloads": "1,300,120",
+        "DatePublished": "7/9/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.2.3",
+        "Downloads": "1,329,119",
+        "DatePublished": "6/3/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.2.2",
+        "Downloads": "130,956",
+        "DatePublished": "6/1/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.2.1",
+        "Downloads": "101,272",
+        "DatePublished": "5/30/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.2.0",
+        "Downloads": "55,218",
+        "DatePublished": "5/28/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.1.0",
+        "Downloads": "973,045",
+        "DatePublished": "4/28/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.0.4",
+        "Downloads": "376,569",
+        "DatePublished": "4/17/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.0.3",
+        "Downloads": "59,932",
+        "DatePublished": "4/15/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.0.2",
+        "Downloads": "184,114",
+        "DatePublished": "4/9/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.0.1",
+        "Downloads": "18,045",
+        "DatePublished": "4/8/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.0.0",
+        "Downloads": "115,686",
+        "DatePublished": "4/6/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.0.0-preview4",
+        "Downloads": "11,616",
+        "DatePublished": "3/22/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.0.0-preview3",
+        "Downloads": "359",
+        "DatePublished": "3/22/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.0.0-preview2",
+        "Downloads": "4,754",
+        "DatePublished": "3/8/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "10.0.0-preview1",
+        "Downloads": "4,050",
+        "DatePublished": "2/24/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.5.4",
+        "Downloads": "729,964",
+        "DatePublished": "4/5/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.5.3",
+        "Downloads": "938,296",
+        "DatePublished": "3/15/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.5.2",
+        "Downloads": "409,957",
+        "DatePublished": "3/8/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.5.1",
+        "Downloads": "1,697,902",
+        "DatePublished": "2/11/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.5.0",
+        "Downloads": "677,763",
+        "DatePublished": "1/31/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.4.0",
+        "Downloads": "777,259",
+        "DatePublished": "1/14/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.3.0",
+        "Downloads": "3,341,525",
+        "DatePublished": "11/10/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.3.0-preview3",
+        "Downloads": "9,617",
+        "DatePublished": "10/19/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.3.0-preview2",
+        "Downloads": "21,734",
+        "DatePublished": "9/15/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.3.0-preview1",
+        "Downloads": "3,280",
+        "DatePublished": "8/26/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.2.0",
+        "Downloads": "3,559,226",
+        "DatePublished": "8/26/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.1.3",
+        "Downloads": "269,230",
+        "DatePublished": "8/19/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.1.2",
+        "Downloads": "258,965",
+        "DatePublished": "8/12/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.1.1",
+        "Downloads": "149,367",
+        "DatePublished": "8/8/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.1.0",
+        "Downloads": "13,721",
+        "DatePublished": "8/8/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.0.1",
+        "Downloads": "872,033",
+        "DatePublished": "7/14/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.0.0-preview5",
+        "Downloads": "31,022",
+        "DatePublished": "5/23/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.0.0-preview4",
+        "Downloads": "25,685",
+        "DatePublished": "4/22/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.0.0-preview3",
+        "Downloads": "40,031",
+        "DatePublished": "2/29/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.0.0-preview2",
+        "Downloads": "18,159",
+        "DatePublished": "2/21/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "9.0.0-preview1",
+        "Downloads": "19,102",
+        "DatePublished": "2/8/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.6.3",
+        "Downloads": "1,075,494",
+        "DatePublished": "8/28/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.6.2",
+        "Downloads": "6,923,932",
+        "DatePublished": "2/29/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.6.1",
+        "Downloads": "3,418,563",
+        "DatePublished": "12/28/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.6.0",
+        "Downloads": "1,581,914",
+        "DatePublished": "12/4/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.5.1",
+        "Downloads": "906,927",
+        "DatePublished": "11/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.5.0",
+        "Downloads": "1,332,827",
+        "DatePublished": "9/24/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.5.0-preview5",
+        "Downloads": "21,189",
+        "DatePublished": "9/1/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.5.0-preview4",
+        "Downloads": "34,669",
+        "DatePublished": "7/23/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.5.0-preview3",
+        "Downloads": "4,759",
+        "DatePublished": "7/10/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.5.0-preview2",
+        "Downloads": "11,590",
+        "DatePublished": "6/13/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.5.0-preview1",
+        "Downloads": "10,334",
+        "DatePublished": "5/10/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.4.0",
+        "Downloads": "3,168,708",
+        "DatePublished": "5/10/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.3.0",
+        "Downloads": "345,419",
+        "DatePublished": "4/24/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.2.2",
+        "Downloads": "400,529",
+        "DatePublished": "4/5/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.2.1",
+        "Downloads": "134,345",
+        "DatePublished": "4/4/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.2.0",
+        "Downloads": "191,263",
+        "DatePublished": "3/26/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.1.3",
+        "Downloads": "1,332,743",
+        "DatePublished": "1/25/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.1.2",
+        "Downloads": "632,884",
+        "DatePublished": "12/18/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.1.1",
+        "Downloads": "242,628",
+        "DatePublished": "12/11/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.1.0",
+        "Downloads": "71,320",
+        "DatePublished": "12/6/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.0.101",
+        "Downloads": "189,446",
+        "DatePublished": "11/24/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.0.100",
+        "Downloads": "1,029,983",
+        "DatePublished": "9/4/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.0.0",
+        "Downloads": "159,792",
+        "DatePublished": "8/16/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.0.0-rc1",
+        "Downloads": "10,581",
+        "DatePublished": "7/24/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.0.0-preview4",
+        "Downloads": "1,812",
+        "DatePublished": "7/16/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.0.0-preview3",
+        "Downloads": "1,109",
+        "DatePublished": "7/13/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.0.0-preview2",
+        "Downloads": "871",
+        "DatePublished": "7/13/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "8.0.0-preview1",
+        "Downloads": "1,052",
+        "DatePublished": "7/10/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.6.105",
+        "Downloads": "158,031",
+        "DatePublished": "8/11/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.6.104",
+        "Downloads": "638,042",
+        "DatePublished": "7/6/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.6.103",
+        "Downloads": "221,704",
+        "DatePublished": "6/16/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.6.102",
+        "Downloads": "39,478",
+        "DatePublished": "6/14/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.6.101",
+        "Downloads": "16,385",
+        "DatePublished": "6/13/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.6.0",
+        "Downloads": "132,620",
+        "DatePublished": "6/1/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.6.0-preview1",
+        "Downloads": "3,635",
+        "DatePublished": "4/12/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.5.2",
+        "Downloads": "660,399",
+        "DatePublished": "3/16/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.5.0",
+        "Downloads": "292,218",
+        "DatePublished": "2/26/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.4.0",
+        "Downloads": "215,519",
+        "DatePublished": "1/26/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.3.4",
+        "Downloads": "249,609",
+        "DatePublished": "1/2/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.3.3",
+        "Downloads": "70,457",
+        "DatePublished": "12/22/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.3.2",
+        "Downloads": "13,328",
+        "DatePublished": "12/21/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.3.1",
+        "Downloads": "35,143",
+        "DatePublished": "12/13/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.3.0-beta3",
+        "Downloads": "5,399",
+        "DatePublished": "12/8/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.3.0-beta2",
+        "Downloads": "14,330",
+        "DatePublished": "11/20/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.3.0-beta1",
+        "Downloads": "1,818",
+        "DatePublished": "11/11/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.2.1",
+        "Downloads": "406,588",
+        "DatePublished": "10/24/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.2.0",
+        "Downloads": "63,253",
+        "DatePublished": "10/5/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.2.0-beta3",
+        "Downloads": "13,676",
+        "DatePublished": "9/5/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.2.0-beta2",
+        "Downloads": "3,370",
+        "DatePublished": "8/22/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.2.0-beta1",
+        "Downloads": "900",
+        "DatePublished": "8/19/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.1.1",
+        "Downloads": "209,677",
+        "DatePublished": "7/25/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.1.0",
+        "Downloads": "55,493",
+        "DatePublished": "6/28/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.1.0-beta1",
+        "Downloads": "874",
+        "DatePublished": "6/24/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.0.3",
+        "Downloads": "25,816",
+        "DatePublished": "6/7/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.0.2",
+        "Downloads": "14,492",
+        "DatePublished": "5/26/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.0.0",
+        "Downloads": "17,197",
+        "DatePublished": "5/19/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.0.0-beta3",
+        "Downloads": "1,391",
+        "DatePublished": "5/1/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.0.0-beta2",
+        "Downloads": "1,892",
+        "DatePublished": "4/17/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "7.0.0-beta1",
+        "Downloads": "1,732",
+        "DatePublished": "4/7/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "6.4.0",
+        "Downloads": "186,737",
+        "DatePublished": "3/3/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "6.4.0-rc4",
+        "Downloads": "4,730",
+        "DatePublished": "2/13/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "6.4.0-rc3",
+        "Downloads": "7,011",
+        "DatePublished": "2/3/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "6.4.0-rc2",
+        "Downloads": "15,674",
+        "DatePublished": "1/30/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "6.4.0-rc1",
+        "Downloads": "865",
+        "DatePublished": "1/30/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "6.4.0-beta9",
+        "Downloads": "30,916",
+        "DatePublished": "11/21/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "6.4.0-beta8",
+        "Downloads": "10,298",
+        "DatePublished": "10/31/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "6.4.0-beta7",
+        "Downloads": "1,042",
+        "DatePublished": "10/28/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "6.4.0-beta6",
+        "Downloads": "1,568",
+        "DatePublished": "10/25/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "6.4.0-beta5",
+        "Downloads": "1,280",
+        "DatePublished": "10/24/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "6.4.0-beta4",
+        "Downloads": "1,177",
+        "DatePublished": "10/21/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "6.4.0-beta3",
+        "Downloads": "13,377",
+        "DatePublished": "7/4/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "6.4.0-beta2",
+        "Downloads": "854",
+        "DatePublished": "7/1/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "6.4.0-beta10",
+        "Downloads": "774",
+        "DatePublished": "1/30/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 82,
+          "PackageName": "fluentvalidation.aspnetcore",
+          "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jskinner",
+                "Url": "/profiles/jskinner"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+          },
+          "DateTaken": "2022-04-22T19:27:13.3815798+00:00"
+        },
+        "Version": "6.4.0-beta1",
+        "Downloads": "1,014",
+        "DatePublished": "6/28/2016"
+      }
+    ]
+  }
+}

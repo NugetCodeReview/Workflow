@@ -1,0 +1,1857 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "nunit",
+  "PackageUrl": "/packages/nunit/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/nunit/nunit.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "nunit/nunit_nunit",
+    "Url": "https://api.github.com/NugetCodeReview/nunit_nunit.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.13.3",
+        "Downloads": "484,374",
+        "DatePublished": "3/20/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.13.2",
+        "Downloads": "14,067,270",
+        "DatePublished": "4/27/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.13.1",
+        "Downloads": "7,907,076",
+        "DatePublished": "2/1/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.13.0",
+        "Downloads": "2,628,674",
+        "DatePublished": "1/7/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.12.0",
+        "Downloads": "47,994,236",
+        "DatePublished": "5/15/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.11.0",
+        "Downloads": "19,951,273",
+        "DatePublished": "10/7/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.10.1",
+        "Downloads": "14,076,751",
+        "DatePublished": "3/13/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.10.0",
+        "Downloads": "310,616",
+        "DatePublished": "3/13/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.9.0",
+        "Downloads": "7,242,958",
+        "DatePublished": "11/10/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.8.1",
+        "Downloads": "15,416,865",
+        "DatePublished": "8/29/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.8.0",
+        "Downloads": "264,276",
+        "DatePublished": "8/28/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.7.1",
+        "Downloads": "3,285,697",
+        "DatePublished": "6/6/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.7.0",
+        "Downloads": "729,173",
+        "DatePublished": "5/30/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.6.1",
+        "Downloads": "4,111,731",
+        "DatePublished": "2/26/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.6.0",
+        "Downloads": "2,024,588",
+        "DatePublished": "1/10/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.5.0",
+        "Downloads": "3,371,041",
+        "DatePublished": "10/4/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.4.1",
+        "Downloads": "2,062,361",
+        "DatePublished": "6/30/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.4.0",
+        "Downloads": "133,788",
+        "DatePublished": "6/25/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.2.1",
+        "Downloads": "1,096,654",
+        "DatePublished": "4/19/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.2.0",
+        "Downloads": "794,804",
+        "DatePublished": "3/5/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.0.1",
+        "Downloads": "1,580,196",
+        "DatePublished": "12/2/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.0.0",
+        "Downloads": "710,854",
+        "DatePublished": "11/16/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.0.0-rc-3",
+        "Downloads": "7,424",
+        "DatePublished": "11/14/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.0.0-rc-2",
+        "Downloads": "7,960",
+        "DatePublished": "11/8/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.0.0-rc",
+        "Downloads": "8,953",
+        "DatePublished": "11/1/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.0.0-beta-5",
+        "Downloads": "15,931",
+        "DatePublished": "10/17/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.0.0-beta-4",
+        "Downloads": "13,822",
+        "DatePublished": "8/25/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.0.0-beta-3",
+        "Downloads": "14,293",
+        "DatePublished": "7/15/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.0.0-beta-2",
+        "Downloads": "19,742",
+        "DatePublished": "5/13/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.0.0-beta-1",
+        "Downloads": "11,280",
+        "DatePublished": "3/26/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.0.0-alpha-5",
+        "Downloads": "20,510",
+        "DatePublished": "1/31/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.0.0-alpha-4",
+        "Downloads": "11,080",
+        "DatePublished": "12/31/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.0.0-alpha-3",
+        "Downloads": "10,093",
+        "DatePublished": "11/29/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.0.0-alpha-2",
+        "Downloads": "19,010",
+        "DatePublished": "11/3/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "3.0.0-alpha",
+        "Downloads": "20,303",
+        "DatePublished": "9/23/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "2.7.1",
+        "Downloads": "200,039",
+        "DatePublished": "8/21/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "2.7.0",
+        "Downloads": "207,251",
+        "DatePublished": "8/10/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "2.6.7",
+        "Downloads": "113,641",
+        "DatePublished": "7/7/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "2.6.6",
+        "Downloads": "27,079",
+        "DatePublished": "6/7/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "2.6.5",
+        "Downloads": "71,728",
+        "DatePublished": "4/20/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "2.6.4",
+        "Downloads": "10,902,702",
+        "DatePublished": "12/17/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "2.6.3",
+        "Downloads": "4,836,324",
+        "DatePublished": "10/11/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "2.6.2",
+        "Downloads": "2,138,605",
+        "DatePublished": "10/23/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "2.6.1",
+        "Downloads": "365,936",
+        "DatePublished": "8/5/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "2.6.0.12054",
+        "Downloads": "576,878",
+        "DatePublished": "2/24/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "2.5.10.11092",
+        "Downloads": "691,263",
+        "DatePublished": "4/25/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "2.5.9.10348",
+        "Downloads": "96,427",
+        "DatePublished": "2/9/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 47,
+          "PackageName": "nunit",
+          "PackageListingUrl": "/packages/nunit/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "charliepoole",
+                "Url": "/profiles/charliepoole"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "rprouse",
+                "Url": "/profiles/rprouse"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+          },
+          "DateTaken": "2022-04-22T19:26:20.3867821+00:00"
+        },
+        "Version": "2.5.7.10213",
+        "Downloads": "353,803",
+        "DatePublished": "1/7/2011"
+      }
+    ]
+  }
+}

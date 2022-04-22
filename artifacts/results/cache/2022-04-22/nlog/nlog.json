@@ -1,0 +1,2838 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "nlog",
+  "PackageUrl": "/packages/nlog/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/NLog/NLog.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "NLog/NLog_NLog",
+    "Url": "https://api.github.com/NugetCodeReview/NLog_NLog.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "5.0.0-rc2",
+        "Downloads": "56,702",
+        "DatePublished": "1/19/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "5.0.0-rc1",
+        "Downloads": "51,758",
+        "DatePublished": "12/20/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "5.0.0-preview.3",
+        "Downloads": "37,089",
+        "DatePublished": "10/26/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "5.0.0-preview.2",
+        "Downloads": "9,745",
+        "DatePublished": "10/3/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "5.0.0-preview.1",
+        "Downloads": "10,919",
+        "DatePublished": "8/25/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.7.15",
+        "Downloads": "181,967",
+        "DatePublished": "3/26/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.7.14",
+        "Downloads": "341,974",
+        "DatePublished": "2/23/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.7.13",
+        "Downloads": "1,367,636",
+        "DatePublished": "12/5/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.7.12",
+        "Downloads": "1,086,462",
+        "DatePublished": "10/24/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.7.11",
+        "Downloads": "3,352,011",
+        "DatePublished": "8/18/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.7.10",
+        "Downloads": "3,607,388",
+        "DatePublished": "5/14/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.7.9",
+        "Downloads": "3,455,456",
+        "DatePublished": "3/24/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.7.8",
+        "Downloads": "1,853,123",
+        "DatePublished": "2/25/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.7.7",
+        "Downloads": "1,710,276",
+        "DatePublished": "1/20/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.7.6",
+        "Downloads": "3,175,230",
+        "DatePublished": "12/6/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.7.5",
+        "Downloads": "3,696,850",
+        "DatePublished": "9/27/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.7.4",
+        "Downloads": "2,924,085",
+        "DatePublished": "8/22/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.7.3",
+        "Downloads": "1,093,088",
+        "DatePublished": "7/31/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.7.2",
+        "Downloads": "7,140,874",
+        "DatePublished": "5/18/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.7.1",
+        "Downloads": "94,061",
+        "DatePublished": "5/15/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.7.0",
+        "Downloads": "3,755,772",
+        "DatePublished": "3/20/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.6.8",
+        "Downloads": "11,795,801",
+        "DatePublished": "11/4/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.6.7",
+        "Downloads": "8,741,983",
+        "DatePublished": "8/25/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.6.6",
+        "Downloads": "2,330,453",
+        "DatePublished": "7/14/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.6.5",
+        "Downloads": "3,029,789",
+        "DatePublished": "6/14/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.6.4",
+        "Downloads": "2,240,047",
+        "DatePublished": "5/28/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.6.3",
+        "Downloads": "2,108,997",
+        "DatePublished": "4/30/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.6.2",
+        "Downloads": "1,710,789",
+        "DatePublished": "4/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.6.1",
+        "Downloads": "216,872",
+        "DatePublished": "3/29/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.6.0",
+        "Downloads": "701,664",
+        "DatePublished": "3/21/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.5.11",
+        "Downloads": "11,959,015",
+        "DatePublished": "11/6/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.5.10",
+        "Downloads": "4,788,322",
+        "DatePublished": "9/17/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.5.9",
+        "Downloads": "1,272,287",
+        "DatePublished": "8/24/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.5.8",
+        "Downloads": "1,793,634",
+        "DatePublished": "8/5/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.5.7",
+        "Downloads": "976,192",
+        "DatePublished": "7/19/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.5.6",
+        "Downloads": "2,627,666",
+        "DatePublished": "5/29/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.5.5",
+        "Downloads": "687,037",
+        "DatePublished": "5/25/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.5.4",
+        "Downloads": "2,516,133",
+        "DatePublished": "5/5/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.5.3",
+        "Downloads": "1,347,981",
+        "DatePublished": "4/16/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.5.2",
+        "Downloads": "870,073",
+        "DatePublished": "4/6/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.5.1",
+        "Downloads": "269,756",
+        "DatePublished": "4/3/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.5.0",
+        "Downloads": "5,355,115",
+        "DatePublished": "3/25/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.4.13",
+        "Downloads": "717,197",
+        "DatePublished": "2/27/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.4.12",
+        "Downloads": "5,925,213",
+        "DatePublished": "8/8/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.4.11",
+        "Downloads": "1,673,749",
+        "DatePublished": "6/17/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.4.10",
+        "Downloads": "372,912",
+        "DatePublished": "5/31/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.4.9",
+        "Downloads": "968,580",
+        "DatePublished": "5/5/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.4.8",
+        "Downloads": "160,733",
+        "DatePublished": "4/28/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.4.7",
+        "Downloads": "106,985",
+        "DatePublished": "4/25/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.4.6",
+        "Downloads": "305,212",
+        "DatePublished": "4/15/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.4.5",
+        "Downloads": "442,605",
+        "DatePublished": "3/28/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.4.4",
+        "Downloads": "535,811",
+        "DatePublished": "3/10/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.4.3",
+        "Downloads": "672,396",
+        "DatePublished": "2/17/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.4.2",
+        "Downloads": "375,194",
+        "DatePublished": "2/6/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.4.1",
+        "Downloads": "1,279,194",
+        "DatePublished": "12/24/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.4.0",
+        "Downloads": "283,047",
+        "DatePublished": "12/14/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.3.11",
+        "Downloads": "966,399",
+        "DatePublished": "11/7/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.3.10",
+        "Downloads": "689,275",
+        "DatePublished": "10/11/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.3.9",
+        "Downloads": "453,638",
+        "DatePublished": "9/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.3.8",
+        "Downloads": "612,820",
+        "DatePublished": "9/5/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.3.7",
+        "Downloads": "590,264",
+        "DatePublished": "8/6/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.3.6",
+        "Downloads": "256,407",
+        "DatePublished": "7/23/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.3.5",
+        "Downloads": "808,790",
+        "DatePublished": "6/12/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.3.4",
+        "Downloads": "708,368",
+        "DatePublished": "5/16/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.3.3",
+        "Downloads": "367,365",
+        "DatePublished": "4/28/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.3.2",
+        "Downloads": "87,808",
+        "DatePublished": "4/26/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.3.1",
+        "Downloads": "106,678",
+        "DatePublished": "4/20/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.3.0",
+        "Downloads": "134,285",
+        "DatePublished": "4/16/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.2.3",
+        "Downloads": "1,594,656",
+        "DatePublished": "12/20/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.2.2",
+        "Downloads": "291,265",
+        "DatePublished": "12/2/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.2.1",
+        "Downloads": "427,890",
+        "DatePublished": "11/21/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.2.0",
+        "Downloads": "382,814",
+        "DatePublished": "10/24/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.1.2",
+        "Downloads": "751,910",
+        "DatePublished": "9/20/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.1.1",
+        "Downloads": "154,445",
+        "DatePublished": "9/12/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.1.0",
+        "Downloads": "201,821",
+        "DatePublished": "8/31/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.0.1",
+        "Downloads": "758,363",
+        "DatePublished": "6/18/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "4.0.0",
+        "Downloads": "931,572",
+        "DatePublished": "6/9/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "3.2.1",
+        "Downloads": "807,592",
+        "DatePublished": "4/24/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "3.2.0",
+        "Downloads": "1,415,966",
+        "DatePublished": "1/2/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "3.1.0",
+        "Downloads": "1,428,470",
+        "DatePublished": "6/24/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "3.0.0",
+        "Downloads": "217,006",
+        "DatePublished": "6/2/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "2.1.0",
+        "Downloads": "1,583,306",
+        "DatePublished": "10/10/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "2.0.1.2",
+        "Downloads": "921,459",
+        "DatePublished": "4/8/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "2.0.0.2000",
+        "Downloads": "1,669,053",
+        "DatePublished": "7/18/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 51,
+          "PackageName": "nlog",
+          "PackageListingUrl": "/packages/nlog/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "304NotModified",
+                "Url": "/profiles/304NotModified"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+          },
+          "DateTaken": "2022-04-22T19:26:23.8179552+00:00"
+        },
+        "Version": "1.0.0.505",
+        "Downloads": "424,562",
+        "DatePublished": "1/7/2011"
+      }
+    ]
+  }
+}

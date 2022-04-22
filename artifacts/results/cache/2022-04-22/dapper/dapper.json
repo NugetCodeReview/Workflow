@@ -1,0 +1,2693 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "dapper",
+  "PackageUrl": "/packages/dapper/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/DapperLib/Dapper.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "DapperLib/DapperLib_Dapper",
+    "Url": "https://api.github.com/NugetCodeReview/DapperLib_Dapper.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "2.0.123",
+        "Downloads": "5,019,584",
+        "DatePublished": "11/3/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "2.0.90",
+        "Downloads": "9,743,176",
+        "DatePublished": "4/29/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "2.0.78",
+        "Downloads": "15,177,199",
+        "DatePublished": "11/18/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "2.0.35",
+        "Downloads": "20,046,983",
+        "DatePublished": "4/5/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "2.0.30",
+        "Downloads": "16,518,842",
+        "DatePublished": "9/27/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "2.0.4",
+        "Downloads": "2,310,786",
+        "DatePublished": "8/29/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.60.6",
+        "Downloads": "12,747,120",
+        "DatePublished": "3/30/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.60.5",
+        "Downloads": "94,847",
+        "DatePublished": "3/27/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.60.1",
+        "Downloads": "3,453,949",
+        "DatePublished": "3/3/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.50.5",
+        "Downloads": "20,389,152",
+        "DatePublished": "5/18/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.50.4",
+        "Downloads": "6,702,525",
+        "DatePublished": "11/26/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.50.4-alpha1-00070",
+        "Downloads": "88,945",
+        "DatePublished": "9/14/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.50.2",
+        "Downloads": "12,125,212",
+        "DatePublished": "7/22/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.50.1",
+        "Downloads": "3,353,093",
+        "DatePublished": "7/8/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.50.0",
+        "Downloads": "638,658",
+        "DatePublished": "7/1/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.50.0-rc3",
+        "Downloads": "18,974",
+        "DatePublished": "6/28/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.50.0-rc2b",
+        "Downloads": "14,947",
+        "DatePublished": "6/8/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.50.0-rc2a",
+        "Downloads": "11,277",
+        "DatePublished": "5/27/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.50.0-rc2",
+        "Downloads": "16,081",
+        "DatePublished": "5/19/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.50.0-beta9",
+        "Downloads": "31,233",
+        "DatePublished": "4/1/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.50.0-beta8",
+        "Downloads": "23,546",
+        "DatePublished": "2/17/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.50.0-beta7",
+        "Downloads": "16,073",
+        "DatePublished": "1/5/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.50.0-beta6",
+        "Downloads": "9,830",
+        "DatePublished": "12/19/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.50.0-beta5",
+        "Downloads": "9,669",
+        "DatePublished": "12/8/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.50.0-beta4",
+        "Downloads": "12,779",
+        "DatePublished": "11/26/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.50.0-beta3",
+        "Downloads": "9,016",
+        "DatePublished": "11/19/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.50.0-beta2",
+        "Downloads": "7,900",
+        "DatePublished": "11/19/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.50.0-beta1",
+        "Downloads": "9,822",
+        "DatePublished": "11/3/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.42.0",
+        "Downloads": "3,703,533",
+        "DatePublished": "5/6/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.41.0-beta5",
+        "Downloads": "12,948",
+        "DatePublished": "5/6/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.41.0-beta4",
+        "Downloads": "7,485",
+        "DatePublished": "5/5/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.41.0-beta3",
+        "Downloads": "7,948",
+        "DatePublished": "5/2/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.41.0-beta2",
+        "Downloads": "7,523",
+        "DatePublished": "5/1/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.41.0-beta",
+        "Downloads": "7,607",
+        "DatePublished": "5/1/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.41.0-alpha",
+        "Downloads": "7,898",
+        "DatePublished": "4/29/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.40.0",
+        "Downloads": "498,240",
+        "DatePublished": "4/3/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.39.0",
+        "Downloads": "92,800",
+        "DatePublished": "3/18/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.38.0",
+        "Downloads": "894,562",
+        "DatePublished": "10/30/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.37.0",
+        "Downloads": "131,591",
+        "DatePublished": "10/22/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.36.0",
+        "Downloads": "47,297",
+        "DatePublished": "10/14/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.35.0",
+        "Downloads": "124,061",
+        "DatePublished": "9/29/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.34.0",
+        "Downloads": "144,371",
+        "DatePublished": "8/28/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.33.0",
+        "Downloads": "8,967",
+        "DatePublished": "8/28/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.32.0",
+        "Downloads": "22,051",
+        "DatePublished": "8/28/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.31.0",
+        "Downloads": "14,154",
+        "DatePublished": "8/26/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.30.0",
+        "Downloads": "51,673",
+        "DatePublished": "8/14/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.29.0",
+        "Downloads": "50,508",
+        "DatePublished": "8/6/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.27.0",
+        "Downloads": "68,799",
+        "DatePublished": "7/14/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.26.0",
+        "Downloads": "41,979",
+        "DatePublished": "7/3/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.25.0",
+        "Downloads": "137,740",
+        "DatePublished": "5/14/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.24.0",
+        "Downloads": "8,909",
+        "DatePublished": "5/14/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.23.0",
+        "Downloads": "17,954",
+        "DatePublished": "5/12/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.22.0",
+        "Downloads": "13,702",
+        "DatePublished": "5/8/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.21.0",
+        "Downloads": "8,451",
+        "DatePublished": "5/8/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.20.0",
+        "Downloads": "11,065",
+        "DatePublished": "5/8/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.13.0",
+        "Downloads": "526,111",
+        "DatePublished": "5/24/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.12.1",
+        "Downloads": "193,098",
+        "DatePublished": "9/19/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.12.0",
+        "Downloads": "258,220",
+        "DatePublished": "9/19/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.11.0",
+        "Downloads": "14,088",
+        "DatePublished": "9/4/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.10.0",
+        "Downloads": "22,771",
+        "DatePublished": "6/27/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.9.0",
+        "Downloads": "17,195",
+        "DatePublished": "6/12/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.8.0",
+        "Downloads": "61,433",
+        "DatePublished": "1/12/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.7.0",
+        "Downloads": "31,383",
+        "DatePublished": "11/5/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.6.0",
+        "Downloads": "14,055",
+        "DatePublished": "11/5/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.5.0",
+        "Downloads": "10,623",
+        "DatePublished": "7/13/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.4.0",
+        "Downloads": "10,813",
+        "DatePublished": "6/14/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.3.0",
+        "Downloads": "9,943",
+        "DatePublished": "5/23/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.2.0",
+        "Downloads": "9,546",
+        "DatePublished": "5/16/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.1.0",
+        "Downloads": "12,679",
+        "DatePublished": "4/26/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 46,
+          "PackageName": "dapper",
+          "PackageListingUrl": "/packages/dapper/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "marc.gravell",
+                "Url": "/profiles/marc.gravell"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "nick.craver",
+                "Url": "/profiles/nick.craver"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "StackExchange",
+                "Url": "/profiles/StackExchange"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+          },
+          "DateTaken": "2022-04-22T19:26:19.69784+00:00"
+        },
+        "Version": "1.0.0",
+        "Downloads": "45,250",
+        "DatePublished": "4/14/2011"
+      }
+    ]
+  }
+}

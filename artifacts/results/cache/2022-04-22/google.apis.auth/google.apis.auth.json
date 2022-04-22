@@ -1,0 +1,2217 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "google.apis.auth",
+  "PackageUrl": "/packages/google.apis.auth/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/googleapis/google-api-dotnet-client.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "googleapis/googleapis_google-api-dotnet-client",
+    "Url": "https://api.github.com/NugetCodeReview/googleapis_google-api-dotnet-client.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.57.0",
+        "Downloads": "125,158",
+        "DatePublished": "3/28/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.56.0",
+        "Downloads": "240,800",
+        "DatePublished": "2/18/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.55.0",
+        "Downloads": "2,314,199",
+        "DatePublished": "9/8/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.54.0",
+        "Downloads": "1,170,051",
+        "DatePublished": "8/9/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.53.0",
+        "Downloads": "2,010,158",
+        "DatePublished": "7/28/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.52.0",
+        "Downloads": "1,459,798",
+        "DatePublished": "6/15/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.51.0",
+        "Downloads": "1,958,304",
+        "DatePublished": "3/18/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.50.0",
+        "Downloads": "732,814",
+        "DatePublished": "2/9/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.49.0",
+        "Downloads": "6,549,171",
+        "DatePublished": "8/17/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.48.0",
+        "Downloads": "5,268,298",
+        "DatePublished": "7/9/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.47.0",
+        "Downloads": "550,116",
+        "DatePublished": "7/1/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.46.0",
+        "Downloads": "1,388,523",
+        "DatePublished": "6/1/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.45.0",
+        "Downloads": "3,928,253",
+        "DatePublished": "4/2/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.44.1",
+        "Downloads": "5,774,690",
+        "DatePublished": "3/6/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.44.0",
+        "Downloads": "216,344",
+        "DatePublished": "2/26/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.43.0",
+        "Downloads": "1,429,759",
+        "DatePublished": "1/6/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.42.0",
+        "Downloads": "3,205,101",
+        "DatePublished": "11/5/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.41.1",
+        "Downloads": "4,072,059",
+        "DatePublished": "9/11/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.41.0",
+        "Downloads": "43,887",
+        "DatePublished": "9/9/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.40.3",
+        "Downloads": "568,908",
+        "DatePublished": "8/5/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.40.2",
+        "Downloads": "1,488,785",
+        "DatePublished": "6/11/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.40.1",
+        "Downloads": "48,127",
+        "DatePublished": "6/6/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.40.0",
+        "Downloads": "2,210,000",
+        "DatePublished": "5/9/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.39.0",
+        "Downloads": "590,762",
+        "DatePublished": "5/1/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.38.2",
+        "Downloads": "698,844",
+        "DatePublished": "4/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.38.0",
+        "Downloads": "2,643,980",
+        "DatePublished": "1/31/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.37.0",
+        "Downloads": "421,716",
+        "DatePublished": "1/10/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.36.1",
+        "Downloads": "1,807,701",
+        "DatePublished": "10/17/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.36.0",
+        "Downloads": "134,131",
+        "DatePublished": "10/10/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.35.2",
+        "Downloads": "434,820",
+        "DatePublished": "9/13/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.35.1",
+        "Downloads": "3,944,605",
+        "DatePublished": "7/20/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.35.0",
+        "Downloads": "8,390",
+        "DatePublished": "7/18/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.34.0",
+        "Downloads": "1,346,766",
+        "DatePublished": "5/30/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.33.1",
+        "Downloads": "406,426",
+        "DatePublished": "5/10/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.33.0",
+        "Downloads": "148,812",
+        "DatePublished": "4/23/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.32.2",
+        "Downloads": "1,006,408",
+        "DatePublished": "2/8/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.32.1",
+        "Downloads": "91,192",
+        "DatePublished": "1/25/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.32.0",
+        "Downloads": "630,854",
+        "DatePublished": "12/14/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.31.1",
+        "Downloads": "123,195",
+        "DatePublished": "12/7/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.31.0-beta01",
+        "Downloads": "2,881",
+        "DatePublished": "10/26/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.30.0",
+        "Downloads": "1,143,610",
+        "DatePublished": "10/26/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.30.0-beta02",
+        "Downloads": "2,118",
+        "DatePublished": "10/4/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.30.0-beta01",
+        "Downloads": "1,501",
+        "DatePublished": "9/22/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.29.2",
+        "Downloads": "228,026",
+        "DatePublished": "10/3/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.29.1",
+        "Downloads": "771,131",
+        "DatePublished": "9/1/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.29.0",
+        "Downloads": "24,355",
+        "DatePublished": "8/30/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.28.0",
+        "Downloads": "736,609",
+        "DatePublished": "7/19/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.27.1",
+        "Downloads": "811,522",
+        "DatePublished": "6/6/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.27.0",
+        "Downloads": "40,669",
+        "DatePublished": "6/1/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.26.2",
+        "Downloads": "48,071",
+        "DatePublished": "5/24/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.25.0",
+        "Downloads": "774,136",
+        "DatePublished": "4/10/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.24.1",
+        "Downloads": "179,860",
+        "DatePublished": "3/30/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.23.0",
+        "Downloads": "30,771",
+        "DatePublished": "3/27/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.22.0",
+        "Downloads": "87,530",
+        "DatePublished": "3/15/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.21.0",
+        "Downloads": "1,302,577",
+        "DatePublished": "2/9/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.20.0",
+        "Downloads": "2,006,821",
+        "DatePublished": "12/13/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.19.0",
+        "Downloads": "1,662,781",
+        "DatePublished": "11/7/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.18.0",
+        "Downloads": "87,242",
+        "DatePublished": "10/24/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.17.0",
+        "Downloads": "74,229",
+        "DatePublished": "10/12/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.16.0",
+        "Downloads": "326,285",
+        "DatePublished": "8/22/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.15.0",
+        "Downloads": "314,624",
+        "DatePublished": "8/4/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.14.1",
+        "Downloads": "15,477",
+        "DatePublished": "7/28/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.14.0",
+        "Downloads": "54,998",
+        "DatePublished": "7/5/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.13.1",
+        "Downloads": "82,725",
+        "DatePublished": "5/31/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.13.0",
+        "Downloads": "89,833",
+        "DatePublished": "5/12/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.11.1",
+        "Downloads": "142,775",
+        "DatePublished": "3/22/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.10.1-rc1",
+        "Downloads": "1,429",
+        "DatePublished": "3/7/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.10.0",
+        "Downloads": "382,164",
+        "DatePublished": "12/15/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.9.3",
+        "Downloads": "116,341",
+        "DatePublished": "8/12/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.9.2",
+        "Downloads": "210,737",
+        "DatePublished": "7/23/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.9.1",
+        "Downloads": "202,337",
+        "DatePublished": "12/29/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.9.0",
+        "Downloads": "409,539",
+        "DatePublished": "9/30/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.8.2",
+        "Downloads": "38,675",
+        "DatePublished": "5/26/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.8.1",
+        "Downloads": "169,956",
+        "DatePublished": "3/17/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.8.0-rc",
+        "Downloads": "15,051",
+        "DatePublished": "2/17/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.7.0-beta",
+        "Downloads": "49,367",
+        "DatePublished": "12/18/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.6.0.1-beta",
+        "Downloads": "5,654",
+        "DatePublished": "11/10/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 69,
+          "PackageName": "google.apis.auth",
+          "PackageListingUrl": "/packages/google.apis.auth/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "google-apis-packages",
+                "Url": "/profiles/google-apis-packages"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+          },
+          "DateTaken": "2022-04-22T19:26:59.11959+00:00"
+        },
+        "Version": "1.6.0-beta",
+        "Downloads": "15,263",
+        "DatePublished": "10/23/2013"
+      }
+    ]
+  }
+}

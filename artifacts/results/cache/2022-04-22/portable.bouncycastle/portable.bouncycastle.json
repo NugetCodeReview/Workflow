@@ -1,0 +1,817 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "portable.bouncycastle",
+  "PackageUrl": "/packages/portable.bouncycastle/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/novotnyllc/bc-csharp.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "novotnyllc/novotnyllc_bc-csharp",
+    "Url": "https://api.github.com/NugetCodeReview/novotnyllc_bc-csharp.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.9.0",
+        "Downloads": "2,346,248",
+        "DatePublished": "10/19/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.10",
+        "Downloads": "9,825,498",
+        "DatePublished": "2/19/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.9",
+        "Downloads": "5,490,069",
+        "DatePublished": "12/17/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.8",
+        "Downloads": "5,473,636",
+        "DatePublished": "10/5/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.6.7",
+        "Downloads": "4,413,298",
+        "DatePublished": "3/29/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.6",
+        "Downloads": "6,451,385",
+        "DatePublished": "2/24/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.5.2",
+        "Downloads": "2,561,338",
+        "DatePublished": "11/3/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.5",
+        "Downloads": "22,788,425",
+        "DatePublished": "2/8/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.4",
+        "Downloads": "2,210,177",
+        "DatePublished": "11/6/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.3.37",
+        "Downloads": "99,874",
+        "DatePublished": "10/17/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.3",
+        "Downloads": "460,726",
+        "DatePublished": "8/31/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.2",
+        "Downloads": "9,441,761",
+        "DatePublished": "4/10/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.1.4",
+        "Downloads": "638,843",
+        "DatePublished": "2/12/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.1.3",
+        "Downloads": "18,918,848",
+        "DatePublished": "8/17/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.1.2",
+        "Downloads": "2,776,971",
+        "DatePublished": "12/5/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.1.1",
+        "Downloads": "3,892,457",
+        "DatePublished": "6/29/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.1",
+        "Downloads": "183,568",
+        "DatePublished": "1/6/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.0",
+        "Downloads": "155,548",
+        "DatePublished": "11/23/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.0-rc4",
+        "Downloads": "1,470",
+        "DatePublished": "10/18/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.0-rc3",
+        "Downloads": "936",
+        "DatePublished": "10/17/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.0-rc2",
+        "Downloads": "2,273",
+        "DatePublished": "7/30/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.0-RC1",
+        "Downloads": "1,488",
+        "DatePublished": "4/25/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.0-beta4-update1",
+        "Downloads": "1,525",
+        "DatePublished": "2/19/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.0-beta4",
+        "Downloads": "1,504",
+        "DatePublished": "10/14/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.8.0-beta3",
+        "Downloads": "1,132",
+        "DatePublished": "8/28/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.7.0.2",
+        "Downloads": "57,493",
+        "DatePublished": "4/2/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.7.0.1",
+        "Downloads": "30,305",
+        "DatePublished": "8/26/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 50,
+          "PackageName": "portable.bouncycastle",
+          "PackageListingUrl": "/packages/portable.bouncycastle/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "clairernovotny",
+                "Url": "/profiles/clairernovotny"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+          },
+          "DateTaken": "2022-04-22T19:26:23.2113159+00:00"
+        },
+        "Version": "1.7.0",
+        "Downloads": "8,438",
+        "DatePublished": "2/26/2014"
+      }
+    ]
+  }
+}

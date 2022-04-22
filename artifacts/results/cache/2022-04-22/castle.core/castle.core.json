@@ -1,0 +1,1000 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "castle.core",
+  "PackageUrl": "/packages/castle.core/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/castleproject/Core.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "castleproject/castleproject_Core",
+    "Url": "https://api.github.com/NugetCodeReview/castleproject_Core.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.ContentItem, Workflow",
+        "Name": ".github/workflows",
+        "Type": 1,
+        "Parent": {
+          "$type": "Workflow.ContentItem, Workflow",
+          "Name": ".github",
+          "Type": 1
+        }
+      },
+      {
+        "$type": "Workflow.ContentItem, Workflow",
+        "Name": ".github/workflows/build.yml",
+        "Type": 0,
+        "DownloadUrl": "https://raw.githubusercontent.com/NugetCodeReview/castleproject_Core/master/.github/workflows/build.yml",
+        "Parent": {
+          "$type": "Workflow.ContentItem, Workflow",
+          "Name": ".github/workflows",
+          "Type": 1,
+          "Parent": {
+            "$type": "Workflow.ContentItem, Workflow",
+            "Name": ".github",
+            "Type": 1
+          }
+        }
+      },
+      {
+        "$type": "Workflow.ContentItem, Workflow",
+        "Name": ".github/workflows/code-review.yml",
+        "Type": 0,
+        "DownloadUrl": "https://raw.githubusercontent.com/NugetCodeReview/castleproject_Core/master/.github/workflows/code-review.yml",
+        "Parent": {
+          "$type": "Workflow.ContentItem, Workflow",
+          "Name": ".github/workflows",
+          "Type": 1,
+          "Parent": {
+            "$type": "Workflow.ContentItem, Workflow",
+            "Name": ".github",
+            "Type": 1
+          }
+        }
+      }
+    ]
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "4.4.1",
+        "Downloads": "24,319,774",
+        "DatePublished": "5/6/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "4.4.0",
+        "Downloads": "158,819,768",
+        "DatePublished": "4/5/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "4.3.1",
+        "Downloads": "63,745,084",
+        "DatePublished": "6/20/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "4.3.0",
+        "Downloads": "4,656,532",
+        "DatePublished": "6/6/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "4.2.1",
+        "Downloads": "40,150,689",
+        "DatePublished": "10/10/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "4.2.0",
+        "Downloads": "14,586,741",
+        "DatePublished": "9/28/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "4.1.1",
+        "Downloads": "7,146,589",
+        "DatePublished": "7/12/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "4.1.0",
+        "Downloads": "3,116,359",
+        "DatePublished": "6/11/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "4.0.0",
+        "Downloads": "13,491,586",
+        "DatePublished": "1/24/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "4.0.0-beta002",
+        "Downloads": "51,659",
+        "DatePublished": "10/27/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "4.0.0-beta001",
+        "Downloads": "812,725",
+        "DatePublished": "7/17/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "4.0.0-alpha001",
+        "Downloads": "120,431",
+        "DatePublished": "4/7/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "3.3.3",
+        "Downloads": "15,138,455",
+        "DatePublished": "11/6/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "3.3.2",
+        "Downloads": "73,460",
+        "DatePublished": "11/3/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "3.3.1",
+        "Downloads": "385,159",
+        "DatePublished": "9/10/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "3.3.0",
+        "Downloads": "3,250,012",
+        "DatePublished": "4/27/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "3.2.2",
+        "Downloads": "912,597",
+        "DatePublished": "12/1/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "3.2.1",
+        "Downloads": "192,865",
+        "DatePublished": "10/6/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "3.2.0",
+        "Downloads": "2,145,321",
+        "DatePublished": "2/16/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "3.1.0",
+        "Downloads": "475,333",
+        "DatePublished": "8/5/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "3.1.0-RC",
+        "Downloads": "2,859",
+        "DatePublished": "7/7/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "3.0.0.4001",
+        "Downloads": "564,251",
+        "DatePublished": "12/14/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "3.0.0.3001",
+        "Downloads": "28,531",
+        "DatePublished": "11/20/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "3.0.0.2001",
+        "Downloads": "153,528",
+        "DatePublished": "9/3/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "2.5.2",
+        "Downloads": "753,503",
+        "DatePublished": "9/4/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "2.5.1",
+        "Downloads": "218,956",
+        "DatePublished": "1/7/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "1.2.0",
+        "Downloads": "107,794",
+        "DatePublished": "1/7/2011"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 3,
+          "PackageName": "castle.core",
+          "PackageListingUrl": "/packages/castle.core/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jonorossi",
+                "Url": "/profiles/jonorossi"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "castleproject",
+                "Url": "/profiles/castleproject"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+          },
+          "DateTaken": "2022-04-22T19:25:39.3537697+00:00"
+        },
+        "Version": "1.1.0",
+        "Downloads": "208,391",
+        "DatePublished": "1/7/2011"
+      }
+    ]
+  }
+}

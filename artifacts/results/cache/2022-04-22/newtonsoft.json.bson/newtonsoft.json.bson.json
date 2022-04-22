@@ -1,0 +1,230 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "newtonsoft.json.bson",
+  "PackageUrl": "/packages/newtonsoft.json.bson/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/JamesNK/Newtonsoft.Json.Bson.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "JamesNK/JamesNK_Newtonsoft.Json.Bson",
+    "Url": "https://api.github.com/NugetCodeReview/JamesNK_Newtonsoft.Json.Bson.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.ContentItem, Workflow",
+        "Name": ".github/workflows",
+        "Type": 1,
+        "Parent": {
+          "$type": "Workflow.ContentItem, Workflow",
+          "Name": ".github",
+          "Type": 1
+        }
+      },
+      {
+        "$type": "Workflow.ContentItem, Workflow",
+        "Name": ".github/workflows/code-review.yml",
+        "Type": 0,
+        "DownloadUrl": "https://raw.githubusercontent.com/NugetCodeReview/JamesNK_Newtonsoft.Json.Bson/master/.github/workflows/code-review.yml",
+        "Parent": {
+          "$type": "Workflow.ContentItem, Workflow",
+          "Name": ".github/workflows",
+          "Type": 1,
+          "Parent": {
+            "$type": "Workflow.ContentItem, Workflow",
+            "Name": ".github",
+            "Type": 1
+          }
+        }
+      }
+    ]
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.ContentItem, Workflow",
+        "Name": "Build/build.ps1",
+        "Type": 0,
+        "DownloadUrl": "https://raw.githubusercontent.com/NugetCodeReview/JamesNK_Newtonsoft.Json.Bson/master/Build/build.ps1",
+        "Parent": {
+          "$type": "Workflow.ContentItem, Workflow",
+          "Name": "Build",
+          "Type": 1
+        }
+      },
+      {
+        "$type": "Workflow.ContentItem, Workflow",
+        "Name": "Build/localbuild.ps1",
+        "Type": 0,
+        "DownloadUrl": "https://raw.githubusercontent.com/NugetCodeReview/JamesNK_Newtonsoft.Json.Bson/master/Build/localbuild.ps1",
+        "Parent": {
+          "$type": "Workflow.ContentItem, Workflow",
+          "Name": "Build",
+          "Type": 1
+        }
+      },
+      {
+        "$type": "Workflow.ContentItem, Workflow",
+        "Name": "Build/psake.psm1",
+        "Type": 0,
+        "DownloadUrl": "https://raw.githubusercontent.com/NugetCodeReview/JamesNK_Newtonsoft.Json.Bson/master/Build/psake.psm1",
+        "Parent": {
+          "$type": "Workflow.ContentItem, Workflow",
+          "Name": "Build",
+          "Type": 1
+        }
+      },
+      {
+        "$type": "Workflow.ContentItem, Workflow",
+        "Name": "Build/runbuild.ps1",
+        "Type": 0,
+        "DownloadUrl": "https://raw.githubusercontent.com/NugetCodeReview/JamesNK_Newtonsoft.Json.Bson/master/Build/runbuild.ps1",
+        "Parent": {
+          "$type": "Workflow.ContentItem, Workflow",
+          "Name": "Build",
+          "Type": 1
+        }
+      },
+      {
+        "$type": "Workflow.ContentItem, Workflow",
+        "Name": "Build/Sign-Package.ps1",
+        "Type": 0,
+        "DownloadUrl": "https://raw.githubusercontent.com/NugetCodeReview/JamesNK_Newtonsoft.Json.Bson/master/Build/Sign-Package.ps1",
+        "Parent": {
+          "$type": "Workflow.ContentItem, Workflow",
+          "Name": "Build",
+          "Type": 1
+        }
+      }
+    ]
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 4,
+          "PackageName": "newtonsoft.json.bson",
+          "PackageListingUrl": "/packages/newtonsoft.json.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json.Bson/1.0.2"
+          },
+          "DateTaken": "2022-04-22T19:25:39.9419061+00:00"
+        },
+        "Version": "1.0.2",
+        "Downloads": "124,764,813",
+        "DatePublished": "11/27/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 4,
+          "PackageName": "newtonsoft.json.bson",
+          "PackageListingUrl": "/packages/newtonsoft.json.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json.Bson/1.0.2"
+          },
+          "DateTaken": "2022-04-22T19:25:39.9419061+00:00"
+        },
+        "Version": "1.0.2-beta1",
+        "Downloads": "1,113",
+        "DatePublished": "10/30/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 4,
+          "PackageName": "newtonsoft.json.bson",
+          "PackageListingUrl": "/packages/newtonsoft.json.bson/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "jamesnk",
+                "Url": "/profiles/jamesnk"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "newtonsoft",
+                "Url": "/profiles/newtonsoft"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json.Bson/1.0.2"
+          },
+          "DateTaken": "2022-04-22T19:25:39.9419061+00:00"
+        },
+        "Version": "1.0.1",
+        "Downloads": "112,906,852",
+        "DatePublished": "3/21/2017"
+      }
+    ]
+  }
+}

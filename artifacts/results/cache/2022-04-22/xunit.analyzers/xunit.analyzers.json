@@ -1,0 +1,419 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "xunit.analyzers",
+  "PackageUrl": "/packages/xunit.analyzers/",
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 37,
+          "PackageName": "xunit.analyzers",
+          "PackageListingUrl": "/packages/xunit.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.analyzers/0.10.0"
+          },
+          "DateTaken": "2022-04-22T19:26:12.6991975+00:00"
+        },
+        "Version": "0.12.0-pre.19",
+        "Downloads": "7,670",
+        "DatePublished": "10/3/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 37,
+          "PackageName": "xunit.analyzers",
+          "PackageListingUrl": "/packages/xunit.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.analyzers/0.10.0"
+          },
+          "DateTaken": "2022-04-22T19:26:12.6991975+00:00"
+        },
+        "Version": "0.10.0",
+        "Downloads": "149,733,368",
+        "DatePublished": "7/11/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 37,
+          "PackageName": "xunit.analyzers",
+          "PackageListingUrl": "/packages/xunit.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.analyzers/0.10.0"
+          },
+          "DateTaken": "2022-04-22T19:26:12.6991975+00:00"
+        },
+        "Version": "0.9.0",
+        "Downloads": "965,787",
+        "DatePublished": "5/14/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 37,
+          "PackageName": "xunit.analyzers",
+          "PackageListingUrl": "/packages/xunit.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.analyzers/0.10.0"
+          },
+          "DateTaken": "2022-04-22T19:26:12.6991975+00:00"
+        },
+        "Version": "0.8.0",
+        "Downloads": "1,982,588",
+        "DatePublished": "11/19/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 37,
+          "PackageName": "xunit.analyzers",
+          "PackageListingUrl": "/packages/xunit.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.analyzers/0.10.0"
+          },
+          "DateTaken": "2022-04-22T19:26:12.6991975+00:00"
+        },
+        "Version": "0.7.0",
+        "Downloads": "20,265,109",
+        "DatePublished": "9/1/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 37,
+          "PackageName": "xunit.analyzers",
+          "PackageListingUrl": "/packages/xunit.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.analyzers/0.10.0"
+          },
+          "DateTaken": "2022-04-22T19:26:12.6991975+00:00"
+        },
+        "Version": "0.6.1",
+        "Downloads": "25,860",
+        "DatePublished": "8/15/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 37,
+          "PackageName": "xunit.analyzers",
+          "PackageListingUrl": "/packages/xunit.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.analyzers/0.10.0"
+          },
+          "DateTaken": "2022-04-22T19:26:12.6991975+00:00"
+        },
+        "Version": "0.6.0",
+        "Downloads": "162,903",
+        "DatePublished": "8/4/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 37,
+          "PackageName": "xunit.analyzers",
+          "PackageListingUrl": "/packages/xunit.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.analyzers/0.10.0"
+          },
+          "DateTaken": "2022-04-22T19:26:12.6991975+00:00"
+        },
+        "Version": "0.5.0",
+        "Downloads": "77,009",
+        "DatePublished": "6/25/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 37,
+          "PackageName": "xunit.analyzers",
+          "PackageListingUrl": "/packages/xunit.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.analyzers/0.10.0"
+          },
+          "DateTaken": "2022-04-22T19:26:12.6991975+00:00"
+        },
+        "Version": "0.4.0",
+        "Downloads": "2,207",
+        "DatePublished": "6/18/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 37,
+          "PackageName": "xunit.analyzers",
+          "PackageListingUrl": "/packages/xunit.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.analyzers/0.10.0"
+          },
+          "DateTaken": "2022-04-22T19:26:12.6991975+00:00"
+        },
+        "Version": "0.3.0",
+        "Downloads": "261,993",
+        "DatePublished": "5/20/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 37,
+          "PackageName": "xunit.analyzers",
+          "PackageListingUrl": "/packages/xunit.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.analyzers/0.10.0"
+          },
+          "DateTaken": "2022-04-22T19:26:12.6991975+00:00"
+        },
+        "Version": "0.2.0",
+        "Downloads": "3,323",
+        "DatePublished": "5/15/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 37,
+          "PackageName": "xunit.analyzers",
+          "PackageListingUrl": "/packages/xunit.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "xunit",
+                "Url": "/profiles/xunit"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dotnetfoundation",
+                "Url": "/profiles/dotnetfoundation"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/xunit.analyzers/0.10.0"
+          },
+          "DateTaken": "2022-04-22T19:26:12.6991975+00:00"
+        },
+        "Version": "0.1.0",
+        "Downloads": "187,255",
+        "DatePublished": "5/5/2017"
+      }
+    ]
+  }
+}

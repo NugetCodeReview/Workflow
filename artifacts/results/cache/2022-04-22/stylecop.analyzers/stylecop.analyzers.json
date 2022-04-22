@@ -1,0 +1,1703 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "stylecop.analyzers",
+  "PackageUrl": "/packages/stylecop.analyzers/",
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.2.0-beta.406",
+        "Downloads": "546,328",
+        "DatePublished": "1/28/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.2.0-beta.376",
+        "Downloads": "424,540",
+        "DatePublished": "12/9/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.2.0-beta.354",
+        "Downloads": "1,832,233",
+        "DatePublished": "6/17/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.2.0-beta.333",
+        "Downloads": "1,420,215",
+        "DatePublished": "3/11/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.2.0-beta.321",
+        "Downloads": "744,719",
+        "DatePublished": "12/31/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.2.0-beta.312",
+        "Downloads": "252,617",
+        "DatePublished": "12/8/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.2.0-beta.304",
+        "Downloads": "539,118",
+        "DatePublished": "12/5/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.2.0-beta.261",
+        "Downloads": "372,088",
+        "DatePublished": "11/1/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.2.0-beta.205",
+        "Downloads": "1,066,319",
+        "DatePublished": "7/30/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.2.0-beta.164",
+        "Downloads": "2,556,880",
+        "DatePublished": "2/14/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.2.0-beta.113",
+        "Downloads": "810,219",
+        "DatePublished": "11/8/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.2.0-beta.66",
+        "Downloads": "715,191",
+        "DatePublished": "9/3/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.1.118",
+        "Downloads": "33,783,588",
+        "DatePublished": "4/29/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.1.1-rc.114",
+        "Downloads": "508,774",
+        "DatePublished": "3/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.1.1-rc.108",
+        "Downloads": "145,566",
+        "DatePublished": "2/20/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.1.1-rc.101",
+        "Downloads": "10,344",
+        "DatePublished": "2/15/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.1.1-rc.94",
+        "Downloads": "48,927",
+        "DatePublished": "2/6/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.1.1-beta.61",
+        "Downloads": "692,774",
+        "DatePublished": "11/15/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.1.0-beta009",
+        "Downloads": "772,547",
+        "DatePublished": "9/5/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.1.0-beta008",
+        "Downloads": "928,478",
+        "DatePublished": "6/13/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.1.0-beta007",
+        "Downloads": "230,447",
+        "DatePublished": "5/9/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.1.0-beta006",
+        "Downloads": "646,957",
+        "DatePublished": "1/29/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.1.0-beta004",
+        "Downloads": "1,411,812",
+        "DatePublished": "6/24/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.1.0-beta003",
+        "Downloads": "13,755",
+        "DatePublished": "6/15/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.1.0-beta002",
+        "Downloads": "1,548",
+        "DatePublished": "6/15/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.1.0-beta001",
+        "Downloads": "278,880",
+        "DatePublished": "11/23/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.1.0-beta.47",
+        "Downloads": "3,915",
+        "DatePublished": "10/29/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.2",
+        "Downloads": "10,902,190",
+        "DatePublished": "5/29/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0",
+        "Downloads": "2,887,423",
+        "DatePublished": "1/28/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-rc3",
+        "Downloads": "92,925",
+        "DatePublished": "12/28/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-rc2",
+        "Downloads": "32,597",
+        "DatePublished": "12/7/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-rc1",
+        "Downloads": "21,276",
+        "DatePublished": "12/1/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-beta017",
+        "Downloads": "3,078",
+        "DatePublished": "11/26/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-beta016",
+        "Downloads": "4,245",
+        "DatePublished": "11/19/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-beta015",
+        "Downloads": "22,324",
+        "DatePublished": "10/25/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-beta014",
+        "Downloads": "6,538",
+        "DatePublished": "10/16/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-beta013",
+        "Downloads": "5,702",
+        "DatePublished": "9/27/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-beta012",
+        "Downloads": "3,426",
+        "DatePublished": "9/18/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-beta011",
+        "Downloads": "4,708",
+        "DatePublished": "9/11/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-beta010",
+        "Downloads": "1,339",
+        "DatePublished": "9/9/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-beta009",
+        "Downloads": "4,015",
+        "DatePublished": "8/30/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-beta008",
+        "Downloads": "8,826",
+        "DatePublished": "8/17/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-beta007",
+        "Downloads": "2,433",
+        "DatePublished": "8/16/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-beta006",
+        "Downloads": "2,476",
+        "DatePublished": "8/13/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-beta005",
+        "Downloads": "2,838",
+        "DatePublished": "8/8/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-beta004",
+        "Downloads": "1,269",
+        "DatePublished": "8/7/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-beta003",
+        "Downloads": "3,616",
+        "DatePublished": "7/29/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-beta002",
+        "Downloads": "1,221",
+        "DatePublished": "7/28/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-beta001",
+        "Downloads": "4,962",
+        "DatePublished": "7/20/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-alpha011",
+        "Downloads": "1,074",
+        "DatePublished": "7/20/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-alpha010",
+        "Downloads": "1,901",
+        "DatePublished": "5/31/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-alpha009",
+        "Downloads": "1,196",
+        "DatePublished": "5/30/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-alpha008",
+        "Downloads": "1,057",
+        "DatePublished": "5/27/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-alpha007",
+        "Downloads": "983",
+        "DatePublished": "5/25/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-alpha006",
+        "Downloads": "1,383",
+        "DatePublished": "5/3/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-alpha005",
+        "Downloads": "1,490",
+        "DatePublished": "4/25/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-alpha004",
+        "Downloads": "2,669",
+        "DatePublished": "2/26/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-alpha003",
+        "Downloads": "1,362",
+        "DatePublished": "2/9/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-alpha002",
+        "Downloads": "1,115",
+        "DatePublished": "2/9/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 94,
+          "PackageName": "stylecop.analyzers",
+          "PackageListingUrl": "/packages/stylecop.analyzers/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "sharwell",
+                "Url": "/profiles/sharwell"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+          },
+          "DateTaken": "2022-04-22T19:27:25.3976357+00:00"
+        },
+        "Version": "1.0.0-alpha001",
+        "Downloads": "1,641",
+        "DatePublished": "1/21/2015"
+      }
+    ]
+  }
+}

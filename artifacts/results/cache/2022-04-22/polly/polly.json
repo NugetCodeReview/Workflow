@@ -1,0 +1,2398 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "polly",
+  "PackageUrl": "/packages/polly/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/App-vNext/Polly.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "App-vNext/App-vNext_Polly",
+    "Url": "https://api.github.com/NugetCodeReview/App-vNext_Polly.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "7.2.3",
+        "Downloads": "3,079,548",
+        "DatePublished": "1/17/2022"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "7.2.2",
+        "Downloads": "22,151,578",
+        "DatePublished": "4/11/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "7.2.1",
+        "Downloads": "38,897,003",
+        "DatePublished": "5/2/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "7.2.0",
+        "Downloads": "21,110,302",
+        "DatePublished": "11/27/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "7.1.1",
+        "Downloads": "8,961,772",
+        "DatePublished": "9/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "7.1.0",
+        "Downloads": "43,771,805",
+        "DatePublished": "3/13/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "7.0.3",
+        "Downloads": "1,153,009",
+        "DatePublished": "2/21/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "7.0.2",
+        "Downloads": "683,917",
+        "DatePublished": "2/11/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "7.0.1",
+        "Downloads": "325,146",
+        "DatePublished": "2/9/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "6.1.2",
+        "Downloads": "6,584,553",
+        "DatePublished": "11/27/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "6.1.1",
+        "Downloads": "805,472",
+        "DatePublished": "11/12/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "6.1.0",
+        "Downloads": "7,041,968",
+        "DatePublished": "7/15/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "6.0.1",
+        "Downloads": "15,295,101",
+        "DatePublished": "5/6/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "6.0.0-v6alpha0001",
+        "Downloads": "5,963",
+        "DatePublished": "5/3/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "5.9.0",
+        "Downloads": "3,407,766",
+        "DatePublished": "4/9/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "5.8.0",
+        "Downloads": "3,300,774",
+        "DatePublished": "1/31/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "5.7.0",
+        "Downloads": "637,948",
+        "DatePublished": "1/6/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "5.6.1",
+        "Downloads": "1,023,765",
+        "DatePublished": "11/29/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "5.6.0",
+        "Downloads": "79,856",
+        "DatePublished": "11/27/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "5.5.0",
+        "Downloads": "853,652",
+        "DatePublished": "11/3/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "5.4.0",
+        "Downloads": "89,459",
+        "DatePublished": "11/1/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "5.3.1",
+        "Downloads": "2,480,043",
+        "DatePublished": "8/6/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "5.3.0",
+        "Downloads": "193,734",
+        "DatePublished": "7/27/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "5.2.0",
+        "Downloads": "427,820",
+        "DatePublished": "6/28/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "5.1.1-v5-x-cachealpha0001",
+        "Downloads": "52,174",
+        "DatePublished": "6/2/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "5.1.0",
+        "Downloads": "788,006",
+        "DatePublished": "5/4/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "5.0.6",
+        "Downloads": "780,675",
+        "DatePublished": "2/11/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "5.0.5",
+        "Downloads": "394,416",
+        "DatePublished": "2/4/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "5.0.3",
+        "Downloads": "434,800",
+        "DatePublished": "1/6/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "5.0.2-v5-0-alpha0001",
+        "Downloads": "15,918",
+        "DatePublished": "11/22/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "5.0.1-v5-0-alpha0001",
+        "Downloads": "16,416",
+        "DatePublished": "10/25/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "4.5.0-beta-netstandar-0001",
+        "Downloads": "26,814",
+        "DatePublished": "9/6/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "4.3.0",
+        "Downloads": "1,762,280",
+        "DatePublished": "6/30/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "4.2.4",
+        "Downloads": "36,378",
+        "DatePublished": "6/17/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "4.2.3",
+        "Downloads": "33,504",
+        "DatePublished": "6/7/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "4.2.2",
+        "Downloads": "14,597",
+        "DatePublished": "6/2/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "4.2.1",
+        "Downloads": "113,378",
+        "DatePublished": "5/26/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "4.2.0",
+        "Downloads": "150,808",
+        "DatePublished": "4/14/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "4.1.2",
+        "Downloads": "256,053",
+        "DatePublished": "3/17/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "4.1.1",
+        "Downloads": "30,053",
+        "DatePublished": "3/11/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "4.1.0",
+        "Downloads": "6,325",
+        "DatePublished": "3/10/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "4.0.0",
+        "Downloads": "75,966",
+        "DatePublished": "2/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "3.0.0",
+        "Downloads": "70,353",
+        "DatePublished": "1/11/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "2.2.7",
+        "Downloads": "47,804",
+        "DatePublished": "1/1/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "2.2.6",
+        "Downloads": "6,319",
+        "DatePublished": "12/30/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "2.2.5",
+        "Downloads": "14,144",
+        "DatePublished": "12/28/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "2.2.4",
+        "Downloads": "49,403",
+        "DatePublished": "12/3/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "2.2.3",
+        "Downloads": "177,563",
+        "DatePublished": "8/9/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "2.2.2",
+        "Downloads": "88,696",
+        "DatePublished": "6/2/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "2.2.1",
+        "Downloads": "70,230",
+        "DatePublished": "2/15/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "2.2.0",
+        "Downloads": "28,146",
+        "DatePublished": "1/25/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "2.1.0",
+        "Downloads": "25,176",
+        "DatePublished": "11/28/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "25,094",
+        "DatePublished": "3/13/2014"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "1.1.0",
+        "Downloads": "7,676",
+        "DatePublished": "6/16/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 20,
+          "PackageName": "polly",
+          "PackageListingUrl": "/packages/polly/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "joelhulen",
+                "Url": "/profiles/joelhulen"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "dylanreisenberger",
+                "Url": "/profiles/dylanreisenberger"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Polly",
+                "Url": "/profiles/Polly"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+          },
+          "SymbolsPackage": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download symbols",
+            "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+          },
+          "DateTaken": "2022-04-22T19:25:56.5969694+00:00"
+        },
+        "Version": "1.0.0",
+        "Downloads": "17,196",
+        "DatePublished": "5/5/2013"
+      }
+    ]
+  }
+}

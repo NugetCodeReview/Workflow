@@ -1,0 +1,561 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "log4net",
+  "PackageUrl": "/packages/log4net/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/apache/logging-log4net.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "apache/apache_logging-log4net",
+    "Url": "https://api.github.com/NugetCodeReview/apache_logging-log4net.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 70,
+          "PackageName": "log4net",
+          "PackageListingUrl": "/packages/log4net/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "cincura.net",
+                "Url": "/profiles/cincura.net"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Apache.Logging",
+                "Url": "/profiles/Apache.Logging"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/log4net/2.0.14"
+          },
+          "DateTaken": "2022-04-22T19:27:01.1566483+00:00"
+        },
+        "Version": "2.0.14",
+        "Downloads": "1,423,243",
+        "DatePublished": "12/31/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 70,
+          "PackageName": "log4net",
+          "PackageListingUrl": "/packages/log4net/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "cincura.net",
+                "Url": "/profiles/cincura.net"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Apache.Logging",
+                "Url": "/profiles/Apache.Logging"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/log4net/2.0.14"
+          },
+          "DateTaken": "2022-04-22T19:27:01.1566483+00:00"
+        },
+        "Version": "2.0.13",
+        "Downloads": "1,235,508",
+        "DatePublished": "11/2/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 70,
+          "PackageName": "log4net",
+          "PackageListingUrl": "/packages/log4net/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "cincura.net",
+                "Url": "/profiles/cincura.net"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Apache.Logging",
+                "Url": "/profiles/Apache.Logging"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/log4net/2.0.14"
+          },
+          "DateTaken": "2022-04-22T19:27:01.1566483+00:00"
+        },
+        "Version": "2.0.12",
+        "Downloads": "11,549,106",
+        "DatePublished": "10/26/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 70,
+          "PackageName": "log4net",
+          "PackageListingUrl": "/packages/log4net/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "cincura.net",
+                "Url": "/profiles/cincura.net"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Apache.Logging",
+                "Url": "/profiles/Apache.Logging"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/log4net/2.0.14"
+          },
+          "DateTaken": "2022-04-22T19:27:01.1566483+00:00"
+        },
+        "Version": "2.0.11",
+        "Downloads": "1,643,440",
+        "DatePublished": "9/23/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 70,
+          "PackageName": "log4net",
+          "PackageListingUrl": "/packages/log4net/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "cincura.net",
+                "Url": "/profiles/cincura.net"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Apache.Logging",
+                "Url": "/profiles/Apache.Logging"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/log4net/2.0.14"
+          },
+          "DateTaken": "2022-04-22T19:27:01.1566483+00:00"
+        },
+        "Version": "2.0.10",
+        "Downloads": "1,341,317",
+        "DatePublished": "9/12/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 70,
+          "PackageName": "log4net",
+          "PackageListingUrl": "/packages/log4net/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "cincura.net",
+                "Url": "/profiles/cincura.net"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Apache.Logging",
+                "Url": "/profiles/Apache.Logging"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/log4net/2.0.14"
+          },
+          "DateTaken": "2022-04-22T19:27:01.1566483+00:00"
+        },
+        "Version": "2.0.9",
+        "Downloads": "599,868",
+        "DatePublished": "8/24/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 70,
+          "PackageName": "log4net",
+          "PackageListingUrl": "/packages/log4net/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "cincura.net",
+                "Url": "/profiles/cincura.net"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Apache.Logging",
+                "Url": "/profiles/Apache.Logging"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/log4net/2.0.14"
+          },
+          "DateTaken": "2022-04-22T19:27:01.1566483+00:00"
+        },
+        "Version": "2.0.8",
+        "Downloads": "62,403,357",
+        "DatePublished": "3/11/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 70,
+          "PackageName": "log4net",
+          "PackageListingUrl": "/packages/log4net/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "cincura.net",
+                "Url": "/profiles/cincura.net"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Apache.Logging",
+                "Url": "/profiles/Apache.Logging"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/log4net/2.0.14"
+          },
+          "DateTaken": "2022-04-22T19:27:01.1566483+00:00"
+        },
+        "Version": "2.0.7",
+        "Downloads": "2,670,263",
+        "DatePublished": "1/5/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 70,
+          "PackageName": "log4net",
+          "PackageListingUrl": "/packages/log4net/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "cincura.net",
+                "Url": "/profiles/cincura.net"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Apache.Logging",
+                "Url": "/profiles/Apache.Logging"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/log4net/2.0.14"
+          },
+          "DateTaken": "2022-04-22T19:27:01.1566483+00:00"
+        },
+        "Version": "2.0.6",
+        "Downloads": "1,575,008",
+        "DatePublished": "12/25/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 70,
+          "PackageName": "log4net",
+          "PackageListingUrl": "/packages/log4net/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "cincura.net",
+                "Url": "/profiles/cincura.net"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Apache.Logging",
+                "Url": "/profiles/Apache.Logging"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/log4net/2.0.14"
+          },
+          "DateTaken": "2022-04-22T19:27:01.1566483+00:00"
+        },
+        "Version": "2.0.5",
+        "Downloads": "10,420,074",
+        "DatePublished": "12/10/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 70,
+          "PackageName": "log4net",
+          "PackageListingUrl": "/packages/log4net/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "cincura.net",
+                "Url": "/profiles/cincura.net"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Apache.Logging",
+                "Url": "/profiles/Apache.Logging"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/log4net/2.0.14"
+          },
+          "DateTaken": "2022-04-22T19:27:01.1566483+00:00"
+        },
+        "Version": "2.0.4",
+        "Downloads": "566,700",
+        "DatePublished": "11/12/2015"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 70,
+          "PackageName": "log4net",
+          "PackageListingUrl": "/packages/log4net/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "cincura.net",
+                "Url": "/profiles/cincura.net"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Apache.Logging",
+                "Url": "/profiles/Apache.Logging"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/log4net/2.0.14"
+          },
+          "DateTaken": "2022-04-22T19:27:01.1566483+00:00"
+        },
+        "Version": "2.0.3",
+        "Downloads": "10,500,562",
+        "DatePublished": "11/23/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 70,
+          "PackageName": "log4net",
+          "PackageListingUrl": "/packages/log4net/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "cincura.net",
+                "Url": "/profiles/cincura.net"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Apache.Logging",
+                "Url": "/profiles/Apache.Logging"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/log4net/2.0.14"
+          },
+          "DateTaken": "2022-04-22T19:27:01.1566483+00:00"
+        },
+        "Version": "2.0.2",
+        "Downloads": "428,424",
+        "DatePublished": "10/5/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 70,
+          "PackageName": "log4net",
+          "PackageListingUrl": "/packages/log4net/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "cincura.net",
+                "Url": "/profiles/cincura.net"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Apache.Logging",
+                "Url": "/profiles/Apache.Logging"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/log4net/2.0.14"
+          },
+          "DateTaken": "2022-04-22T19:27:01.1566483+00:00"
+        },
+        "Version": "2.0.1",
+        "Downloads": "176,706",
+        "DatePublished": "9/19/2013"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 70,
+          "PackageName": "log4net",
+          "PackageListingUrl": "/packages/log4net/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "cincura.net",
+                "Url": "/profiles/cincura.net"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Apache.Logging",
+                "Url": "/profiles/Apache.Logging"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/log4net/2.0.14"
+          },
+          "DateTaken": "2022-04-22T19:27:01.1566483+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "3,062,270",
+        "DatePublished": "2/16/2012"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 70,
+          "PackageName": "log4net",
+          "PackageListingUrl": "/packages/log4net/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "cincura.net",
+                "Url": "/profiles/cincura.net"
+              },
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "Apache.Logging",
+                "Url": "/profiles/Apache.Logging"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/log4net/2.0.14"
+          },
+          "DateTaken": "2022-04-22T19:27:01.1566483+00:00"
+        },
+        "Version": "1.2.10",
+        "Downloads": "6,001,705",
+        "DatePublished": "1/7/2011"
+      }
+    ]
+  }
+}

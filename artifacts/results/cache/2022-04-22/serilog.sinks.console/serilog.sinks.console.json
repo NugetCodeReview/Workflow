@@ -1,0 +1,1993 @@
+﻿{
+  "$type": "Workflow.PackageHeader, Workflow",
+  "PackageName": "serilog.sinks.console",
+  "PackageUrl": "/packages/serilog.sinks.console/",
+  "IsWhitelisted": false,
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/serilog/serilog-sinks-console.git"
+  },
+  "ForkUrl": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "serilog/serilog_serilog-sinks-console",
+    "Url": "https://api.github.com/NugetCodeReview/serilog_serilog-sinks-console.git"
+  },
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "PackageVersions": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.VersionInfo, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "4.0.2-dev-00890",
+        "Downloads": "46,569",
+        "DatePublished": "12/22/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "4.0.1",
+        "Downloads": "6,376,375",
+        "DatePublished": "11/19/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "4.0.1-dev-00879",
+        "Downloads": "26,333",
+        "DatePublished": "10/21/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "4.0.1-dev-00876",
+        "Downloads": "88,364",
+        "DatePublished": "8/3/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "4.0.1-dev-00874",
+        "Downloads": "11,747",
+        "DatePublished": "7/13/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "4.0.0",
+        "Downloads": "7,827,158",
+        "DatePublished": "7/12/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "4.0.0-dev-00870",
+        "Downloads": "232",
+        "DatePublished": "7/12/2021"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "4.0.0-dev-00839",
+        "Downloads": "1,710,873",
+        "DatePublished": "1/24/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "4.0.0-dev-00837",
+        "Downloads": "34,388",
+        "DatePublished": "1/15/2020"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "4.0.0-dev-00834",
+        "Downloads": "457,594",
+        "DatePublished": "11/22/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "4.0.0-dev-00832",
+        "Downloads": "498",
+        "DatePublished": "11/22/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "4.0.0-dev-00831",
+        "Downloads": "10,371",
+        "DatePublished": "11/22/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.2-dev-00824",
+        "Downloads": "372,306",
+        "DatePublished": "9/13/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.2-dev-00823",
+        "Downloads": "48,799",
+        "DatePublished": "8/22/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.2-dev-00819",
+        "Downloads": "8,846",
+        "DatePublished": "8/21/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.2-dev-00811",
+        "Downloads": "19,146",
+        "DatePublished": "8/15/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.2-dev-00806",
+        "Downloads": "25,954",
+        "DatePublished": "8/2/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.2-dev-00802",
+        "Downloads": "56,956",
+        "DatePublished": "7/5/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.2-dev-00800",
+        "Downloads": "45,561",
+        "DatePublished": "6/24/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.2-dev-00798",
+        "Downloads": "54,917",
+        "DatePublished": "5/12/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.2-dev-00796",
+        "Downloads": "11,018",
+        "DatePublished": "5/6/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.2-dev-00792",
+        "Downloads": "60,272",
+        "DatePublished": "3/14/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.2-dev-00788",
+        "Downloads": "59,739",
+        "DatePublished": "1/15/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.2-dev-00786",
+        "Downloads": "5,856",
+        "DatePublished": "1/5/2019"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.2-dev-00779",
+        "Downloads": "166,803",
+        "DatePublished": "9/22/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.2-dev-00777",
+        "Downloads": "345,553",
+        "DatePublished": "5/21/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.2-dev-00774",
+        "Downloads": "19,849",
+        "DatePublished": "5/9/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.2-dev-00771",
+        "Downloads": "12,671",
+        "DatePublished": "4/29/2018"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.1",
+        "Downloads": "131,119,008",
+        "DatePublished": "10/22/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.1-dev-00764",
+        "Downloads": "929",
+        "DatePublished": "10/22/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.1-dev-00762",
+        "Downloads": "821",
+        "DatePublished": "10/22/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.1-dev-00757",
+        "Downloads": "34,619",
+        "DatePublished": "9/11/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.1.0",
+        "Downloads": "662,435",
+        "DatePublished": "9/11/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.0.2-dev-00753",
+        "Downloads": "12,811",
+        "DatePublished": "8/1/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.0.1",
+        "Downloads": "11,369,443",
+        "DatePublished": "6/23/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.0.1-dev-00749",
+        "Downloads": "949",
+        "DatePublished": "6/22/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.0.1-dev-00747",
+        "Downloads": "952",
+        "DatePublished": "6/22/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.0.0",
+        "Downloads": "96,029",
+        "DatePublished": "6/21/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.0.0-dev-00737",
+        "Downloads": "936",
+        "DatePublished": "6/21/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.0.0-dev-00735",
+        "Downloads": "923",
+        "DatePublished": "6/21/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.0.0-dev-00734",
+        "Downloads": "849",
+        "DatePublished": "6/19/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "3.0.0-dev-00732",
+        "Downloads": "947",
+        "DatePublished": "6/19/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.2.0-dev-00721",
+        "Downloads": "24,256",
+        "DatePublished": "1/25/2017"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.2.0-dev-00719",
+        "Downloads": "3,555",
+        "DatePublished": "10/25/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.1.0",
+        "Downloads": "748,382",
+        "DatePublished": "7/5/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.1.0-dev-00715",
+        "Downloads": "890",
+        "DatePublished": "7/5/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.1.0-dev-00713",
+        "Downloads": "902",
+        "DatePublished": "7/5/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0",
+        "Downloads": "58,340",
+        "DatePublished": "6/28/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-rc-709",
+        "Downloads": "1,877",
+        "DatePublished": "5/26/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-707",
+        "Downloads": "1,039",
+        "DatePublished": "5/17/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-706",
+        "Downloads": "852",
+        "DatePublished": "5/17/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-700",
+        "Downloads": "1,183",
+        "DatePublished": "3/23/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-513",
+        "Downloads": "896",
+        "DatePublished": "3/15/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-511",
+        "Downloads": "867",
+        "DatePublished": "3/14/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-509",
+        "Downloads": "945",
+        "DatePublished": "3/13/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-507",
+        "Downloads": "1,157",
+        "DatePublished": "3/1/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-505",
+        "Downloads": "1,301",
+        "DatePublished": "2/25/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-502",
+        "Downloads": "987",
+        "DatePublished": "2/22/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-499",
+        "Downloads": "937",
+        "DatePublished": "2/21/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-495",
+        "Downloads": "925",
+        "DatePublished": "2/19/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-494",
+        "Downloads": "894",
+        "DatePublished": "2/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-493",
+        "Downloads": "889",
+        "DatePublished": "2/18/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-487",
+        "Downloads": "866",
+        "DatePublished": "2/16/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-486",
+        "Downloads": "856",
+        "DatePublished": "2/11/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-479",
+        "Downloads": "875",
+        "DatePublished": "2/9/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-478",
+        "Downloads": "872",
+        "DatePublished": "2/9/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-465",
+        "Downloads": "895",
+        "DatePublished": "1/26/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-456",
+        "Downloads": "854",
+        "DatePublished": "1/20/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-450",
+        "Downloads": "1,123",
+        "DatePublished": "1/14/2016"
+      },
+      {
+        "$type": "Workflow.VersionInfo, Workflow",
+        "PackageListing": {
+          "$type": "Workflow.PackageListing, Workflow",
+          "Rank": 24,
+          "PackageName": "serilog.sinks.console",
+          "PackageListingUrl": "/packages/serilog.sinks.console/",
+          "Owners": {
+            "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+            "$values": [
+              {
+                "$type": "Workflow.Hyperlink, Workflow",
+                "Text": "serilog",
+                "Url": "/profiles/serilog"
+              }
+            ]
+          },
+          "Package": {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Download package",
+            "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+          },
+          "DateTaken": "2022-04-22T19:26:00.6866581+00:00"
+        },
+        "Version": "2.0.0-beta-449",
+        "Downloads": "1,588",
+        "DatePublished": "1/14/2016"
+      }
+    ]
+  }
+}
