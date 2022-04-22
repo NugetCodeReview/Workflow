@@ -8,13 +8,13 @@ public static class HostAppBuilder
 {
     public static IHost AppHost { get; private set; } = null!;
 
-    public static IHost BuildAppHost()
+    public static IHost BuildAppHost(string location)
     {
         try
         {
             if (AppHost is not null) return AppHost;
 
-            var location = Path.GetDirectoryName(typeof(HostAppBuilder).Assembly.Location);
+            //var location = Path.GetDirectoryName(typeof(HostAppBuilder).Assembly.Location);
             Serilog.Log.Information($"location: {location}");
 
             CreateLogger();

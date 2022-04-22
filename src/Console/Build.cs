@@ -16,7 +16,7 @@ class Build : NukeBuild
 
     protected override void OnBuildInitialized()
     {
-        HostAppBuilder.BuildAppHost();
+        HostAppBuilder.BuildAppHost(RootDirectory);
 
         var config = HostAppBuilder.AppHost!.Services.GetRequiredService<PackagesConfig>();
 

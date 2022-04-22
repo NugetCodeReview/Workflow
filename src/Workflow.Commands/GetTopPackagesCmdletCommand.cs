@@ -15,7 +15,8 @@ public class GetTopPackagesCmdletCommand : PSCmdlet
     {
         try
         {
-            HostAppBuilder.BuildAppHost();
+            var location = Path.GetDirectoryName(typeof(HostAppBuilder).Assembly!.Location!);
+            HostAppBuilder.BuildAppHost(location!);
         }
         catch(Exception ex)
         {
@@ -70,7 +71,8 @@ public class GetTopPackagesCmdletCommand : PSCmdlet
 
                 try
                 {
-                    HostAppBuilder.BuildAppHost();
+                    var location = Path.GetDirectoryName(typeof(HostAppBuilder).Assembly!.Location!);
+                    HostAppBuilder.BuildAppHost(location!);
                 }
                 catch (Exception ex)
                 {
