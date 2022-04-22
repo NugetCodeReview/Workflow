@@ -11,12 +11,13 @@ using static Nuke.Common.IO.PathConstruction;
 class Build : NukeBuild
 {
     public AbsolutePath ResultsDirectory => RootDirectory / "results";
+    public AbsolutePath ArtifactsDirectory => RootDirectory / "artifacts";
 
     public static int Main() => Execute<Build>(x => x.GetTop100);
 
     protected override void OnBuildInitialized()
     {
-        HostAppBuilder.BuildAppHost(RootDirectory);
+        HostAppBuilder.BuildAppHost(ArtifactsDirectory);
 
         var config = HostAppBuilder.AppHost!.Services.GetRequiredService<PackagesConfig>();
 
