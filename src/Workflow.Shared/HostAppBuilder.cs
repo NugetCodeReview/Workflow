@@ -15,6 +15,7 @@ public static class HostAppBuilder
             if (AppHost is not null) return AppHost;
 
             var location = Path.GetDirectoryName(typeof(HostAppBuilder).Assembly.Location);
+            Serilog.Log.Information($"location: {location}");
 
             CreateLogger();
             var builder = Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder();
