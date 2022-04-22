@@ -1,0 +1,45 @@
+﻿{
+  "$type": "Workflow.PackageListing, Workflow",
+  "Rank": 86,
+  "PackageName": "coverlet.msbuild",
+  "PackageListingUrl": "/packages/coverlet.msbuild/",
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "tonerdo",
+        "Url": "/profiles/tonerdo"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "dotnetfoundation",
+        "Url": "/profiles/dotnetfoundation"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "MarcoRossignoli",
+        "Url": "/profiles/MarcoRossignoli"
+      }
+    ]
+  },
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/coverlet-coverage/coverlet.git"
+  },
+  "Package": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download package",
+    "Url": "https://www.nuget.org/api/v2/package/coverlet.msbuild/3.1.2"
+  },
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  }
+}

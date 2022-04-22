@@ -1,0 +1,45 @@
+﻿{
+  "$type": "Workflow.PackageListing, Workflow",
+  "Rank": 47,
+  "PackageName": "nunit",
+  "PackageListingUrl": "/packages/nunit/",
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "charliepoole",
+        "Url": "/profiles/charliepoole"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "rprouse",
+        "Url": "/profiles/rprouse"
+      }
+    ]
+  },
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/nunit/nunit.git"
+  },
+  "Package": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download package",
+    "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+  },
+  "SymbolsPackage": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download symbols",
+    "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+  },
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  }
+}

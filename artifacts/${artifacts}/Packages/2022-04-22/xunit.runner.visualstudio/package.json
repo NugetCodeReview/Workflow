@@ -1,0 +1,40 @@
+﻿{
+  "$type": "Workflow.PackageListing, Workflow",
+  "Rank": 28,
+  "PackageName": "xunit.runner.visualstudio",
+  "PackageListingUrl": "/packages/xunit.runner.visualstudio/",
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "xunit",
+        "Url": "/profiles/xunit"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "dotnetfoundation",
+        "Url": "/profiles/dotnetfoundation"
+      }
+    ]
+  },
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/xunit/visualstudio.xunit.git"
+  },
+  "Package": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download package",
+    "Url": "https://www.nuget.org/api/v2/package/xunit.runner.visualstudio/2.4.3"
+  },
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  }
+}

@@ -1,0 +1,3720 @@
+{
+  "$type": "System.Collections.Generic.List`1[[Workflow.PackageListing, Workflow]], System.Private.CoreLib",
+  "$values": [
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 1,
+      "PackageName": "newtonsoft.json",
+      "PackageListingUrl": "/packages/newtonsoft.json/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "jamesnk",
+            "Url": "/profiles/jamesnk"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "newtonsoft",
+            "Url": "/profiles/newtonsoft"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dotnetfoundation",
+            "Url": "/profiles/dotnetfoundation"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/JamesNK/Newtonsoft.Json.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json/13.0.1"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/Newtonsoft.Json/13.0.1"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 2,
+      "PackageName": "serilog",
+      "PackageListingUrl": "/packages/serilog/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "serilog",
+            "Url": "/profiles/serilog"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/serilog/serilog.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Serilog/2.10.0"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog/2.10.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 3,
+      "PackageName": "castle.core",
+      "PackageListingUrl": "/packages/castle.core/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "jonorossi",
+            "Url": "/profiles/jonorossi"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "castleproject",
+            "Url": "/profiles/castleproject"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/castleproject/Core.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Castle.Core/4.4.1"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 4,
+      "PackageName": "newtonsoft.json.bson",
+      "PackageListingUrl": "/packages/newtonsoft.json.bson/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "jamesnk",
+            "Url": "/profiles/jamesnk"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "newtonsoft",
+            "Url": "/profiles/newtonsoft"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dotnetfoundation",
+            "Url": "/profiles/dotnetfoundation"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/JamesNK/Newtonsoft.Json.Bson.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Newtonsoft.Json.Bson/1.0.2"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 5,
+      "PackageName": "awssdk.core",
+      "PackageListingUrl": "/packages/awssdk.core/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "awsdotnet",
+            "Url": "/profiles/awsdotnet"
+          }
+        ]
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/AWSSDK.Core/3.7.10.11"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 6,
+      "PackageName": "swashbuckle.aspnetcore.swagger",
+      "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swagger/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "domaindrivendev",
+            "Url": "/profiles/domaindrivendev"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Swagger/6.3.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 7,
+      "PackageName": "swashbuckle.aspnetcore.swaggergen",
+      "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swaggergen/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "domaindrivendev",
+            "Url": "/profiles/domaindrivendev"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.SwaggerGen/6.3.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 8,
+      "PackageName": "moq",
+      "PackageListingUrl": "/packages/moq/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "kzu",
+            "Url": "/profiles/kzu"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "clarius",
+            "Url": "/profiles/clarius"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/moq/moq4.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 9,
+      "PackageName": "automapper",
+      "PackageListingUrl": "/packages/automapper/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "jbogard",
+            "Url": "/profiles/jbogard"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/AutoMapper/AutoMapper.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/AutoMapper/11.0.1"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper/11.0.1"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 10,
+      "PackageName": "serilog.sinks.file",
+      "PackageListingUrl": "/packages/serilog.sinks.file/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "serilog",
+            "Url": "/profiles/serilog"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/serilog/serilog-sinks-file.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.File/5.0.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 11,
+      "PackageName": "swashbuckle.aspnetcore.swaggerui",
+      "PackageListingUrl": "/packages/swashbuckle.aspnetcore.swaggerui/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "domaindrivendev",
+            "Url": "/profiles/domaindrivendev"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.SwaggerUI/6.3.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 12,
+      "PackageName": "microsoft.net.sdk.macos.manifest-6.0.200",
+      "PackageListingUrl": "/packages/microsoft.net.sdk.macos.manifest-6.0.200/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Microsoft",
+            "Url": "/profiles/Microsoft"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Xamarin",
+            "Url": "/profiles/Xamarin"
+          }
+        ]
+      },
+      "IsWhitelisted": true,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 13,
+      "PackageName": "microsoft.net.sdk.maccatalyst.manifest-6.0.200",
+      "PackageListingUrl": "/packages/microsoft.net.sdk.maccatalyst.manifest-6.0.200/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Microsoft",
+            "Url": "/profiles/Microsoft"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Xamarin",
+            "Url": "/profiles/Xamarin"
+          }
+        ]
+      },
+      "IsWhitelisted": true,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 14,
+      "PackageName": "microsoft.net.sdk.ios.manifest-6.0.200",
+      "PackageListingUrl": "/packages/microsoft.net.sdk.ios.manifest-6.0.200/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Microsoft",
+            "Url": "/profiles/Microsoft"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Xamarin",
+            "Url": "/profiles/Xamarin"
+          }
+        ]
+      },
+      "IsWhitelisted": true,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 15,
+      "PackageName": "microsoft.net.sdk.tvos.manifest-6.0.200",
+      "PackageListingUrl": "/packages/microsoft.net.sdk.tvos.manifest-6.0.200/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Microsoft",
+            "Url": "/profiles/Microsoft"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Xamarin",
+            "Url": "/profiles/Xamarin"
+          }
+        ]
+      },
+      "IsWhitelisted": true,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 16,
+      "PackageName": "microsoft.net.sdk.android.manifest-6.0.200",
+      "PackageListingUrl": "/packages/microsoft.net.sdk.android.manifest-6.0.200/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Microsoft",
+            "Url": "/profiles/Microsoft"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Xamarin",
+            "Url": "/profiles/Xamarin"
+          }
+        ]
+      },
+      "IsWhitelisted": true,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 17,
+      "PackageName": "microsoft.net.sdk.maui.manifest-6.0.200",
+      "PackageListingUrl": "/packages/microsoft.net.sdk.maui.manifest-6.0.200/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Microsoft",
+            "Url": "/profiles/Microsoft"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Xamarin",
+            "Url": "/profiles/Xamarin"
+          }
+        ]
+      },
+      "IsWhitelisted": true,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 18,
+      "PackageName": "microsoft.net.workload.mono.toolchain.manifest-6.0.200",
+      "PackageListingUrl": "/packages/microsoft.net.workload.mono.toolchain.manifest-6.0.200/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Microsoft",
+            "Url": "/profiles/Microsoft"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dotnetframework",
+            "Url": "/profiles/dotnetframework"
+          }
+        ]
+      },
+      "IsWhitelisted": true,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 19,
+      "PackageName": "microsoft.net.workload.emscripten.manifest-6.0.200",
+      "PackageListingUrl": "/packages/microsoft.net.workload.emscripten.manifest-6.0.200/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Microsoft",
+            "Url": "/profiles/Microsoft"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dotnetframework",
+            "Url": "/profiles/dotnetframework"
+          }
+        ]
+      },
+      "IsWhitelisted": true,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 20,
+      "PackageName": "polly",
+      "PackageListingUrl": "/packages/polly/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "joelhulen",
+            "Url": "/profiles/joelhulen"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dylanreisenberger",
+            "Url": "/profiles/dylanreisenberger"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Polly",
+            "Url": "/profiles/Polly"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/App-vNext/Polly.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 21,
+      "PackageName": "swashbuckle.aspnetcore",
+      "PackageListingUrl": "/packages/swashbuckle.aspnetcore/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "domaindrivendev",
+            "Url": "/profiles/domaindrivendev"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore/6.3.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 22,
+      "PackageName": "xunit.extensibility.core",
+      "PackageListingUrl": "/packages/xunit.extensibility.core/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "xunit",
+            "Url": "/profiles/xunit"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dotnetfoundation",
+            "Url": "/profiles/dotnetfoundation"
+          }
+        ]
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/xunit.extensibility.core/2.4.1"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 23,
+      "PackageName": "xunit.abstractions",
+      "PackageListingUrl": "/packages/xunit.abstractions/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "xunit",
+            "Url": "/profiles/xunit"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dotnetfoundation",
+            "Url": "/profiles/dotnetfoundation"
+          }
+        ]
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/xunit.abstractions/2.0.3"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 24,
+      "PackageName": "serilog.sinks.console",
+      "PackageListingUrl": "/packages/serilog.sinks.console/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "serilog",
+            "Url": "/profiles/serilog"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/serilog/serilog-sinks-console.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Console/4.0.1"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 25,
+      "PackageName": "xunit.extensibility.execution",
+      "PackageListingUrl": "/packages/xunit.extensibility.execution/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "xunit",
+            "Url": "/profiles/xunit"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dotnetfoundation",
+            "Url": "/profiles/dotnetfoundation"
+          }
+        ]
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/xunit.extensibility.execution/2.4.1"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 26,
+      "PackageName": "serilog.extensions.logging",
+      "PackageListingUrl": "/packages/serilog.extensions.logging/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "serilog",
+            "Url": "/profiles/serilog"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/serilog/serilog-extensions-logging.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Logging/3.1.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 27,
+      "PackageName": "xunit.core",
+      "PackageListingUrl": "/packages/xunit.core/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "xunit",
+            "Url": "/profiles/xunit"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dotnetfoundation",
+            "Url": "/profiles/dotnetfoundation"
+          }
+        ]
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/xunit.core/2.4.1"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 28,
+      "PackageName": "xunit.runner.visualstudio",
+      "PackageListingUrl": "/packages/xunit.runner.visualstudio/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "xunit",
+            "Url": "/profiles/xunit"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dotnetfoundation",
+            "Url": "/profiles/dotnetfoundation"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/xunit/visualstudio.xunit.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/xunit.runner.visualstudio/2.4.3"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 29,
+      "PackageName": "coverlet.collector",
+      "PackageListingUrl": "/packages/coverlet.collector/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "tonerdo",
+            "Url": "/profiles/tonerdo"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dotnetfoundation",
+            "Url": "/profiles/dotnetfoundation"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "MarcoRossignoli",
+            "Url": "/profiles/MarcoRossignoli"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/coverlet-coverage/coverlet.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/coverlet.collector/3.1.2"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 30,
+      "PackageName": "serilog.formatting.compact",
+      "PackageListingUrl": "/packages/serilog.formatting.compact/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "nblumhardt",
+            "Url": "/profiles/nblumhardt"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "serilog",
+            "Url": "/profiles/serilog"
+          }
+        ]
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Serilog.Formatting.Compact/1.1.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 31,
+      "PackageName": "xunit.assert",
+      "PackageListingUrl": "/packages/xunit.assert/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "xunit",
+            "Url": "/profiles/xunit"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dotnetfoundation",
+            "Url": "/profiles/dotnetfoundation"
+          }
+        ]
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/xunit.assert/2.4.1"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 32,
+      "PackageName": "xunit",
+      "PackageListingUrl": "/packages/xunit/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "xunit",
+            "Url": "/profiles/xunit"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dotnetfoundation",
+            "Url": "/profiles/dotnetfoundation"
+          }
+        ]
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/xunit/2.4.1"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 33,
+      "PackageName": "humanizer.core",
+      "PackageListingUrl": "/packages/humanizer.core/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Humanizer",
+            "Url": "/profiles/Humanizer"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dotnetfoundation",
+            "Url": "/profiles/dotnetfoundation"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/Humanizr/Humanizer.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Humanizer.Core/2.14.1"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 34,
+      "PackageName": "serilog.settings.configuration",
+      "PackageListingUrl": "/packages/serilog.settings.configuration/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "serilog",
+            "Url": "/profiles/serilog"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/serilog/serilog-settings-configuration.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Serilog.Settings.Configuration/3.3.0"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/Serilog.Settings.Configuration/3.3.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 35,
+      "PackageName": "stackexchange.redis",
+      "PackageListingUrl": "/packages/stackexchange.redis/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "marc.gravell",
+            "Url": "/profiles/marc.gravell"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "nick.craver",
+            "Url": "/profiles/nick.craver"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "StackExchange",
+            "Url": "/profiles/StackExchange"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/StackExchange/StackExchange.Redis/.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 36,
+      "PackageName": "microsoft.data.sqlclient.sni.runtime",
+      "PackageListingUrl": "/packages/microsoft.data.sqlclient.sni.runtime/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Microsoft",
+            "Url": "/profiles/Microsoft"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "nugetsqltools",
+            "Url": "/profiles/nugetsqltools"
+          }
+        ]
+      },
+      "IsWhitelisted": true,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 37,
+      "PackageName": "xunit.analyzers",
+      "PackageListingUrl": "/packages/xunit.analyzers/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "xunit",
+            "Url": "/profiles/xunit"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dotnetfoundation",
+            "Url": "/profiles/dotnetfoundation"
+          }
+        ]
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/xunit.analyzers/0.10.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 38,
+      "PackageName": "fluentvalidation",
+      "PackageListingUrl": "/packages/fluentvalidation/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "jskinner",
+            "Url": "/profiles/jskinner"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/JeremySkinner/fluentvalidation.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/FluentValidation/10.4.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 39,
+      "PackageName": "pipelines.sockets.unofficial",
+      "PackageListingUrl": "/packages/pipelines.sockets.unofficial/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "marc.gravell",
+            "Url": "/profiles/marc.gravell"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/mgravell/Pipelines.Sockets.Unofficial.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Pipelines.Sockets.Unofficial/2.2.2"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 40,
+      "PackageName": "system.memory.data",
+      "PackageListingUrl": "/packages/system.memory.data/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Microsoft",
+            "Url": "/profiles/Microsoft"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "azure-sdk",
+            "Url": "/profiles/azure-sdk"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dotnetframework",
+            "Url": "/profiles/dotnetframework"
+          }
+        ]
+      },
+      "IsWhitelisted": true,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 41,
+      "PackageName": "fluentassertions",
+      "PackageListingUrl": "/packages/fluentassertions/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dennisdoomen",
+            "Url": "/profiles/dennisdoomen"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "fluentassertions",
+            "Url": "/profiles/fluentassertions"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/fluentassertions/fluentassertions.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/FluentAssertions/6.6.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 42,
+      "PackageName": "serilog.extensions.hosting",
+      "PackageListingUrl": "/packages/serilog.extensions.hosting/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "serilog",
+            "Url": "/profiles/serilog"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/serilog/serilog-extensions-hosting.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Serilog.Extensions.Hosting/4.2.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 43,
+      "PackageName": "google.protobuf",
+      "PackageListingUrl": "/packages/google.protobuf/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "protobuf-packages",
+            "Url": "/profiles/protobuf-packages"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/protocolbuffers/protobuf.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Google.Protobuf/3.20.1"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 44,
+      "PackageName": "serilog.aspnetcore",
+      "PackageListingUrl": "/packages/serilog.aspnetcore/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "serilog",
+            "Url": "/profiles/serilog"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/serilog/serilog-aspnetcore.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Serilog.AspNetCore/5.0.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 45,
+      "PackageName": "serilog.sinks.debug",
+      "PackageListingUrl": "/packages/serilog.sinks.debug/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "serilog",
+            "Url": "/profiles/serilog"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/serilog/serilog-sinks-debug.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.Debug/2.0.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 46,
+      "PackageName": "dapper",
+      "PackageListingUrl": "/packages/dapper/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "marc.gravell",
+            "Url": "/profiles/marc.gravell"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "nick.craver",
+            "Url": "/profiles/nick.craver"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "StackExchange",
+            "Url": "/profiles/StackExchange"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/DapperLib/Dapper.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 47,
+      "PackageName": "nunit",
+      "PackageListingUrl": "/packages/nunit/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "charliepoole",
+            "Url": "/profiles/charliepoole"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "rprouse",
+            "Url": "/profiles/rprouse"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/nunit/nunit.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/NUnit/3.13.3"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/NUnit/3.13.3"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 48,
+      "PackageName": "npgsql",
+      "PackageListingUrl": "/packages/npgsql/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "roji",
+            "Url": "/profiles/roji"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Npgsql",
+            "Url": "/profiles/Npgsql"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/npgsql/npgsql.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Npgsql/6.0.4"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql/6.0.4"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 49,
+      "PackageName": "identitymodel",
+      "PackageListingUrl": "/packages/identitymodel/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "identity",
+            "Url": "/profiles/identity"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/IdentityModel/IdentityModel.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/IdentityModel/6.0.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 50,
+      "PackageName": "portable.bouncycastle",
+      "PackageListingUrl": "/packages/portable.bouncycastle/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "clairernovotny",
+            "Url": "/profiles/clairernovotny"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/novotnyllc/bc-csharp.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Portable.BouncyCastle/1.9.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 51,
+      "PackageName": "nlog",
+      "PackageListingUrl": "/packages/nlog/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "304NotModified",
+            "Url": "/profiles/304NotModified"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/NLog/NLog.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/NLog/4.7.15"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/NLog/4.7.15"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 52,
+      "PackageName": "restsharp",
+      "PackageListingUrl": "/packages/restsharp/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "alexey_zimarev",
+            "Url": "/profiles/alexey_zimarev"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Ubiquitous",
+            "Url": "/profiles/Ubiquitous"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/restsharp/RestSharp.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/RestSharp/107.3.0"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/RestSharp/107.3.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 53,
+      "PackageName": "nunit3testadapter",
+      "PackageListingUrl": "/packages/nunit3testadapter/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "charliepoole",
+            "Url": "/profiles/charliepoole"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "OsirisTerje",
+            "Url": "/profiles/OsirisTerje"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "rprouse",
+            "Url": "/profiles/rprouse"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/nunit/nunit3-vs-adapter.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/NUnit3TestAdapter/4.2.1"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 54,
+      "PackageName": "grpc.core.api",
+      "PackageListingUrl": "/packages/grpc.core.api/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "grpc-packages",
+            "Url": "/profiles/grpc-packages"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/grpc/grpc.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Grpc.Core.Api/2.45.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 55,
+      "PackageName": "system.formats.asn1",
+      "PackageListingUrl": "/packages/system.formats.asn1/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Microsoft",
+            "Url": "/profiles/Microsoft"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dotnetframework",
+            "Url": "/profiles/dotnetframework"
+          }
+        ]
+      },
+      "IsWhitelisted": true,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 56,
+      "PackageName": "autofac",
+      "PackageListingUrl": "/packages/autofac/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Autofac",
+            "Url": "/profiles/Autofac"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/autofac/Autofac.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Autofac/6.3.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 57,
+      "PackageName": "automapper.extensions.microsoft.dependencyinjection",
+      "PackageListingUrl": "/packages/automapper.extensions.microsoft.dependencyinjection/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "jbogard",
+            "Url": "/profiles/jbogard"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/AutoMapper.Extensions.Microsoft.DependencyInjection/11.0.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 58,
+      "PackageName": "serilog.sinks.periodicbatching",
+      "PackageListingUrl": "/packages/serilog.sinks.periodicbatching/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "serilog",
+            "Url": "/profiles/serilog"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/serilog/serilog-sinks-periodicbatching.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Serilog.Sinks.PeriodicBatching/2.3.1"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 59,
+      "PackageName": "microsoft.applicationinsights.eventcountercollector",
+      "PackageListingUrl": "/packages/microsoft.applicationinsights.eventcountercollector/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Microsoft",
+            "Url": "/profiles/Microsoft"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "AppInsightsSdk",
+            "Url": "/profiles/AppInsightsSdk"
+          }
+        ]
+      },
+      "IsWhitelisted": true,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 60,
+      "PackageName": "awssdk.s3",
+      "PackageListingUrl": "/packages/awssdk.s3/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "awsdotnet",
+            "Url": "/profiles/awsdotnet"
+          }
+        ]
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/AWSSDK.S3/3.7.8.23"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 61,
+      "PackageName": "mongodb.bson",
+      "PackageListingUrl": "/packages/mongodb.bson/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "MongoDB",
+            "Url": "/profiles/MongoDB"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/mongodb/mongo-csharp-driver.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/MongoDB.Bson/2.15.0"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Bson/2.15.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 62,
+      "PackageName": "rabbitmq.client",
+      "PackageListingUrl": "/packages/rabbitmq.client/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "joefitzgerald",
+            "Url": "/profiles/joefitzgerald"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "team-rabbitmq",
+            "Url": "/profiles/team-rabbitmq"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/rabbitmq/rabbitmq-dotnet-client.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/RabbitMQ.Client/6.2.4"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/RabbitMQ.Client/6.2.4"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 63,
+      "PackageName": "csvhelper",
+      "PackageListingUrl": "/packages/csvhelper/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "joshclose",
+            "Url": "/profiles/joshclose"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/JoshClose/CsvHelper.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/CsvHelper/27.2.1"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/CsvHelper/27.2.1"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 64,
+      "PackageName": "mongodb.driver.core",
+      "PackageListingUrl": "/packages/mongodb.driver.core/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "MongoDB",
+            "Url": "/profiles/MongoDB"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/mongodb/mongo-csharp-driver.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/MongoDB.Driver.Core/2.15.0"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Driver.Core/2.15.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 65,
+      "PackageName": "elasticsearch.net",
+      "PackageListingUrl": "/packages/elasticsearch.net/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Mpdreamz",
+            "Url": "/profiles/Mpdreamz"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "forloop",
+            "Url": "/profiles/forloop"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "elasticsearch",
+            "Url": "/profiles/elasticsearch"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "stevejgordon",
+            "Url": "/profiles/stevejgordon"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "elastic",
+            "Url": "/profiles/elastic"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/elastic/elasticsearch-net.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Elasticsearch.Net/7.17.1"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 66,
+      "PackageName": "google.apis.core",
+      "PackageListingUrl": "/packages/google.apis.core/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "google-apis-packages",
+            "Url": "/profiles/google-apis-packages"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/googleapis/google-api-dotnet-client.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Core/1.57.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 67,
+      "PackageName": "google.apis",
+      "PackageListingUrl": "/packages/google.apis/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "google-apis-packages",
+            "Url": "/profiles/google-apis-packages"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/googleapis/google-api-dotnet-client.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Google.Apis/1.57.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 68,
+      "PackageName": "sqlitepclraw.core",
+      "PackageListingUrl": "/packages/sqlitepclraw.core/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "ericsink",
+            "Url": "/profiles/ericsink"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "SQLitePCLRaw",
+            "Url": "/profiles/SQLitePCLRaw"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/ericsink/SQLitePCL.raw.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.core/2.0.7"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 69,
+      "PackageName": "google.apis.auth",
+      "PackageListingUrl": "/packages/google.apis.auth/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "google-apis-packages",
+            "Url": "/profiles/google-apis-packages"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/googleapis/google-api-dotnet-client.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Google.Apis.Auth/1.57.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 70,
+      "PackageName": "log4net",
+      "PackageListingUrl": "/packages/log4net/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "cincura.net",
+            "Url": "/profiles/cincura.net"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Apache.Logging",
+            "Url": "/profiles/Apache.Logging"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/apache/logging-log4net.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/log4net/2.0.14"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 71,
+      "PackageName": "mongodb.driver",
+      "PackageListingUrl": "/packages/mongodb.driver/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "MongoDB",
+            "Url": "/profiles/MongoDB"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/mongodb/mongo-csharp-driver.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/MongoDB.Driver/2.15.0"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/MongoDB.Driver/2.15.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 72,
+      "PackageName": "mediatr",
+      "PackageListingUrl": "/packages/mediatr/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "jbogard",
+            "Url": "/profiles/jbogard"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/jbogard/MediatR.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/MediatR/10.0.1"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR/10.0.1"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 73,
+      "PackageName": "polly.extensions.http",
+      "PackageListingUrl": "/packages/polly.extensions.http/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "joelhulen",
+            "Url": "/profiles/joelhulen"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dylanreisenberger",
+            "Url": "/profiles/dylanreisenberger"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Polly",
+            "Url": "/profiles/Polly"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/App-vNext/Polly.Extensions.Http.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Polly.Extensions.Http/3.0.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 74,
+      "PackageName": "dnsclient",
+      "PackageListingUrl": "/packages/dnsclient/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "MichaConrad",
+            "Url": "/profiles/MichaConrad"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/MichaCo/DnsClient.NET.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/DnsClient/1.6.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 75,
+      "PackageName": "fluentvalidation.dependencyinjectionextensions",
+      "PackageListingUrl": "/packages/fluentvalidation.dependencyinjectionextensions/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "jskinner",
+            "Url": "/profiles/jskinner"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/JeremySkinner/fluentvalidation.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/FluentValidation.DependencyInjectionExtensions/10.4.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 76,
+      "PackageName": "jetbrains.annotations",
+      "PackageListingUrl": "/packages/jetbrains.annotations/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "jetbrains",
+            "Url": "/profiles/jetbrains"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "ControlFlow",
+            "Url": "/profiles/ControlFlow"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/JetBrains/JetBrains.Annotations.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/JetBrains.Annotations/2022.1.0"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/JetBrains.Annotations/2022.1.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 77,
+      "PackageName": "yamldotnet",
+      "PackageListingUrl": "/packages/yamldotnet/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "aaubry",
+            "Url": "/profiles/aaubry"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/aaubry/YamlDotNet.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/YamlDotNet/11.2.1"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 78,
+      "PackageName": "system.reactive",
+      "PackageListingUrl": "/packages/system.reactive/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "rxteam",
+            "Url": "/profiles/rxteam"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dotnetfoundation",
+            "Url": "/profiles/dotnetfoundation"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/dotnet/reactive.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/System.Reactive/5.0.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 79,
+      "PackageName": "sharpcompress",
+      "PackageListingUrl": "/packages/sharpcompress/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "adamhathcock",
+            "Url": "/profiles/adamhathcock"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/adamhathcock/sharpcompress.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/SharpCompress/0.31.0"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/SharpCompress/0.31.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 80,
+      "PackageName": "sharpziplib",
+      "PackageListingUrl": "/packages/sharpziplib/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "SharpDevelop",
+            "Url": "/profiles/SharpDevelop"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/icsharpcode/SharpZipLib.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/SharpZipLib/1.3.3"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 81,
+      "PackageName": "npgsql.entityframeworkcore.postgresql",
+      "PackageListingUrl": "/packages/npgsql.entityframeworkcore.postgresql/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "roji",
+            "Url": "/profiles/roji"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "Npgsql",
+            "Url": "/profiles/Npgsql"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/npgsql/efcore.pg.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/Npgsql.EntityFrameworkCore.PostgreSQL/6.0.4"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 82,
+      "PackageName": "fluentvalidation.aspnetcore",
+      "PackageListingUrl": "/packages/fluentvalidation.aspnetcore/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "jskinner",
+            "Url": "/profiles/jskinner"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/JeremySkinner/fluentvalidation.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/FluentValidation.AspNetCore/10.4.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 83,
+      "PackageName": "system.interactive.async",
+      "PackageListingUrl": "/packages/system.interactive.async/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "rxteam",
+            "Url": "/profiles/rxteam"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dotnetfoundation",
+            "Url": "/profiles/dotnetfoundation"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/dotnet/reactive.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/System.Interactive.Async/6.0.1"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 84,
+      "PackageName": "mongodb.libmongocrypt",
+      "PackageListingUrl": "/packages/mongodb.libmongocrypt/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "MongoDB",
+            "Url": "/profiles/MongoDB"
+          }
+        ]
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/MongoDB.Libmongocrypt/1.3.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 85,
+      "PackageName": "hangfire.core",
+      "PackageListingUrl": "/packages/hangfire.core/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "odinserj",
+            "Url": "/profiles/odinserj"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/HangfireIO/Hangfire.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Hangfire.Core/1.7.28"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 86,
+      "PackageName": "coverlet.msbuild",
+      "PackageListingUrl": "/packages/coverlet.msbuild/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "tonerdo",
+            "Url": "/profiles/tonerdo"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "dotnetfoundation",
+            "Url": "/profiles/dotnetfoundation"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "MarcoRossignoli",
+            "Url": "/profiles/MarcoRossignoli"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/coverlet-coverage/coverlet.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/coverlet.msbuild/3.1.2"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 87,
+      "PackageName": "prometheus-net",
+      "PackageListingUrl": "/packages/prometheus-net/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "sandersaares",
+            "Url": "/profiles/sandersaares"
+          }
+        ]
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/prometheus-net/6.0.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 88,
+      "PackageName": "htmlagilitypack",
+      "PackageListingUrl": "/packages/htmlagilitypack/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "zzzprojects",
+            "Url": "/profiles/zzzprojects"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/zzzprojects/html-agility-pack/.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/HtmlAgilityPack/1.11.42"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 89,
+      "PackageName": "autofixture",
+      "PackageListingUrl": "/packages/autofixture/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "ploeh",
+            "Url": "/profiles/ploeh"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "AutoFixture",
+            "Url": "/profiles/AutoFixture"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "AlexPovar",
+            "Url": "/profiles/AlexPovar"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/AutoFixture/AutoFixture.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/AutoFixture/4.17.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 90,
+      "PackageName": "sqlitepclraw.lib.e_sqlite3",
+      "PackageListingUrl": "/packages/sqlitepclraw.lib.e_sqlite3/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "ericsink",
+            "Url": "/profiles/ericsink"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "SQLitePCLRaw",
+            "Url": "/profiles/SQLitePCLRaw"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/ericsink/SQLitePCL.raw.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.lib.e_sqlite3/2.0.7"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 91,
+      "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+      "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "jbogard",
+            "Url": "/profiles/jbogard"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/jbogard/MediatR.Extensions.Microsoft.DependencyInjection.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 92,
+      "PackageName": "fare",
+      "PackageListingUrl": "/packages/fare/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "ymotton",
+            "Url": "/profiles/ymotton"
+          },
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "moodmosaic",
+            "Url": "/profiles/moodmosaic"
+          }
+        ]
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Fare/2.2.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 93,
+      "PackageName": "timezoneconverter",
+      "PackageListingUrl": "/packages/timezoneconverter/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "mj1856",
+            "Url": "/profiles/mj1856"
+          }
+        ]
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/TimeZoneConverter/5.0.0"
+      },
+      "SymbolsPackage": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download symbols",
+        "Url": "https://www.nuget.org/api/v2/symbolpackage/TimeZoneConverter/5.0.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 94,
+      "PackageName": "stylecop.analyzers",
+      "PackageListingUrl": "/packages/stylecop.analyzers/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "sharwell",
+            "Url": "/profiles/sharwell"
+          }
+        ]
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/StyleCop.Analyzers/1.1.118"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 95,
+      "PackageName": "grpc.net.common",
+      "PackageListingUrl": "/packages/grpc.net.common/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "grpc-packages",
+            "Url": "/profiles/grpc-packages"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/grpc/grpc-dotnet.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Grpc.Net.Common/2.45.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 96,
+      "PackageName": "swashbuckle.aspnetcore.annotations",
+      "PackageListingUrl": "/packages/swashbuckle.aspnetcore.annotations/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "domaindrivendev",
+            "Url": "/profiles/domaindrivendev"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Swashbuckle.AspNetCore.Annotations/6.3.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 97,
+      "PackageName": "grpc.core",
+      "PackageListingUrl": "/packages/grpc.core/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "grpc-packages",
+            "Url": "/profiles/grpc-packages"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/grpc/grpc.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Grpc.Core/2.45.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 98,
+      "PackageName": "remotion.linq",
+      "PackageListingUrl": "/packages/remotion.linq/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "RUBICON",
+            "Url": "/profiles/RUBICON"
+          }
+        ]
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Remotion.Linq/2.2.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 99,
+      "PackageName": "mimekit",
+      "PackageListingUrl": "/packages/mimekit/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "jstedfast",
+            "Url": "/profiles/jstedfast"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/jstedfast/MimeKit.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/MimeKit/3.2.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "Workflow.PackageListing, Workflow",
+      "Rank": 100,
+      "PackageName": "grpc.net.client",
+      "PackageListingUrl": "/packages/grpc.net.client/",
+      "Owners": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Workflow.Hyperlink, Workflow",
+            "Text": "grpc-packages",
+            "Url": "/profiles/grpc-packages"
+          }
+        ]
+      },
+      "Repository": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Source repository",
+        "Url": "https://github.com/grpc/grpc-dotnet.git"
+      },
+      "Package": {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Download package",
+        "Url": "https://www.nuget.org/api/v2/package/Grpc.Net.Client/2.45.0"
+      },
+      "IsWhitelisted": false,
+      "Workflows": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      },
+      "Scripts": {
+        "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+        "$values": []
+      }
+    }
+  ]
+}

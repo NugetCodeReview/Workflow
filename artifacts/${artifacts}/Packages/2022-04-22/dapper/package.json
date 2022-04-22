@@ -1,0 +1,45 @@
+﻿{
+  "$type": "Workflow.PackageListing, Workflow",
+  "Rank": 46,
+  "PackageName": "dapper",
+  "PackageListingUrl": "/packages/dapper/",
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "marc.gravell",
+        "Url": "/profiles/marc.gravell"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "nick.craver",
+        "Url": "/profiles/nick.craver"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "StackExchange",
+        "Url": "/profiles/StackExchange"
+      }
+    ]
+  },
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/DapperLib/Dapper.git"
+  },
+  "Package": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download package",
+    "Url": "https://www.nuget.org/api/v2/package/Dapper/2.0.123"
+  },
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  }
+}

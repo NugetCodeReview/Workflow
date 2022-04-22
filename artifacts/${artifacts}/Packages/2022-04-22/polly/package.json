@@ -1,0 +1,50 @@
+﻿{
+  "$type": "Workflow.PackageListing, Workflow",
+  "Rank": 20,
+  "PackageName": "polly",
+  "PackageListingUrl": "/packages/polly/",
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "joelhulen",
+        "Url": "/profiles/joelhulen"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "dylanreisenberger",
+        "Url": "/profiles/dylanreisenberger"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Polly",
+        "Url": "/profiles/Polly"
+      }
+    ]
+  },
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/App-vNext/Polly.git"
+  },
+  "Package": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download package",
+    "Url": "https://www.nuget.org/api/v2/package/Polly/7.2.3"
+  },
+  "SymbolsPackage": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download symbols",
+    "Url": "https://www.nuget.org/api/v2/symbolpackage/Polly/7.2.3"
+  },
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  }
+}

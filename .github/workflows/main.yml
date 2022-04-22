@@ -59,5 +59,12 @@ jobs:
         run: |
           cd ${artifacts}
           unzip workflow.zip
-          ls -al
-          ./Workflow ForkTop100 AddWorkflowTop100
+          ./Workflow ForkTop100
+          ./Workflow AddWorkflowTop100
+          git config user.email "ninja@thesharp.ninja"
+          git config user.name "GitHub Action"
+          git add **/*.nupkg -f
+          git add **/*.json -f
+          git commit -m 'Pull Top 100'
+          git push https://sharpninja:${GITHUB_TOKEN}@github.com/NugetCodeReview/Workflow.git
+          

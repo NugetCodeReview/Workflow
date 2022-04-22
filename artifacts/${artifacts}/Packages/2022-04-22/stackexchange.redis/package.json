@@ -1,0 +1,45 @@
+﻿{
+  "$type": "Workflow.PackageListing, Workflow",
+  "Rank": 35,
+  "PackageName": "stackexchange.redis",
+  "PackageListingUrl": "/packages/stackexchange.redis/",
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "marc.gravell",
+        "Url": "/profiles/marc.gravell"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "nick.craver",
+        "Url": "/profiles/nick.craver"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "StackExchange",
+        "Url": "/profiles/StackExchange"
+      }
+    ]
+  },
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/StackExchange/StackExchange.Redis/.git"
+  },
+  "Package": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download package",
+    "Url": "https://www.nuget.org/api/v2/package/StackExchange.Redis/2.5.61"
+  },
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  }
+}
