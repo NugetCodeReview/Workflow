@@ -17,7 +17,12 @@ class Build : NukeBuild
 
     protected override void OnBuildInitialized()
     {
+#if !DEBUG
         HostAppBuilder.BuildAppHost(ArtifactsDirectory);
+#else
+        var location = Path.GetDirectoryName(typeof(HostAppBuilder).Assembly!.Location!);
+        HostAppBuilder.BuildAppHost(location!);
+#endif
 
         var config = HostAppBuilder.AppHost!.Services.GetRequiredService<PackagesConfig>();
 

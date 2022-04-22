@@ -14,6 +14,7 @@ internal static class NugetOrg
     const string BASE_URL = "https://www.nuget.org";
     const string URL = $"{BASE_URL}/stats/packages";
     const string ROWS_XPATH = "/html/body/div[2]/section/div[2]/div/table[2]/tbody/tr";
+    const string ALT_ROWS_XPATH = "/html/body/div[3]/section/div[2]/div/table[2]/tbody/tr";
 
     private static PackagesConfig Config { get; set; }
     static NugetOrg()
@@ -194,6 +195,8 @@ internal static class NugetOrg
         doc.LoadHtml(html);
 
         var rows = doc.DocumentNode.SelectNodes(ROWS_XPATH);
+
+        rows ??= doc.DocumentNode.SelectNodes(ALT_ROWS_XPATH);
 
         var counter = 0;
         foreach (var row in rows)
