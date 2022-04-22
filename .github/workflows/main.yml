@@ -63,7 +63,7 @@ jobs:
           ./Workflow AddWorkflowTop100
           git config user.email "ninja@thesharp.ninja"
           git config user.name "GitHub Action"
-          git add *.json -f
+          git add **/*.json -f
           git commit -m 'Pull Top 100'
           git push https://sharpninja:${GITHUB_TOKEN}@github.com/NugetCodeReview/Workflow.git
           
