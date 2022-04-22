@@ -36,7 +36,7 @@ jobs:
           cd ${root}; 
           pwsh ${root}/.github/workflows/bootstrap.ps1
           cd ${root}/artifacts
-          git config user.email ninja@thesharp.ninja"
+          git config user.email "ninja@thesharp.ninja"
           git config user.name "GitHub Action"
           git add *.zip -f
           git commit -m 'Build Artifacts'
