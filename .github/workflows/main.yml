@@ -35,7 +35,7 @@ jobs:
         run: |
           cd ${root}; 
           pwsh ${root}/.github/workflows/bootstrap.ps1
-          cd ${root}/artifacts
+          cd ${artifacts}
           git config user.email "ninja@thesharp.ninja"
           git config user.name "GitHub Action"
           git add *.zip -f
@@ -55,6 +55,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Pull Top 100
         run: |
-          unzip ${artifacts}/workflow.zip
+          cd ${artifacts}
+          unzip workflow.zip
           ls -al
-          
+          workflow ForkTop100 AddWorkflowTop100
