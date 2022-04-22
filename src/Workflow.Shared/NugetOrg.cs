@@ -236,9 +236,9 @@ internal static class NugetOrg
 
     private static PackageListing? ParseInnerHtml(string innerHtml)
     {
-        Log.Information($"innerHtml: {innerHtml}");
+        //Log.Information($"innerHtml: {innerHtml}");
         var doc = new HtmlDocument();
-        //doc.LoadHtml(innerHtml);
+        doc.LoadHtml(innerHtml);
 
         var nodes = doc.DocumentNode.ChildNodes.Where(
             n => n.NodeType == HtmlNodeType.Element).ToArray();
