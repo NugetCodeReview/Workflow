@@ -46,6 +46,7 @@ jobs:
     env:
       root: ${{ github.workspace }}
       artifacts: '${{ github.workspace }}/artifacts'
+      NUKE_TELEMETRY_OPTOUT: 1
 
     if: github.event_name != 'push'
     runs-on: ubuntu-latest
