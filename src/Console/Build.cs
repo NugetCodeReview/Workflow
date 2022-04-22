@@ -16,7 +16,7 @@ class Build : NukeBuild
     public AbsolutePath ResultsDirectory => ArtifactsDirectory / "results";
 
 #if !DEBUG
-    public AbsolutePath BinDirectory => ArtifactsDirectory / "bin";
+    public AbsolutePath BinDirectory => ArtifactsDirectory;
 #else
     public AbsolutePath BinDirectory => (AbsolutePath)Path.GetDirectoryName(typeof(HostAppBuilder).Assembly!.Location!);
 #endif

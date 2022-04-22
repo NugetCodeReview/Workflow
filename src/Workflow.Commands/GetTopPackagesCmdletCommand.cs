@@ -28,7 +28,7 @@ public class GetTopPackagesCmdletCommand : PSCmdlet
     }
 
 #if !DEBUG
-    public static AbsolutePath BinDirectory => ArtifactsDirectory / "bin";
+    public static AbsolutePath BinDirectory => ArtifactsDirectory;
 #else
     public static AbsolutePath BinDirectory => (AbsolutePath)Path.GetDirectoryName(typeof(HostAppBuilder).Assembly!.Location!);
 #endif
