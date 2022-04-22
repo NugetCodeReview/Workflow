@@ -1,0 +1,45 @@
+﻿{
+  "$type": "Workflow.PackageListing, Workflow",
+  "Rank": 73,
+  "PackageName": "polly.extensions.http",
+  "PackageListingUrl": "/packages/polly.extensions.http/",
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "joelhulen",
+        "Url": "/profiles/joelhulen"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "dylanreisenberger",
+        "Url": "/profiles/dylanreisenberger"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Polly",
+        "Url": "/profiles/Polly"
+      }
+    ]
+  },
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/App-vNext/Polly.Extensions.Http.git"
+  },
+  "Package": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download package",
+    "Url": "https://www.nuget.org/api/v2/package/Polly.Extensions.Http/3.0.0"
+  },
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  }
+}

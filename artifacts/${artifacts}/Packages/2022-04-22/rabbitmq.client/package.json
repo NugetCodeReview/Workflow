@@ -1,0 +1,45 @@
+﻿{
+  "$type": "Workflow.PackageListing, Workflow",
+  "Rank": 62,
+  "PackageName": "rabbitmq.client",
+  "PackageListingUrl": "/packages/rabbitmq.client/",
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "joefitzgerald",
+        "Url": "/profiles/joefitzgerald"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "team-rabbitmq",
+        "Url": "/profiles/team-rabbitmq"
+      }
+    ]
+  },
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/rabbitmq/rabbitmq-dotnet-client.git"
+  },
+  "Package": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download package",
+    "Url": "https://www.nuget.org/api/v2/package/RabbitMQ.Client/6.2.4"
+  },
+  "SymbolsPackage": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download symbols",
+    "Url": "https://www.nuget.org/api/v2/symbolpackage/RabbitMQ.Client/6.2.4"
+  },
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  }
+}

@@ -1,0 +1,55 @@
+﻿{
+  "$type": "Workflow.PackageListing, Workflow",
+  "Rank": 65,
+  "PackageName": "elasticsearch.net",
+  "PackageListingUrl": "/packages/elasticsearch.net/",
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Mpdreamz",
+        "Url": "/profiles/Mpdreamz"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "forloop",
+        "Url": "/profiles/forloop"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "elasticsearch",
+        "Url": "/profiles/elasticsearch"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "stevejgordon",
+        "Url": "/profiles/stevejgordon"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "elastic",
+        "Url": "/profiles/elastic"
+      }
+    ]
+  },
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/elastic/elasticsearch-net.git"
+  },
+  "Package": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download package",
+    "Url": "https://www.nuget.org/api/v2/package/Elasticsearch.Net/7.17.1"
+  },
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  }
+}

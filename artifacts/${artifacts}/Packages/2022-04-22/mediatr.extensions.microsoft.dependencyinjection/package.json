@@ -1,0 +1,40 @@
+﻿{
+  "$type": "Workflow.PackageListing, Workflow",
+  "Rank": 91,
+  "PackageName": "mediatr.extensions.microsoft.dependencyinjection",
+  "PackageListingUrl": "/packages/mediatr.extensions.microsoft.dependencyinjection/",
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "jbogard",
+        "Url": "/profiles/jbogard"
+      }
+    ]
+  },
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/jbogard/MediatR.Extensions.Microsoft.DependencyInjection.git"
+  },
+  "Package": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download package",
+    "Url": "https://www.nuget.org/api/v2/package/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+  },
+  "SymbolsPackage": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download symbols",
+    "Url": "https://www.nuget.org/api/v2/symbolpackage/MediatR.Extensions.Microsoft.DependencyInjection/10.0.1"
+  },
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  }
+}

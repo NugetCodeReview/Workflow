@@ -1,0 +1,40 @@
+﻿{
+  "$type": "Workflow.PackageListing, Workflow",
+  "Rank": 8,
+  "PackageName": "moq",
+  "PackageListingUrl": "/packages/moq/",
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "kzu",
+        "Url": "/profiles/kzu"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "clarius",
+        "Url": "/profiles/clarius"
+      }
+    ]
+  },
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/moq/moq4.git"
+  },
+  "Package": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download package",
+    "Url": "https://www.nuget.org/api/v2/package/Moq/4.17.2"
+  },
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  }
+}

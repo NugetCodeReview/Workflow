@@ -1,0 +1,30 @@
+﻿{
+  "$type": "Workflow.PackageListing, Workflow",
+  "Rank": 84,
+  "PackageName": "mongodb.libmongocrypt",
+  "PackageListingUrl": "/packages/mongodb.libmongocrypt/",
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "MongoDB",
+        "Url": "/profiles/MongoDB"
+      }
+    ]
+  },
+  "Package": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download package",
+    "Url": "https://www.nuget.org/api/v2/package/MongoDB.Libmongocrypt/1.3.0"
+  },
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  }
+}

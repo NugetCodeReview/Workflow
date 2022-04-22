@@ -1,0 +1,40 @@
+﻿{
+  "$type": "Workflow.PackageListing, Workflow",
+  "Rank": 90,
+  "PackageName": "sqlitepclraw.lib.e_sqlite3",
+  "PackageListingUrl": "/packages/sqlitepclraw.lib.e_sqlite3/",
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "ericsink",
+        "Url": "/profiles/ericsink"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "SQLitePCLRaw",
+        "Url": "/profiles/SQLitePCLRaw"
+      }
+    ]
+  },
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/ericsink/SQLitePCL.raw.git"
+  },
+  "Package": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download package",
+    "Url": "https://www.nuget.org/api/v2/package/SQLitePCLRaw.lib.e_sqlite3/2.0.7"
+  },
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  }
+}

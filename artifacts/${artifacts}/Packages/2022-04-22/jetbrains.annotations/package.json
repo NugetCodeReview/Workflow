@@ -1,0 +1,45 @@
+﻿{
+  "$type": "Workflow.PackageListing, Workflow",
+  "Rank": 76,
+  "PackageName": "jetbrains.annotations",
+  "PackageListingUrl": "/packages/jetbrains.annotations/",
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "jetbrains",
+        "Url": "/profiles/jetbrains"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "ControlFlow",
+        "Url": "/profiles/ControlFlow"
+      }
+    ]
+  },
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/JetBrains/JetBrains.Annotations.git"
+  },
+  "Package": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download package",
+    "Url": "https://www.nuget.org/api/v2/package/JetBrains.Annotations/2022.1.0"
+  },
+  "SymbolsPackage": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download symbols",
+    "Url": "https://www.nuget.org/api/v2/symbolpackage/JetBrains.Annotations/2022.1.0"
+  },
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  }
+}

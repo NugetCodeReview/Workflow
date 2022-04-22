@@ -1,0 +1,30 @@
+﻿{
+  "$type": "Workflow.PackageListing, Workflow",
+  "Rank": 5,
+  "PackageName": "awssdk.core",
+  "PackageListingUrl": "/packages/awssdk.core/",
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "awsdotnet",
+        "Url": "/profiles/awsdotnet"
+      }
+    ]
+  },
+  "Package": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download package",
+    "Url": "https://www.nuget.org/api/v2/package/AWSSDK.Core/3.7.10.11"
+  },
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  }
+}

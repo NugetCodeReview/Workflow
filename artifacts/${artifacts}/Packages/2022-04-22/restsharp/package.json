@@ -1,0 +1,45 @@
+﻿{
+  "$type": "Workflow.PackageListing, Workflow",
+  "Rank": 52,
+  "PackageName": "restsharp",
+  "PackageListingUrl": "/packages/restsharp/",
+  "Owners": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.Hyperlink, Workflow]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "alexey_zimarev",
+        "Url": "/profiles/alexey_zimarev"
+      },
+      {
+        "$type": "Workflow.Hyperlink, Workflow",
+        "Text": "Ubiquitous",
+        "Url": "/profiles/Ubiquitous"
+      }
+    ]
+  },
+  "Repository": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Source repository",
+    "Url": "https://github.com/restsharp/RestSharp.git"
+  },
+  "Package": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download package",
+    "Url": "https://www.nuget.org/api/v2/package/RestSharp/107.3.0"
+  },
+  "SymbolsPackage": {
+    "$type": "Workflow.Hyperlink, Workflow",
+    "Text": "Download symbols",
+    "Url": "https://www.nuget.org/api/v2/symbolpackage/RestSharp/107.3.0"
+  },
+  "IsWhitelisted": false,
+  "Workflows": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  },
+  "Scripts": {
+    "$type": "System.Collections.Generic.List`1[[Workflow.ContentItem, Workflow]], System.Private.CoreLib",
+    "$values": []
+  }
+}
