@@ -64,8 +64,8 @@ public record PackageListing(int Rank, string? PackageName, string? PackageListi
 
     internal void GetDetails(string baseUrl)
     {
-        Log.Information($"baseUrl: {baseUrl}");
-        Log.Information($"PackageListingUrl: {PackageListingUrl ?? "<<null>>"}");
+        //Log.Information($"baseUrl: {baseUrl}");
+        //Log.Information($"PackageListingUrl: {PackageListingUrl ?? "<<null>>"}");
 
         if (PackageListingUrl is null or "")
         {
@@ -77,7 +77,7 @@ public record PackageListing(int Rank, string? PackageName, string? PackageListi
             Uri uri = new(new Uri(baseUrl), PackageListingUrl);
 
             var listing = NugetOrg.GetHtml(uri).Result;
-            Log.Information($"listing: {listing}");
+            //Log.Information($"listing: {listing}");
 
             if (listing is null)
             {
