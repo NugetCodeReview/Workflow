@@ -24,7 +24,7 @@ jobs:
     env:
       root: ${{ github.workspace }}
       artifacts: '${{ github.workspace }}/artifacts'
-      github_token: ${{ secret.GITHUB_TOKEN }}
+      github_token: ${{ secrets.GITHUB_TOKEN }}
 
     runs-on: ubuntu-latest
     steps:
