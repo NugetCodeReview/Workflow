@@ -48,7 +48,9 @@ public record PackageListing(int Rank, string? PackageName, string? PackageListi
         HostAppBuilder.AppHost.Services.GetRequiredService<IConfiguration>();
 
     const string ownersNodesXpath = "/html/body/div[2]/section/div/aside/div[3]/ul/li";
+    const string ownersNodesXpathAlt = "/html/body/div[3]/section/div/aside/div[3]/ul/li";
     const string anchorsXpath = "/html/body/div[2]/section/div/aside/div[2]/ul/li/a";
+    const string anchorsXpathAlt = "/html/body/div[3]/section/div/aside/div[2]/ul/li/a";
     private const string NUGET_CODE_REVIEW = "NugetCodeReview";
     private const string GIT = ".git";
     private static readonly List<Regex> _expressions;
@@ -75,6 +77,7 @@ public record PackageListing(int Rank, string? PackageName, string? PackageListi
             Uri uri = new(new Uri(baseUrl), PackageListingUrl);
 
             var listing = NugetOrg.GetHtml(uri).Result;
+            Log.Information($"listing: {listing}");
 
             if (listing is null)
             {
@@ -96,7 +99,8 @@ public record PackageListing(int Rank, string? PackageName, string? PackageListi
             var doc = new HtmlDocument();
             doc.LoadHtml(listing);
 
-            var ownersNodes = doc.DocumentNode.SelectNodes(ownersNodesXpath).ToArray();
+            var ownersNodes = doc.DocumentNode.SelectNodes(ownersNodesXpath)?.ToArray();
+            ownersNodes ??= doc.DocumentNode.SelectNodes(ownersNodesXpathAlt)?.ToArray();
             Owners = ParseList(ownersNodes).ToList();
 
             if (_expressions is not null)
@@ -118,7 +122,8 @@ public record PackageListing(int Rank, string? PackageName, string? PackageListi
                 Console.Error.WriteLine("_expressions is null");
             }
 
-            var anchorNodes = doc.DocumentNode.SelectNodes(anchorsXpath);
+            var anchorNodes = doc.DocumentNode.SelectNodes(anchorsXpath)
+                ?? doc.DocumentNode.SelectNodes(anchorsXpathAlt);
             if (anchorNodes is { Count: > 0 })
             {
                 foreach (var anchorNode in anchorNodes)
