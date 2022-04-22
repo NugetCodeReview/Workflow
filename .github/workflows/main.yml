@@ -36,7 +36,7 @@ jobs:
           cd ${root}; 
           pwsh ${root}/.github/workflows/bootstrap.ps1
           cd ${root}/artifacts
-          git add *.zip
+          git add *.zip -f
           git commit -m 'Build Artifacts'
           git push https://sharpninja:${github_token}@github.com/NugetCodeReview/Workflow.git
 
