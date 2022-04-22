@@ -3,6 +3,8 @@ using System.Management.Automation;
 using System.Management.Automation.Runspaces;
 using Newtonsoft.Json;
 
+using Nuke.Common.IO;
+
 using Workflow.Shared;
 
 namespace Workflow.Commands;
@@ -16,7 +18,7 @@ public class GetTopPackagesCmdletCommand : PSCmdlet
         try
         {
             var location = Path.GetDirectoryName(typeof(HostAppBuilder).Assembly!.Location!);
-            HostAppBuilder.BuildAppHost(location!);
+            HostAppBuilder.BuildAppHost(location!, ResultsDirectory, ArtifactsDirectory);
         }
         catch(Exception ex)
         {
@@ -24,6 +26,15 @@ public class GetTopPackagesCmdletCommand : PSCmdlet
             Log.Error(ex, "static GetTopPackagesCmdletCommand()");
         }
     }
+
+#if !DEBUG
+    public static AbsolutePath BinDirectory => ArtifactsDirectory / "bin";
+#else
+    public static AbsolutePath BinDirectory => (AbsolutePath)Path.GetDirectoryName(typeof(HostAppBuilder).Assembly!.Location!);
+#endif
+
+    public static AbsolutePath ArtifactsDirectory => BinDirectory / "artifacts";
+    public static AbsolutePath ResultsDirectory => ArtifactsDirectory / "results";
 
     [System.Management.Automation.Parameter(
         Mandatory = false,
@@ -72,7 +83,7 @@ public class GetTopPackagesCmdletCommand : PSCmdlet
                 try
                 {
                     var location = Path.GetDirectoryName(typeof(HostAppBuilder).Assembly!.Location!);
-                    HostAppBuilder.BuildAppHost(location!);
+                    HostAppBuilder.BuildAppHost(location!, ResultsDirectory, ArtifactsDirectory);
                 }
                 catch (Exception ex)
                 {
@@ -93,7 +104,7 @@ public class GetTopPackagesCmdletCommand : PSCmdlet
             {
                 Log.Debug("Pulling Live Data.");
 
-                List<PackageListing> results = new();
+                List<PackageHeader> results = new();
 
                 var html = NugetOrg.GetHtmlForPackages();
 
