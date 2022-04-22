@@ -62,6 +62,9 @@ public record PackageListing(int Rank, string? PackageName, string? PackageListi
 
     internal void GetDetails(string baseUrl)
     {
+        Log.Information($"baseUrl: {baseUrl}");
+        Log.Information($"PackageListingUrl: {PackageListingUrl ?? "<<null>>"}");
+
         if (PackageListingUrl is null or "")
         {
             throw new ArgumentNullException(nameof(PackageListingUrl));
