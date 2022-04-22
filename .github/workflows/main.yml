@@ -58,4 +58,4 @@ jobs:
           cd ${artifacts}
           unzip workflow.zip
           ls -al
-          workflow ForkTop100 AddWorkflowTop100
+          ./Workflow ForkTop100 AddWorkflowTop100
