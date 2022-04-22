@@ -43,7 +43,7 @@ class Build : NukeBuild
         .Executes(() =>
         {
             List<Exception> failed = new();
-            var dirs = GlobDirectories(RootDirectory / "src", "**/bin", "**/obj", "**/publish", "**/artifacts");
+            var dirs = GlobDirectories(RootDirectory / "src", "**/bin", "**/obj", "**/publish");
             dirs.ForEach(d =>
             {
                 try
@@ -54,6 +54,20 @@ class Build : NukeBuild
                 {
                     failed.Add(ex);
                     Serilog.Log.Error(ex, $"While deleting {d}");
+                }
+            });
+
+            var files = (RootDirectory / "artifacts").GlobFiles("*.zip");
+            files.ForEach(f =>
+            {
+                try
+                {
+                    File.Delete(f);
+                }
+                catch (Exception ex)
+                {
+                    failed.Add(ex);
+                    Serilog.Log.Error(ex, $"While deleting {f}");
                 }
             });
 
