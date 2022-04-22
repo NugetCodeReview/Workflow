@@ -13,13 +13,13 @@ jobs:
   prep:
     runs-on: ubuntu-latest
     steps:
-      - name: Prep 
+      - name: Prep
         run: |
           echo "Event: ${{ github.event_name }}"
           echo "Event: ${{ github.event.action }}"
           echo "Event: ${{ github.event }}"
           echo "Event: ${{ github }}"
-        
+
   build:
     env:
       root: ${{ github.workspace }}
@@ -29,12 +29,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
+
       - name: Build
         if: github.event_name == 'push'
         run: |
-          cd ${root}; 
-          pwsh ${root}/.github/workflows/bootstrap.ps1
+          cd ${root};
+          pwsh ${root}/.github/workflows/bootstrap.ps1 -Configuration Release
           cd ${artifacts}
           git config user.email "ninja@thesharp.ninja"
           git config user.name "GitHub Action"
@@ -52,7 +52,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
+
       # Runs a set of commands using the runners shell
       - name: Pull Top 100
         run: |

@@ -1,3 +1,5 @@
+param([string]$Configuration="Debug")
+
 Write-Host "bootstrap: Entered"
 $root = $env:root ?? (Get-Location)
 Write-Host "`$env:root: $env:root"
@@ -16,7 +18,7 @@ if(Test-Path $root){
             $build = get-item ./build.ps1
             Write-Host "Before build.ps1"
             Write-Host "[$build] PsModule Publish -Verbose"
-            . $build PsModule Publish -Verbose
+            . $build PsModule Publish -Configuration $Configuration
             $last = $LASTEXITCODE
             Write-Host "After build.ps1 ($last)"
             if($last -ne 0) { throw "$build returned exit code $last"; }
